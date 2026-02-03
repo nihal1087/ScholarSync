@@ -1,19 +1,19 @@
 [
   {
     "scholarship_name": "Bath Global Excellence Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
         "PG"
       ]
     },
-    "eligibility": "Students joining a full-time taught Master’s course in September 2026 at the University of Bath are eligible.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students joining a full-time taught Master’s course in September 2026 at the University of Bath.",
     "scholarship_amount": "£10,000",
     "application_deadline": "04-Feb-2026",
     "apply_link": "https://www.bath.ac.uk/campaigns/bath-global-excellence-scholarship/",
@@ -21,100 +21,123 @@
   },
   {
     "scholarship_name": "ICJ Judicial Fellowship Programme 2026",
-    "type": "Fellowship",
+    "category": "Fellowship",
     "tags": {
-      "state": "The Netherlands",
+      "state": "Netherlands",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "Recent law graduates"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Recent law graduates who are 31 years old or younger, with excellent academic results and an interest in public international law, nominated by their universities.",
-    "scholarship_amount": "10 months of professional experience, along with financial assistance, travel and health insurance costs",
+    "scholarship_amount": "Professional experience along with other benefits, including financial assistance, travel and health insurance costs",
     "application_deadline": "05-Feb-2026",
     "apply_link": "https://www.icj-cij.org/judicial-fellows-program",
     "url": "https://www.buddy4study.com/scholarship/icj-judicial-fellowship-programme-2026"
   },
   {
     "scholarship_name": "FIDH ICC Internship 2026",
-    "type": "Internship",
+    "category": "Internship",
     "tags": {
       "state": "Netherlands",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Law",
         "Political Science",
-        "International Relations",
-        "UG",
-        "PG"
+        "International Relations"
       ]
     },
-    "eligibility": "Pursuing studies in International Law, Criminal Law, Political Science, International Relations, or a related field, with an interest in human rights or international justice.",
-    "scholarship_amount": "Monthly stipend, daily contribution toward meal expenses, reimbursement of travel expenses, 12 days RTT, and 2 days paid holiday per month",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Law, Political Science, International Relations, or Related Field Students",
+    "scholarship_amount": "Monthly Stipend and Other Benefits",
     "application_deadline": "06-Feb-2026",
     "apply_link": "https://www.fidh.org/en/com/recruitment/internship-with-the-international-federation-for-human-rights-fidh-32442",
     "url": "https://www.buddy4study.com/scholarship/fidh-icc-internship-2026"
   },
   {
     "scholarship_name": "Teach for India Fellowship 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "Graduate"
       ]
     },
-    "eligibility": "Applicants must be Indian citizens or Overseas Citizens of India, have completed graduation by June/July 2026, and apply between July 2025 and May 2026.",
-    "scholarship_amount": "₹25,344 per month, housing allowance of ₹6,000–12,600, reimbursements for work-related expenses, health insurance of up to ₹1,00,000, and access to career fair after the Fellowship.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Graduate students, Indian citizens or Overseas Citizens of India (OCI) who shall complete graduation by June/July 2026",
+    "scholarship_amount": "₹25,344 per month",
     "application_deadline": "08-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/teach-for-india-fellowship",
+    "apply_link": "https://apply.teachforindia.org/",
     "url": "https://www.buddy4study.com/scholarship/teach-for-india-fellowship"
   },
   {
     "scholarship_name": "ANRF J. C. Bose Grant (JBG) 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Senior scientist/engineer",
-        "UG",
-        "PG",
-        "PhD"
+        "Senior scientists and engineers"
       ]
     },
-    "eligibility": "Applicants must be Indian nationals, 45-65 years of age, active and senior scientists/engineers with a record of outstanding performance in the field of science and technology.",
-    "scholarship_amount": "₹26,00,000 per year (research grant) and ₹1,00,000 per year (fixed overheads to the implementing institution)",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Indian national, 45-65 years of age, active and senior scientist/engineer, record of outstanding performance in the field of science and technology.",
+    "scholarship_amount": "₹26,00,000 per year",
     "application_deadline": "10-Feb-2026",
     "apply_link": "https://anrfonline.in/ANRF/HomePage",
     "url": "https://www.buddy4study.com/scholarship/anrf-j-c-bose-grant-jbg-2026"
   },
   {
+    "scholarship_name": "CIJ Climate Investigations Training Scholarship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "United Kingdom",
+      "gender": "All",
+      "class": [
+        "Early-mid career journalist"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Early-mid career journalist who lives and works in any country in Africa, Latin America, West Asia, or South Asia, with experience or demonstrable interest in environmental or climate reporting.",
+    "scholarship_amount": "Up to £2,638",
+    "application_deadline": "11-Feb-2026",
+    "apply_link": "https://tcij.org/news/climate-investigations-training-scholarship-2026/",
+    "url": "https://www.buddy4study.com/scholarship/cij-climate-investigations-training-scholarship-2026"
+  },
+  {
     "scholarship_name": "BOC Scholarship Odisha 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Odisha",
       "gender": "All",
-      "religion": "General / ST / SC / OBC / SEBC",
       "class": [
-        "I.T.I",
-        "I.T.C",
+        "ITI",
         "Polytechnic",
         "Diploma"
       ]
     },
-    "eligibility": "Applicant must be a permanent resident of Odisha, belong to General, ST, SC, OBC and SEBC categories, and be an I.T.I./I.T.C.Polytechnic/Diploma student.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Permanent resident of Odisha, enrolled in ITI or Polytechnic courses, belong to General, ST, SC, OBC and SEBC categories.",
     "scholarship_amount": "Variable financial assistance",
     "application_deadline": "12-Feb-2026",
     "apply_link": "https://scholarship.odisha.gov.in/website/scholarship-details",
@@ -122,20 +145,19 @@
   },
   {
     "scholarship_name": "University of Oregon ICSP Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "United States",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "International students at the University of Oregon"
       ]
     },
-    "eligibility": "International students at the University of Oregon who are admissible or fully admitted, not U.S. citizens, U.S. permanent residents, or eligible to receive U.S. federal financial assistance, and have a minimum cumulative GPA of 3.5.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "International students at the University of Oregon. Must be admissible or fully admitted to the University of Oregon, not be U.S. citizens, U.S. permanent residents, or eligible to receive U.S. federal financial assistance, must demonstrate sufficient financial resources in addition to the scholarship, have a minimum cumulative GPA of 3.5.",
     "scholarship_amount": "Partial tuition waiver",
     "application_deadline": "13-Feb-2026",
     "apply_link": "https://isss.uoregon.edu/icsp/application",
@@ -143,642 +165,785 @@
   },
   {
     "scholarship_name": "Reuters-Oxford Journalism Fellowship Programme 2026-27",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
-      "class": [
-        "Mid-career journalists"
-      ]
+      "class": []
     },
-    "eligibility": "Applicants must have a minimum of five years' journalistic experience, be working as a journalist, and intend to return to journalistic work after completing the fellowship.",
-    "scholarship_amount": "Monthly stipend of £2,000, travel expenses, visa expenses, and other benefits",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Mid-career journalists with a minimum of five years’ journalistic experience, or in exceptional cases be able to demonstrate an equivalent level of journalistic expertise.",
+    "scholarship_amount": "£2,000 ( ₹2,43,777 approx.)",
     "application_deadline": "13-Feb-2026",
     "apply_link": "https://reutersinstitute.politics.ox.ac.uk/our-journalist-fellowship-programme",
     "url": "https://www.buddy4study.com/scholarship/reuters-oxford-journalism-fellowship-programme-2026"
   },
   {
     "scholarship_name": "Nehru Trust's UK Travel Awards 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Scholars",
-        "Professionals"
+        "Scholars and professionals in museums, galleries, universities or other specified institutions"
       ]
     },
-    "eligibility": "Indian citizens, scholars or professionals working in museums, galleries, universities or other specified institutions concerned with the preservation, study and display of India's art and cultural heritage.",
-    "scholarship_amount": "Up to £1,500 and airfare",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Indian citizen, established scholar or professional working in museums, galleries, universities or other specified institutions concerned with the preservation, study and display of India's art and cultural heritage",
+    "scholarship_amount": "£1,500",
     "application_deadline": "15-Feb-2026",
     "apply_link": "http://www.nehrutrustvam.org/awards/uk-travel-awards",
     "url": "https://www.buddy4study.com/scholarship/nehru-trusts-uk-travel-awards-2026"
   },
   {
     "scholarship_name": "Government of Brunei Darussalam Scholarship 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Brunei",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Students having applied for UG and PG degree programmes, not exceeding 25 years for UG and Diploma courses, and 35 years for PG Master's degree courses, with English language proficiency.",
-    "scholarship_amount": "Full tuition fee, monthly personal allowance of BND$500.00, monthly meals allowance of BND$150.00, annual book allowance of BND$600.00, accommodation, baggage allowance, and comprehensive insurance coverage.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students having applied for a UG and PG degree programmes, not exceed the age of 25 years (for UG and Diploma courses), not exceed the age of 35 years (for PG Master’s degree courses), demonstrate English language proficiency",
+    "scholarship_amount": "Full tuition fee, monthly personal allowance, and other benefits",
     "application_deadline": "15-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/government-of-brunei-darussalam-scholarship",
+    "apply_link": "https://www.mfa.gov.bn/Pages/scholarship.aspx",
     "url": "https://www.buddy4study.com/scholarship/government-of-brunei-darussalam-scholarship"
   },
   {
-    "scholarship_name": "IIM Rohtak Doctoral Programme in Management 2026-30",
-    "type": "Scholarship",
+    "scholarship_name": "IIM Rohtak Doctoral Programme in Management",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "PhD",
+        "Ph.D."
+      ]
+    },
+    "requirements": {
+      "min_percentage": 55,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Ph.D. applicants with a Post-Graduate degree or equivalent in any discipline with at least 55% marks or an equivalent CGPA.",
+    "scholarship_amount": "Up to ₹50,000 per month with other benefits",
+    "application_deadline": "17-Feb-2026",
+    "apply_link": "https://www.iimrohtak.ac.in/dpm.php",
+    "url": "https://www.buddy4study.com/scholarship/iim-rohtak-doctoral-programme-in-management-2026"
+  },
+  {
+    "scholarship_name": "World Bank Group’s Premier Internship Program 2026",
+    "category": "Internship",
+    "tags": {
+      "state": "United States",
+      "gender": "All",
+      "class": [
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Applicants must have a Post-Graduate degree or equivalent in any discipline with at least 55% marks or an equivalent CGPA, or meet other specified qualifications.",
-    "scholarship_amount": "Up to ₹50,000 per month with other benefits",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Final-year undergraduate students and graduate students currently pursuing a master's degree or Ph.D. with 0 to 6 years of professional experience are eligible to apply for the internship.",
+    "scholarship_amount": "Hourly salary for 6 months",
     "application_deadline": "17-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/iim-rohtak-doctoral-programme-in-management-2026",
-    "url": "https://www.buddy4study.com/scholarship/iim-rohtak-doctoral-programme-in-management-2026"
+    "apply_link": "https://www.worldbank.org/en/about/careers/WBG-Pioneers#5",
+    "url": "https://www.buddy4study.com/scholarship/world-bank-groups-premier-internship-program-2026"
+  },
+  {
+    "scholarship_name": "WFN Junior Travelling Fellowships 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "United Kingdom",
+      "gender": "All",
+      "class": [
+        "Young neurologists"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Young neurologists in training or early in their career from low- or lower-middle-income countries, who hold an M.D. degree or equivalent, are not above Associate Professor level, and are no older than 45 years of age.",
+    "scholarship_amount": "up to £1,000",
+    "application_deadline": "20-Feb-2026",
+    "apply_link": "https://wfneurology.org/junior-travelling-fellowships",
+    "url": "https://www.buddy4study.com/scholarship/wfn-junior-travelling-fellowships-2026"
   },
   {
     "scholarship_name": "Turkiye Scholarships 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "International",
+      "state": "Turkey",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Associate",
         "UG",
         "PG",
-        "PhD"
+        "Ph.D."
       ]
     },
-    "eligibility": "International students pursuing associate, UG, PG, and PhD levels at universities in Turkey, with age limits and academic requirements.",
+    "requirements": {
+      "min_percentage": 70,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students pursuing associate, UG, PG and Ph.D. levels. Must be an international citizen, willing to pursue studies at the universities in Turkey, and below the age of 21 for UG/Associate, 30 for PG level, 35 for Ph.D., and 50 for Research scholarship.",
     "scholarship_amount": "Up to ₺9,000 and other benefits",
     "application_deadline": "20-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/turkiye-scholarships-2026",
+    "apply_link": "https://www.turkiyeburslari.gov.tr/",
     "url": "https://www.buddy4study.com/scholarship/turkiye-scholarships-2026"
   },
   {
     "scholarship_name": "UCL India Excellence Scholarship 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "Bachelor's",
+        "Master's"
       ]
     },
-    "eligibility": "Applicants must be permanently domiciled in India, hold a bachelor's degree or be enrolled in the final year of a bachelor's degree, and have secured a GPA equivalent to a UK first-class degree.",
-    "scholarship_amount": "GBP 5,000 (approximately ₹6,27,846)",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Master's degree applicants, permanently domiciled in India, bachelor's degree GPA equivalent to a UK first-class degree, enrolled in the final year of a bachelor's degree in a Top 100 NIRF institution.",
+    "scholarship_amount": "₹6,27,846 (approximately £5,000) for one year",
     "application_deadline": "26-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/ucl-india-excellence-scholarship-2026",
+    "apply_link": "https://www.ucl.ac.uk/scholarships/ucl-india-excellence-scholarship",
     "url": "https://www.buddy4study.com/scholarship/ucl-india-excellence-scholarship-2026"
   },
   {
-    "scholarship_name": "F. M. Kirby Foundation Internship Program 2026",
-    "type": "Internship",
+    "scholarship_name": "Newcastle University Vice-Chancellor’s Excellence Undergraduate Scholarship 2026",
+    "category": "Scholarship",
     "tags": {
-      "state": "New Jersey",
+      "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "College Sophomore",
-        "College Junior",
-        "College Senior"
+        "Undergraduate"
       ]
     },
-    "eligibility": "Rising college sophomores, juniors, and seniors with a GPA of 3.2 or higher who qualified for need-based financial aid in the previous school year and have an interest in philanthropy or nonprofit management.",
-    "scholarship_amount": "$23 per hour for approximately 20-25 hours per week over 10 weeks, and a one-time travel stipend",
-    "application_deadline": "27-Feb-2026",
-    "apply_link": "https://fmkirbyfoundation.org/internship-program/#",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "International students commencing undergraduate studies at Newcastle University are eligible to apply for the scholarship.",
+    "scholarship_amount": "Up to 50% off tuition fees",
+    "application_deadline": "26-Feb-2026",
+    "apply_link": "https://www.ncl.ac.uk/undergraduate/fees-funding/scholarships-bursaries/vc-excellence/",
+    "url": "https://www.buddy4study.com/scholarship/newcastle-university-vice-chancellors-excellence-undergraduate-scholarship-2026"
+  },
+  {
+    "scholarships": [
+      {
+        "scholarship_name": "FM Kirby Foundation Internship Program",
+        "category": "Internship",
+        "tags": {
+          "state": null,
+          "gender": null,
+          "class": null
+        },
+        "requirements": {
+          "min_percentage": 0,
+          "max_family_income": 999999999
+        },
+        "eligibility": null,
+        "scholarship_amount": null,
+        "application_deadline": null,
+        "apply_link": null
+      }
+    ],
     "url": "https://www.buddy4study.com/scholarship/f-m-kirby-foundation-internship-program-2026"
   },
   {
     "scholarship_name": "Ashinaga Foundation Spring-Summer Internship 2026",
-    "type": "Internship",
+    "category": "Internship",
     "tags": {
       "state": "Japan",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Graduate students",
-        "Young professionals",
-        "University students"
+        "Young professionals"
       ]
     },
-    "eligibility": "University students, graduate students, and young professionals with a strong interest in social impact, education, or international development.",
-    "scholarship_amount": "¥1,000 per working day",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Graduate students and young professionals with a strong interest in social impact, education, or international development.",
+    "scholarship_amount": "¥1000 per working day",
     "application_deadline": "27-Feb-2026",
     "apply_link": "https://ashinagainternship.my.canva.site/en-home",
     "url": "https://www.buddy4study.com/scholarship/ashinaga-foundation-spring-summer-internship-2026"
   },
   {
     "scholarship_name": "MBZUAI Undergraduate Research Internship Program (UGRIP) 2025",
-    "type": "Scholarship",
+    "category": "Internship",
     "tags": {
       "state": "United Arab Emirates",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "UG"
       ]
     },
-    "eligibility": "Undergraduate students in AI-related fields, minimum CGPA 3.5, 3 years of undergraduate study, strong academic performance, research potential, and proficiency in English.",
-    "scholarship_amount": "Fully funded internship with additional benefits",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "UG students in AI-related fields with at least 3 years of study completed, expected to graduate after August 2026, minimum CGPA of 3.5 (on a 4.0 scale) or equivalent, proficient in the English language (TOEFL/IELTS/Equivalent)",
+    "scholarship_amount": "Fully funded internship",
     "application_deadline": "28-Feb-2026",
     "apply_link": "https://mbzuai.ac.ae/ugrip/",
     "url": "https://www.buddy4study.com/scholarship/mbzuai-undergraduate-research-internship-program-ugrip-2025"
   },
   {
-    "scholarship_name": "KWI International Fellowship Program 2026",
-    "type": "Scholarship",
+    "scholarship_name": "PM YASASVI Post-Matric Scholarship Scheme For OBC, EBC, And DNT Students, Haryana",
+    "category": "Scholarship",
     "tags": {
-      "state": "International",
+      "state": "Haryana",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "PhD",
+        "Class 11",
+        "UG",
+        "PG",
         "Postdoctoral"
       ]
     },
-    "eligibility": "International postdoctoral and senior researchers with a PhD who are conducting research in cultural studies, humanities, or social sciences.",
-    "scholarship_amount": "€3,000 monthly allowance",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 250000
+    },
+    "eligibility": "Students in Class 11 to Postdoctoral level, domicile of Haryana, belong to OBC, EBC or DNT category, studying at a post-metric or post-secondary level of education at a government-recognised institution",
+    "scholarship_amount": "Academic allowances and other benefits",
+    "application_deadline": "28-Feb-2026",
+    "apply_link": "https://www.buddy4study.com/scholarship/pm-yasasvi-postmatric-scholarship-scheme-for-obc-ebc-and-dnt-students-haryana-2025",
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-postmatric-scholarship-scheme-for-obc-ebc-and-dnt-students-haryana-2025"
+  },
+  {
+    "scholarship_name": "KWI International Fellowship Program 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "Germany",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "International postdoctoral and senior researchers with a PhD who are conducting research in cultural studies, humanities, or social sciences that align with KWI's research focus are eligible to apply for the fellowship.",
+    "scholarship_amount": "€3,000 per month",
     "application_deadline": "28-Feb-2026",
     "apply_link": "https://www.kulturwissenschaften.de/wp-content/uploads/2025/12/call-international-fellowships-october-26.pdf",
     "url": "https://www.buddy4study.com/scholarship/kwi-international-fellowship-program-2026"
   },
   {
     "scholarship_name": "Ute and György Széll International PhD Scholarship 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Germany",
       "gender": "All",
-      "religion": "All",
       "class": [
         "PhD"
       ]
     },
-    "eligibility": "Enrolled PhD students in Social Sciences or Humanities with a research plan and invitation from a host PhD supervisor in Germany.",
-    "scholarship_amount": "€1,450 monthly stipend, €1,300 annual allowance for travel expenses, and a six-month research stay at a German university or research institution.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "PhD students enrolled in social sciences or humanities programs who demonstrate political, cultural, and social engagement and have secured an invitation from a German host supervisor.",
+    "scholarship_amount": "€1,450 monthly stipend and €1,300 annual allowance",
     "application_deadline": "28-Feb-2026",
     "apply_link": "https://www.boeckler.de/de/international-scholarships-33846.htm",
     "url": "https://www.buddy4study.com/scholarship/ute-and-gyorgy-szell-international-phd-scholarship-2026"
   },
   {
     "scholarship_name": "DMI Patna PGDM Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "Bihar",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Applicants must hold a Bachelor's degree in any discipline, have a minimum of 50% aggregate marks, and have acquired a valid score in CAT 2025/XAT 2026/GMAT (2022-26)/CMAT 2026/MAT (September 2025 or later).",
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Management applicants holding a Bachelor’s degree in any discipline with a minimum of 50% aggregate marks (45% for SC/ST/Differently Abled students) from a recognised/deemed university/institute by UGC/AICTE and a valid score in CAT 2025/XAT 2026/GMAT (2022-26)/CMAT 2026/MAT (September 2025 or later)",
     "scholarship_amount": "Up to 100% tuition fee waiver",
     "application_deadline": "28-Feb-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/dmi-patna-pgdm-scholarship-2026",
+    "apply_link": "https://admissions.dmi.ac.in/",
     "url": "https://www.buddy4study.com/scholarship/dmi-patna-pgdm-scholarship-2026"
   },
   {
     "scholarship_name": "Norwegian BI Presidential Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Norway",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Norwegian and international students residing in Norway with a minimum overall GPA of 'A' on the ECTS scale or the equivalent top-level grade on international grade scales, admitted to the first year of a Master of Science degree programme at campus Oslo or campus Bergen.",
-    "scholarship_amount": "Full tuition-fee for up to 2 years and a stipend of NOK 50,000 (approx. ₹ 4,43,329) per semester",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Norwegian and international students residing in Norway with a minimum overall GPA of 'A' on the ECTS scale or the equivalent top-level grade on international grade scales.",
+    "scholarship_amount": "Full tuition-fee and a stipend of NOK 50,000 per semester",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://www.bi.no/en/programmes-and-individual-courses/scholarships/bi-presidential-scholarships/#how-to-apply_365139",
     "url": "https://www.buddy4study.com/scholarship/norwegian-bi-presidential-scholarship"
   },
   {
     "scholarship_name": "Heinrich Böll Foundation Doctoral Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "Germany / International / All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "Doctoral"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Doctoral students from Germany or other countries are eligible for this scholarship.",
-    "scholarship_amount": "€1650 per month, €100 mobility allowance per month, and other individual allowances",
+    "scholarship_amount": "€1650 per month and other benefits",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://www.boell.de/de/stipendium-promotion",
     "url": "https://www.buddy4study.com/scholarship/heinrich-boll-foundation-doctoral-scholarship"
   },
   {
     "scholarship_name": "University of Glasgow India Excellence Award 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
         "PG"
       ]
     },
-    "eligibility": "International students from India with international fee status, pursuing a full-time one-year postgraduate taught Master's programme in any discipline.",
-    "scholarship_amount": "£12,500 tuition fee waiver for one year of study",
+    "requirements": {
+      "min_percentage": 85,
+      "max_family_income": 999999999
+    },
+    "eligibility": "International students from India commencing full-time one-year postgraduate taught Master's programmes at the university for the September 2026 intake are eligible to apply for the excellence award.",
+    "scholarship_amount": "£12,500",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://www.gla.ac.uk/scholarships/indiaexcellenceaward/#eligiblecountries%2Fregions",
     "url": "https://www.buddy4study.com/scholarship/university-of-glasgow-india-excellence-award-2026"
   },
   {
     "scholarship_name": "Wells Mountain Foundation Scholarship 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "International",
+      "state": "Abroad",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "UG"
       ]
     },
-    "eligibility": "Applicants must be 35 years old or younger, have completed secondary education, be applying to a university or currently enrolled in classes for their first undergraduate degree, plan to live and work in their home country after graduation, have participated in volunteer service, and display the need for financial assistance.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students pursuing undergraduate degrees, be 35 years old or younger as of 1 August 2026, have completed secondary education or be in the final year, with above-average to excellent grade, be applying to a university or currently enrolled in classes for their first undergraduate degree, plan to live and work in their home country after graduation, have participated in volunteer service prior to applying for the scholarship and demonstrate a commitment to volunteering within their community during their studies, display the need for financial assistance",
     "scholarship_amount": "Up to USD 3,000 per annum",
     "application_deadline": "01-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/wells-mountain-foundation-scholarship-2026",
+    "apply_link": "https://apply.mykaleidoscope.com/program/wellsmountainscholarsprogram2025",
     "url": "https://www.buddy4study.com/scholarship/wells-mountain-foundation-scholarship-2026"
   },
   {
     "scholarship_name": "DAWN Rising Fellowships 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
-      "state": "International",
+      "state": "Fiji",
       "gender": "Female",
-      "religion": "All",
-      "class": [
-        "UG",
-        "PG"
-      ]
+      "class": []
     },
-    "eligibility": "Women feminists under the age of 40 from the Global South.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Women feminists under the age of 40, from the Global South, demonstrating a commitment to feminist principles and methodologies.",
     "scholarship_amount": "USD 1,200 per month for 10 months",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://www.dawnfeminist.org/what-we-do/capacity-building/dawn-fellowship-for-young-women-feminists-from-the-global-south-2026",
     "url": "https://www.buddy4study.com/scholarship/dawn-rising-fellowships-2026"
   },
   {
-    "scholarship_name": "ACU International Student Accommodation Scholarship",
-    "type": "Scholarship",
+    "scholarship_name": "ACU International Student Accommodation Scholarship 2025-26",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "Australia",
       "gender": "All",
-      "religion": "Minority",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "UG"
       ]
     },
-    "eligibility": "International students are eligible for this scholarship.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/acu-international-student-accommodation-scholarship#",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "International students enrolled in any undergraduate degree at ACU, enrolled in Semester 1, 2026, and enrolled in the Canberra, North Sydney, Strathfield, Blacktown, or Ballarat on-campus mode of study.",
+    "scholarship_amount": "20% reduction of ACU student accommodation fees",
+    "application_deadline": "01-Mar-2026",
+    "apply_link": "https://acu.smapply.io/prog/acu_international_student_accommodation_scholarship/",
     "url": "https://www.buddy4study.com/scholarship/acu-international-student-accommodation-scholarship-2025"
   },
   {
     "scholarship_name": "Taiwan Visiting Program Fellowship 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
-      "state": "International",
+      "state": "Abroad",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "PhD",
-        "UG",
-        "PG"
+        "Scholars and researchers"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Academics, postdoctoral researchers, and professionals working on Taiwan-related research fields are eligible for the fellowship.",
-    "scholarship_amount": "Up to USD 30,000",
+    "scholarship_amount": "USD 30,000",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://aparc.fsi.stanford.edu/education/fellowship-and-training-opportunities/contemporary-taiwan-fellowships",
     "url": "https://www.buddy4study.com/scholarship/taiwan-visiting-program-fellowship-2026"
   },
   {
-    "scholarship_name": "Stanford Next Asia Policy Visiting Fellowship 2026-2027",
-    "type": "Scholarship",
+    "scholarship_name": "Stanford Next Asia Policy Visiting Fellowship 2026",
+    "category": "Fellowship",
     "tags": {
       "state": "United States",
       "gender": "All",
-      "religion": "All",
-      "class": [
-        "Ph.D.",
-        "Mid-career professionals"
-      ]
+      "class": []
     },
-    "eligibility": "Applicants must be researchers or professionals from the Asia-Pacific region, hold a Ph.D. degree or demonstrate substantial professional achievement, have an ongoing affiliation with an external institution, and be proficient in English.",
-    "scholarship_amount": "USD 30,000 supplementary stipend for one academic year",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Ph.D. holders or mid-career professionals from the Asia-Pacific region",
+    "scholarship_amount": "USD 30,000",
     "application_deadline": "01-Mar-2026",
     "apply_link": "https://aparc.fsi.stanford.edu/education/fellowship-and-training-opportunities/stanford-next-asia-policy-lab-fellowships",
     "url": "https://www.buddy4study.com/scholarship/stanford-next-asia-policy-visiting-fellowship-2026"
   },
   {
     "scholarship_name": "President's PhD Scholarships, Imperial College London 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
         "PhD"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Ph.D. applicants with a first-class or equivalent in an undergraduate or integrated Master’s degree, or a distinction in a standalone Master’s qualification.",
-    "scholarship_amount": "Fully funded tuition with a stipend of GBP 26,500 per annum, a consumables fund of GBP 2,000 per annum, and other benefits.",
+    "scholarship_amount": "Fully funded tuition with additional benefits",
     "application_deadline": "02-Mar-2026",
     "apply_link": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/#outcome",
     "url": "https://www.buddy4study.com/scholarship/presidents-phd-scholarships-imperial-college-london-2026"
   },
   {
-    "scholarship_name": "Post-Matric Scholarship for ST, SC and MBC Students, Odisha 2025-26",
-    "type": "Scholarship",
+    "scholarship_name": "Post-Matric Scholarship for ST, SC and MBC Students, Odisha",
+    "category": "Scholarship",
     "tags": {
       "state": "Odisha",
       "gender": "All",
-      "religion": "Minority / SC/ST",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Applicant must be a domicile of Odisha, belong to a Scheduled Tribe (ST), Scheduled Caste (SC) or Minorities & Backward Classes (MBC), pursuing higher education in specified disciplines, and have an annual family income of not more than ₹2,50,000.",
-    "scholarship_amount": "Financial assistance up to ₹5,50,000 per annum with an annual maintenance allowance of up to ₹13,500.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 250000
+    },
+    "eligibility": "Postmatric students, domicile of Odisha, Scheduled Tribe (ST), Scheduled Caste (SC) or Minorities & Backward Classes (MBC), pursuing graduation/postgraduation in specified disciplines, annual family income not more than ₹2,50,000",
+    "scholarship_amount": "₹5,50,000 per annum with an annual maintenance allowance of up to ₹13,500",
     "application_deadline": "05-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-st-sc-and-mbc-students-odisha-2025",
+    "apply_link": "https://scholarship.odisha.gov.in/website/scholarship-details",
     "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-st-sc-and-mbc-students-odisha-2025"
   },
   {
     "scholarship_name": "Imperial College London Widening Participation Postgraduate Scholarship 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "Postgraduate"
       ]
     },
-    "eligibility": "International students pursuing a MRes program at Imperial College London are eligible.",
-    "scholarship_amount": "£4,999 (one-time)",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Postgraduate students, international (overseas) students, pursuing a MRes program at Imperial College London: MRes Neurotechnology, MRes Bioengineering, MRes Cancer Technology",
+    "scholarship_amount": "£4,999",
     "application_deadline": "11-Mar-2026",
     "apply_link": "https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/widening-participation-postgraduate-scholarship-20262027.php",
     "url": "https://www.buddy4study.com/scholarship/imperial-college-london-widening-participation-postgraduate-scholarship-2026"
   },
   {
     "scholarship_name": "The British Academy International Fellowship 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
       "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
-      "class": [
-        "PhD",
-        "UG",
-        "PG"
-      ]
+      "class": []
     },
-    "eligibility": "Applicants must hold a PhD from a non-UK university, have no more than five years of active full-time postdoctoral experience, be working outside the UK, not hold UK citizenship, be competent in oral and written English, and have a clearly defined and mutually-beneficial research proposal agreed with a UK host researcher.",
-    "scholarship_amount": "Fellowship of up to £20,000, including full salary, research expenses of up to £12,000, and relocation costs of up to £8,000",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Early career researchers with a PhD from a non-UK university, no more than five years of postdoctoral experience, currently working outside the UK, without UK citizenship, and with a clearly defined research proposal agreed with a UK host researcher are eligible to apply for the fellowship.",
+    "scholarship_amount": "Up to £20,000",
     "application_deadline": "11-Mar-2026",
     "apply_link": "https://www.thebritishacademy.ac.uk/funding/schemes/international-fellowships/",
     "url": "https://www.buddy4study.com/scholarship/the-british-academy-international-fellowship-2026"
   },
   {
     "scholarship_name": "University of Nottingham, UK International Undergraduate Excellence Scholarships 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "UG"
       ]
     },
-    "eligibility": "International, self-funded, fee-payer students with AAA grades or international equivalent, holding an offer to begin a full-time undergraduate degree programme at the University of Nottingham, UK.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Undergraduate students, be an international, self-funded, fee-payer student, have achieved AAA grades or international equivalent, hold an offer to begin a full-time undergraduate (RQF level 4) degree programme for 2026-27 at the University of Nottingham, UK, not be receiving any other funding",
     "scholarship_amount": "Up to GBP 2,000",
     "application_deadline": "11-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-nottingham-uk-international-undergraduate-excellence-scholarships-2026",
+    "apply_link": "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships-funding-finance/uk-ug.aspx",
     "url": "https://www.buddy4study.com/scholarship/university-of-nottingham-uk-international-undergraduate-excellence-scholarships-2026"
   },
   {
     "scholarship_name": "Tingshua University Amgen Scholars Program 2026",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "China",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "UG"
       ]
     },
-    "eligibility": "Students enrolled in a Bachelor’s degree programme in Asian universities/colleges",
-    "scholarship_amount": "CNY 10,000 (₹1,23,537 approx.) and other benefits",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students enrolled in a Bachelor’s degree programme in Asian universities/colleges.",
+    "scholarship_amount": "CNY 10,000 (₹1,23,537 approx.)",
     "application_deadline": "15-Mar-2026",
     "apply_link": "https://tsinghuaamgenscholars.com/2.html",
     "url": "https://www.buddy4study.com/scholarship/tingshua-university-amgen-scholars-program-2026"
   },
   {
+    "scholarship_name": "Taiwan ICDF International Higher Education Scholarship Program 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Taiwan",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG",
+        "Ph.D."
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Citizens of India, secure highest-level diploma certificate before 31st July 2026, fulfill requirements of partner university, resident visa requirements, Alien Resident Certificate (ARC) requirements",
+    "scholarship_amount": "Up to TWD 20,000 per month",
+    "application_deadline": "15-Mar-2026",
+    "apply_link": "https://www.icdf.org.tw/wSite/ct?xItem=69338&ctNode=31566&mp=2",
+    "url": "https://www.buddy4study.com/scholarship/taiwan-icdf-international-higher-education-scholarship-program-2026"
+  },
+  {
     "scholarship_name": "Oskar Morgenstern Fellowship Program 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
       "state": "United States",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Graduate",
-        "PhD"
+        "Graduate"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Graduate students, scholars, and practitioners from any discipline with an interest in political economy and emerging technologies such as artificial intelligence.",
-    "scholarship_amount": "$2,250 stipend and all required readings",
+    "scholarship_amount": "$2,250",
     "application_deadline": "15-Mar-2026",
     "apply_link": "https://www.mercatus.org/students/oskar-morgenstern-fellowship#2392643287-25203644",
     "url": "https://www.buddy4study.com/scholarship/oskar-morgenstern-fellowship-program-2026"
   },
   {
-    "scholarship_name": "NGSF Internship Program 2025",
-    "type": "Internship",
+    "scholarship_name": "NGSF Internship Program 2025-26",
+    "category": "Internship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Undergraduate/postgraduate students interested in life science-associated internships for a period of 2-3 months.",
-    "scholarship_amount": "Up to ₹6,000 per month for on-site internships and ₹3,000 for remote internships.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Undergraduate/postgraduate students interested in undertaking a life science-associated internship for a period of two (minimum of 56 days) or three (minimum of 84 days) months.",
+    "scholarship_amount": "₹6,000 per month (on-site), ₹3,000 per month (remote)",
     "application_deadline": "15-Mar-2026",
     "apply_link": "https://www.buddy4study.com/scholarship/ngsf-internship-program-2025",
     "url": "https://www.buddy4study.com/scholarship/ngsf-internship-program-2025"
   },
   {
     "scholarship_name": "Frédéric Bastiat Fellowship 2026-27",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
       "state": "United States",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Master's",
-        "Juris Doctor (JD)",
-        "Doctoral (PhD)"
+        "Graduate"
       ]
     },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
     "eligibility": "Graduate students enrolled in master's, juris doctoral, or doctoral programs from any university, in any discipline, with an interest in public policy.",
-    "scholarship_amount": "$5,000 for 1 year",
+    "scholarship_amount": "Up to $5,000",
     "application_deadline": "15-Mar-2026",
     "apply_link": "https://www.mercatus.org/students/frederic-bastiat-fellowship#2392643287-447368638",
     "url": "https://www.buddy4study.com/scholarship/frederic-bastiat-fellowship-2026"
   },
   {
     "scholarship_name": "NIAS Fellowship 2026",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
       "state": "Netherlands",
       "gender": "All",
-      "religion": "All",
-      "class": [
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "class": []
     },
-    "eligibility": "International students with a PhD degree in humanities and social sciences, with at least three years of research experience.",
-    "scholarship_amount": "Stipend, travel expenses, accommodation, NIAS Library, and facilities for the organisation of an Expert Workshop",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Researchers in the field of humanities and social sciences with at least three years of research experience since obtaining a doctorate, a strong command of English language, and a project proposal related to the fields of Humanities and Social Sciences.",
+    "scholarship_amount": "Stipend and other benefits",
     "application_deadline": "16-Mar-2026",
     "apply_link": "https://nias.knaw.nl/fellowships/nias-individual-fellowship/",
     "url": "https://www.buddy4study.com/scholarship/nias-fellowship-2026"
   },
   {
     "scholarship_name": "Ashoka University Young India Fellowship 2026-27",
-    "type": "Scholarship",
+    "category": "Fellowship",
     "tags": {
-      "state": "All India",
+      "state": "India",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Graduates and final-year undergraduate students holding a recognised undergraduate degree or equivalent in any discipline, or be a final-year undergraduate student who will complete their degree by summer 2026.",
-    "scholarship_amount": "Partial or fully funded fellowship",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Graduates and final-year undergraduate",
+    "scholarship_amount": "Partial or fully funded",
     "application_deadline": "23-Mar-2026",
     "apply_link": "https://apply.ashoka.edu.in/SocialLogin.aspx",
     "url": "https://www.buddy4study.com/scholarship/ashoka-university-young-india-fellowship-2026"
   },
   {
     "scholarship_name": "Ireland International Education Scholarship 2026-27",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "International",
+      "state": "Ireland",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Master's",
         "Postgraduate Diploma",
         "PhD"
       ]
     },
-    "eligibility": "Graduated students from non-EU/EEA countries with a conditional or final offer at the time of application.",
-    "scholarship_amount": "Up to €10,000 (approximately ₹10,90,070)",
-    "application_deadline": "12th Mar 2026",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Graduated students, domiciled in non-EU/EEA, have conditional or final offer at the time of application",
+    "scholarship_amount": "€10,000 (approximately ₹10,90,070)",
+    "application_deadline": "26-Mar-2026",
     "apply_link": "https://webportalapp.com/sp/login/heagrantapplication_25",
     "url": "https://www.buddy4study.com/scholarship/ireland-international-education-scholarship-2026"
   },
   {
-    "scholarship_name": "Classic IAS Academy Affordable Coaching Program 2024-25",
-    "type": "Scholarship",
+    "scholarship_name": "Imperial College London Imperial Excellence Scholarship 2026-27",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "United Kingdom",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "M.Sc."
       ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "M.Sc. applicants who embody the values of Imperial College Business School and show potential to make a meaningful impact within the academic community and beyond.",
+    "scholarship_amount": "Up to £15,000",
+    "application_deadline": "30-Mar-2026",
+    "apply_link": "https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/imperial-excellence-scholarship-20262027.php",
+    "url": "https://www.buddy4study.com/scholarship/imperial-college-london-imperial-excellence-scholarship-2026"
+  },
+  {
+    "scholarship_name": "Classic IAS Academy Affordable Coaching Program 2024-25",
+    "category": "Scholarship",
+    "tags": {
+      "state": "India",
+      "gender": "All",
+      "class": [
+        "Students seeking to pursue an IAS coaching program"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
     },
     "eligibility": "Students seeking to pursue an IAS coaching program",
     "scholarship_amount": "₹22,000 (66% waiver on the actual fee)",
@@ -788,80 +953,81 @@
   },
   {
     "scholarship_name": "Post-Matric Scholarship for OBC Students, Delhi 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Delhi",
       "gender": "All",
-      "religion": "OBC",
       "class": [
         "Class 11",
-        "Class 12",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Indian citizen, domiciled in Delhi, OBC category, studying at post-matriculation/post-secondary level, annual parent(s)/guardian income not more than ₹1,00,000, and secured an attendance of at least 75% in the previous year.",
-    "scholarship_amount": "Up to ₹750 per month with other benefits",
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 100000
+    },
+    "eligibility": "OBC students in Class 11 and above, Indian citizen, domiciled in Delhi, studying at the post-matriculation/post-secondary level of studies in a government-recognised institution, annual parent(s)/guardian income of not more than ₹1,00,000",
+    "scholarship_amount": "Up to ₹750 per month",
     "application_deadline": "31-May-2026",
     "apply_link": "http://www.edistrict.delhigovt.nic.in/",
     "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-obc-students-delhi-2025"
   },
   {
     "scholarship_name": "Vocational Training Fee Reimbursement for SC Students, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "SC",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "SC category students"
       ]
     },
-    "eligibility": "SC category students of Maharashtra who have secured admission through the Centralised Admission Process (CAP) in government and private ITIs under the PPP scheme.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "SC category students of Maharashtra, domicile of Maharashtra, belong to the Scheduled Caste (SC) category, have been admitted through the PPP scheme to a Government Skill Development Institute or a Private Institute, have taken admission through the Centralised Admission Process (CAP), have an annual family income of less than or equal to ₹8,00,000 from all sources",
     "scholarship_amount": "100% reimbursement of course fees",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/vocational-training-fee-reimbursement-for-sc-students-maharashtra-2025",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A018CC49F7EDF7669263658A643602B20E9A001B39A682B16",
     "url": "https://www.buddy4study.com/scholarship/vocational-training-fee-reimbursement-for-sc-students-maharashtra-2025"
   },
   {
     "scholarship_name": "Post-Matric Scholarship Scheme Government of India, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "ST",
       "class": [
-        "Class 10",
-        "UG",
-        "PG",
-        "PhD"
+        "Class 10"
       ]
     },
-    "eligibility": "Applicant must be a domicile of Maharashtra, belong to the Scheduled Tribe (ST) category, have passed Class 10, have an annual family income of not more than ₹2,50,000, and not have a gap of more than 2 years in their formal education.",
-    "scholarship_amount": "Maintenance allowance and other grants, including ₹550 to ₹1,200 for Hostellers/Day Scholars, ₹240 for Reader Allowance, ₹160 for Escort Allowance, ₹160 for Special Pay, ₹240 for Mentally Retarded, Extra Coaching, ₹1,600 for Study Tours, ₹1,600 for Thesis Typing/Printing, and ₹1,200 for Book Grant.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 250000
+    },
+    "eligibility": "To be eligible, an applicant must be a domicile of Maharashtra, belong to the Scheduled Tribe (ST) category of the state, have passed Class 10 from a recognised institution, have an annual family income of not more than ₹2,50,000, and not have a gap of more than 2 years in their formal education.",
+    "scholarship_amount": "Maintenance allowance and other grants (amounts vary based on group)",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A668ED132B54E2162E54C475F826D85C79DA948301E5F7772",
     "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-scheme-government-of-india-maharashtra-2025"
   },
   {
     "scholarship_name": "State Government Open Merit Scholarship, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "Class 12"
       ]
     },
-    "eligibility": "Class 12 passed students of Maharashtra with a minimum of 60% marks pursuing a graduation degree in Arts, Commerce, Science, or Law.",
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Class 12 passed students of Maharashtra who are pursuing a graduation degree in Arts, Commerce, Science, or Law.",
     "scholarship_amount": "₹100 per month",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AED33CA69606C0CC2EF25388FB8EC7046E5E9B1E993657CEB",
@@ -869,39 +1035,39 @@
   },
   {
     "scholarship_name": "Tuition Fee and Examination Fee for Tribal Students (Freeship), Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "ST",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "Post-matric"
       ]
     },
-    "eligibility": "Applicants must be a domicile of Maharashtra, belong to the Scheduled Tribe (ST) category, be studying at the post-matric level at a recognised institution, and have an annual family income of no more than ₹2,50,000.",
-    "scholarship_amount": "Reimbursement for tuition and exam fees according to the approved fee structure of the respective college or institution.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 250000
+    },
+    "eligibility": "To be eligible for this scholarship, an applicant must be a domicile of Maharashtra, belong to the Scheduled Tribe (ST) category, be studying at the post-matric level at a recognised institution, and have an annual family income of no more than ₹2,50,000 from all sources.",
+    "scholarship_amount": "Reimbursement for tuition and examination fees according to the approved fee structure of the respective college or institution.",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AE7C10C1B9446574716EB93196C4CB29808753F77C61BEF29",
     "url": "https://www.buddy4study.com/scholarship/tuition-fee-and-examination-fee-for-tribal-students-freeship-maharashtra-2025"
   },
   {
     "scholarship_name": "Scholarship to Meritorious Students Possessing Mathematics/Physics, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
+        "UG"
       ]
     },
-    "eligibility": "Indian national, domicile of Maharashtra, secured at least 60% marks in Science stream of Class 12, pursuing graduation degree in Science with Mathematics and Physics as main subjects",
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Indian national, domicile of Maharashtra, secured at least 60% marks in the Science stream of Class 12, or more than 60% in Mathematics and Physics, pursuing a graduation degree in Science, Mathematics and Physics as main subjects",
     "scholarship_amount": "₹100 per month",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AE50D4D8851DF49C43E0ED43F316413C64DC359D08045E4DB",
@@ -909,18 +1075,21 @@
   },
   {
     "scholarship_name": "Government Vidyaniketan Scholarship, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Class 10",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Class 10 passed students from Government Vidhyaniketan who are Indian nationals and domicile of Maharashtra with 60% marks in Class 10 board exams.",
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Class 10 passed students from Government Vidhyaniketan, be an Indian national, be a domicile of Maharashtra, have passed Class 10 from Government Vidyaniketan, have scored 60% marks in Class 10 board exams",
     "scholarship_amount": "₹100 per month",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A63C8EB5C6B8591A03ACAAA73B08A2E9A0140E826A54AE104",
@@ -928,310 +1097,514 @@
   },
   {
     "scholarship_name": "State Government Daxshina Adhichatra Scholarship, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "UG",
         "PG"
       ]
     },
-    "eligibility": "Students pursuing postgraduate courses in designated institutions, domicile of Maharashtra, graduate from government institutes and colleges/non-agricultural university of Maharashtra.",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Students pursuing postgraduate courses in designated institutions",
     "scholarship_amount": "₹250 per month",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/state-government-daxshina-adhichatra-scholarship-maharashtra-2025-26",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A9D67A04BA966CE9B96F78E67437811F5BC8073C49AE8C141",
     "url": "https://www.buddy4study.com/scholarship/state-government-daxshina-adhichatra-scholarship-maharashtra-2025-26"
   },
   {
     "scholarship_name": "Government Research Adhichatra, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Indian citizen, domiciled in Maharashtra, postgraduate degree holder with 60% marks, currently enrolled in a Maharashtra institution",
-    "scholarship_amount": "₹750 monthly scholarship and ₹1,000 annual stipend for additional expenses",
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Postgraduate degree holders of Maharashtra who are currently studying in government institutions or universities and their affiliated colleges are eligible for this scholarship.",
+    "scholarship_amount": "₹750 per month, ₹1,000 annually for other expenses",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AF8D6D26D8FA7FEBA8680F51C3601BE8CE372C",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AF8D6D26D8FA7FEBA8680F51C3601BE8CE372CCCB64746C38",
     "url": "https://www.buddy4study.com/scholarship/government-research-adhichatra-maharashtra-2025"
   },
   {
-    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship for VJNT and SBC Category",
-    "type": "Scholarship",
+    "scholarship_name": "Post-Matric Scholarship to VJNT Students, Maharashtra 2025-26",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "Minority (VJNT and SBC category)",
       "class": [
         "Class 11",
-        "Class 12",
         "UG",
         "PG"
       ]
     },
-    "eligibility": "Indian citizen, domicile of Maharashtra, belonging to VJNT or SBC category, studying in Class 11 and 12, secured 75% and above marks in Class 10 examination",
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 150000
+    },
+    "eligibility": "VJNT category students studying in Class 11 and above, domicile of Maharashtra, Indian citizen, annual family income of less than or equal to ₹1,50,000",
+    "scholarship_amount": "Up to ₹425 per month",
+    "application_deadline": "31-Mar-2026",
+    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-to-vjnt-students-maharashtra-2025",
+    "url": "https://www.buddy4study.com/scholarship/post-matric-scholarship-to-vjnt-students-maharashtra-2025"
+  },
+  {
+    "scholarship_name": "Tuition Fees and Examination Fees to VJNT Students, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "VJNT category students studying at post-matric level",
+    "scholarship_amount": "Up to 100% reimbursement for tuition, exams, and other admissible fees",
+    "application_deadline": "31-Mar-2026",
+    "apply_link": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-vjnt-students-maharashtra-2025",
+    "url": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-vjnt-students-maharashtra-2025"
+  },
+  {
+    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship for VJNT and SBC Category, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "Class 12"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Indian citizen, domicile of Maharashtra, VJNT or SBC category, studying in Class 11 and 12, secured 75% and above marks in Class 10",
     "scholarship_amount": "₹300 per month for 10 months",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A91E82A5FCFBAAB0483A",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A91E82A5FCFBAAB0483ADB704B47ED161F43EE2545EC67678",
     "url": "https://www.buddy4study.com/scholarship/rajarshi-chhatrapati-shahu-maharaj-merit-scholarship-for-vjnt-and-sbc-category-maharashtra-2025"
   },
   {
     "scholarship_name": "Post-Matric Scholarship to SBC Students, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Class 11",
-        "Class 12",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Indian citizen, domicile of Maharashtra, Special Backward Classes (SBC) category, pursuing post-matric studies with 75% attendance and annual family income less than or equal to ₹1,50,000",
-    "scholarship_amount": "Monthly maintenance allowance up to ₹425 and other benefits",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 150000
+    },
+    "eligibility": "SBC students studying in Class 11 and above, Indian citizen, domicile of Maharashtra, belong to the Special Backward Classes (SBC) category, pursuing a government-approved course at the post-matric level, have obtained admission through the Centralised Admission Process (CAP) round, have 75% attendance for the current year, and an annual family income less than or equal to ₹1,50,000",
+    "scholarship_amount": "Up to ₹425 (monthly maintenance allowance) and other benefits",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://www.buddy4study.com/scholarship/postmatric-scholarship-to-sbc-students-maharashtra-2025",
     "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-to-sbc-students-maharashtra-2025"
   },
   {
-    "scholarship_name": "Tuition Fees and Examination Fees to OBC Students, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "scholarship_name": "Post-Matric Scholarship to OBC Students, Maharashtra 2025-26",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
         "Class 11",
-        "Class 12",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Indian citizen, domicile of Maharashtra, OBC category, pursuing post-matric studies in government/government-aided/private institution, annual family income less than or equal to ₹8,00,000",
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 150000
+    },
+    "eligibility": "OBC students studying in Class 11 and above, domicile of Maharashtra, Indian citizen, annual family income of less than or equal to ₹1,50,000",
+    "scholarship_amount": "₹425 (monthly maintenance allowance) and 50% of tuition fees and exam fees for OBC applicants in government-approved non-granted colleges",
+    "application_deadline": "31-Mar-2026",
+    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-to-obc-students-maharashtra-2025-26",
+    "url": "https://www.buddy4study.com/scholarship/post-matric-scholarship-to-obc-students-maharashtra-2025-26"
+  },
+  {
+    "scholarship_name": "Tuition Fees and Examination Fees to OBC Students, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "OBC students studying in Class 11 and above, be an Indian citizen, be a domicile of Maharashtra, belong to the Other Backward Classes (OBC) category, be pursuing studies at the post-matric level (Class 11 and above) in a government/government-aided/private institution, have taken admission through the Centralised Admission Process (CAP) process (for professional courses), have an annual family income of less than or equal to ₹8,00,000",
     "scholarship_amount": "Up to 100% reimbursement in tuition, exams, and other admissible fees",
     "application_deadline": "31-Mar-2026",
     "apply_link": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-obc-students-maharashtra-2025-26",
     "url": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-obc-students-maharashtra-2025-26"
   },
   {
-    "scholarship_name": "Vocational Training Fee Reimbursement for OBC, SEBC, VJNT & SBC Students, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "scholarship_name": "Tuition Fees and Examination Fees to SBC Students, Maharashtra 2025-26",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "Minority",
       "class": [
-        "Class 10",
-        "Class 12",
+        "Class 11",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Students belonging to OBC, SEBC, VJNT, and SBC categories who are pursuing vocational training courses and are domicile of Maharashtra.",
-    "scholarship_amount": "80% course fees",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "SBC students in Class 11 and above, Indian citizen, domicile of Maharashtra, Special Backwards Classes (SBC) category, pursuing a government-approved course at the post-matric level (Class 11 and above) in a government/government-aided/private institution",
+    "scholarship_amount": "100% tuition fees and examination fees reimbursement",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/vocational-training-fee-reimbursement-for-obc-sebc-vjnt-sbc-students-maharashtra-2025#apply",
+    "apply_link": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-sbc-students-maharashtra-2025",
+    "url": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-sbc-students-maharashtra-2025"
+  },
+  {
+    "scholarship_name": "Vocational Training Fee Reimbursement for OBC, SEBC, VJNT & SBC Students, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Vocational Training"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "Students belonging to OBC, SEBC, VJNT, and SBC categories who are pursuing vocational training courses",
+    "scholarship_amount": "80% of course fees",
+    "application_deadline": "31-Mar-2026",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A6BF9C803E998CF7698D365C08C21682615495BBF3667A9D0",
     "url": "https://www.buddy4study.com/scholarship/vocational-training-fee-reimbursement-for-obc-sebc-vjnt-sbc-students-maharashtra-2025"
   },
   {
     "scholarship_name": "Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scholarship Scheme",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "UG"
       ]
     },
-    "eligibility": "EBC category students applying for specified UG medical degree courses in Maharashtra",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "EBC category students of Maharashtra applying for specified UG medical degree courses",
     "scholarship_amount": "50% reimbursement of tuition and development fees",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme-maharashtra-2025",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A85D4A975C5D5142BC657258E23D57FBDAD7167545F0B41EF",
     "url": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme-maharashtra-2025"
   },
   {
-    "scholarship_name": "Dr. Panjabrao Deshmukh Hostel Maintenance Allowance Scheme, Maharashtra",
-    "type": "Scholarship",
+    "scholarship_name": "Dr. Panjabrao Deshmukh Hostel Maintenance Allowance Scheme",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
+        "UG"
       ]
     },
-    "eligibility": "Applicants must be permanent residents of Maharashtra, children of registered labourers and/or Alpabhudharak shetkari, and pursuing specified medical courses in government-aided, corporation, or private unaided colleges.",
-    "scholarship_amount": "Hostel maintenance allowance up to ₹30,000 per annum",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 800000
+    },
+    "eligibility": "Wards of alpabhudharak shetkari/registered labourers in Maharashtra pursuing specified medical degree courses",
+    "scholarship_amount": "Up to ₹30,000 per annum",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/dr-panjabrao-deshmukh-hostel-maintenance-allowance-scheme-maharashtra-2025",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A154AF155ACB2A8B2FDDAB7A49A24E2B13EFE22C60B340852",
     "url": "https://www.buddy4study.com/scholarship/dr-panjabrao-deshmukh-hostel-maintenance-allowance-scheme-maharashtra-2025"
   },
   {
-    "scholarship_name": "MAFSU Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) Students, Maharashtra 2025-26",
-    "type": "Scholarship",
+    "scholarship_name": "Education Fee Reimbursement Scheme for Open Category Students, Maharashtra 2025-26",
+    "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
       "gender": "All",
-      "religion": "All",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG",
-        "PG",
-        "PhD"
+        "PG"
       ]
     },
-    "eligibility": "Applicants must be a domicile of Maharashtra, a 'Bonafide Student of the Institute', enrolled in a professional and technical course (UG/PG degree) in a recognised educational institution, with an annual family income of not more than ₹8,00,000.",
-    "scholarship_amount": "Reimbursement of up to 100% tuition and exam fees",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Open category students pursuing MBBS, BDS and PG Medical (MD/MS) degree courses",
+    "scholarship_amount": "Reimbursement of institute's FRA approved fees",
     "application_deadline": "31-Mar-2026",
-    "apply_link": "https://www.buddy4study.com/scholarship/mafsu-rajarshi-chhatrapati-shahu-maharaj-shikshan-shulkh-shishyavrutti-yojna-ebc-students-maharashtra-2025-26",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A4B35AA6BF0E14F175519B3FFB55DBFB0420845CFD04D6FA5",
+    "url": "https://www.buddy4study.com/scholarship/education-fee-reimbursement-scheme-for-open-category-students-maharashtra-2025-26"
+  },
+  {
+    "scholarship_name": "MAFSU Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) Students, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Diploma",
+        "Degree",
+        "Postgraduate"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 800000
+    },
+    "eligibility": "EWC category students admitted to diploma/degree/postgraduate professional courses through Centralised Admission Process (CAP).",
+    "scholarship_amount": "Up to 100% reimbursement of tuition and exam fees",
+    "application_deadline": "31-Mar-2026",
+    "apply_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AEA9BC48B6A7FC6028D83FB435163D2E3D6296333C81E963D",
     "url": "https://www.buddy4study.com/scholarship/mafsu-rajarshi-chhatrapati-shahu-maharaj-shikshan-shulkh-shishyavrutti-yojna-ebc-students-maharashtra-2025-26"
   },
   {
-    "scholarship_name": "Mahindra Saarthi Abhiyaan 2025-26",
-    "type": "Scholarship",
+    "scholarship_name": "Narotam Sekhsaria Foundation Post Graduate Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "state": null,
+      "gender": null,
+      "class": []
     },
-    "eligibility": "Eligibility criteria not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/narotam-sekhsaria-foundation-post-graduate-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/narotam-sekhsaria-foundation-post-graduate-scholarship"
+  },
+  {
+    "scholarship_name": "Narotam Sekhsaria Foundation Post Graduate Scholarship",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
     "application_deadline": "Always Open",
-    "apply_link": "https://www.buddy4study.com/scholarship/mahindra-saarthi-abhiyaan-2025-26#apply",
+    "apply_link": "https://www.buddy4study.com/scholarship/narotam-sekhsaria-foundation-post-graduate-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/narotam-sekhsaria-foundation-post-graduate-scholarship"
+  },
+  {
+    "scholarship_name": "Mahindra Saarthi Abhiyaan",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": null
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/mahindra-saarthi-abhiyaan-2025-26",
     "url": "https://www.buddy4study.com/scholarship/mahindra-saarthi-abhiyaan-2025-26"
   },
   {
     "scholarship_name": "Mahindra Saarthi Abhiyaan 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "state": null,
+      "gender": null,
+      "class": []
     },
-    "eligibility": "Eligibility not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
     "application_deadline": "Always Open",
     "apply_link": "https://www.buddy4study.com/scholarship/mahindra-saarthi-abhiyaan-2025-26#apply",
     "url": "https://www.buddy4study.com/scholarship/mahindra-saarthi-abhiyaan-2025-26"
   },
   {
     "scholarship_name": "BGM Pashu Seva Scholarship Program",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "state": null,
+      "gender": null,
+      "class": []
     },
-    "eligibility": "Eligibility criteria not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
-    "application_deadline": "Always Open",
-    "apply_link": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1#apply",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1",
     "url": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1"
   },
   {
     "scholarship_name": "BGM Pashu Seva Scholarship Program",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "state": null,
+      "gender": null,
+      "class": []
     },
-    "eligibility": "Eligibility criteria not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
-    "application_deadline": "Always Open",
-    "apply_link": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1#apply",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1",
     "url": "https://www.buddy4study.com/scholarship/bgm-pashu-seva-scholarship-program-1"
+  },
+  {
+    "scholarship_name": "Tata Capital Pankh Scholarship Program for Diploma, Polytechnic and General Graduation",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "dummy text",
+    "scholarship_amount": null,
+    "application_deadline": "Always Open",
+    "apply_link": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-diploma-polytechnic-and-general-graduation#apply",
+    "url": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-diploma-polytechnic-and-general-graduation"
+  },
+  {
+    "scholarship_name": "Tata Capital Pankh Scholarship Program for Diploma, Polytechnic and General Graduation",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": null
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": null,
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-diploma-polytechnic-and-general-graduation#apply",
+    "url": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-diploma-polytechnic-and-general-graduation"
+  },
+  {
+    "scholarship_name": "Sensodyne IDA Shining Star Scholarship Programme",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": null
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Not mentioned",
+    "scholarship_amount": null,
+    "application_deadline": "Always Open",
+    "apply_link": "https://www.buddy4study.com/scholarship/sensodyne-ida-shining-star-scholarship-programme",
+    "url": "https://www.buddy4study.com/scholarship/sensodyne-ida-shining-star-scholarship-programme"
+  },
+  {
+    "scholarship_name": "Sensodyne IDA Shining Star Scholarship Programme",
+    "category": "Scholarship",
+    "tags": {
+      "state": null,
+      "gender": null,
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "No eligibility criteria mentioned",
+    "scholarship_amount": null,
+    "application_deadline": "Always Open",
+    "apply_link": "https://www.buddy4study.com/scholarship/sensodyne-ida-shining-star-scholarship-programme#apply",
+    "url": "https://www.buddy4study.com/scholarship/sensodyne-ida-shining-star-scholarship-programme"
   },
   {
     "scholarship_name": "Kind Circle Scholarship for Meritorious Students 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG",
-        "PhD"
-      ]
+      "state": null,
+      "gender": null,
+      "class": null
     },
-    "eligibility": "Eligibility criteria not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
-    "application_deadline": "Always Open",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Always Open",
+    "scholarship_amount": null,
+    "application_deadline": null,
     "apply_link": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2025-26#apply",
     "url": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2025-26"
   },
   {
     "scholarship_name": "Kind Circle Scholarship for Meritorious Students 2025-26",
-    "type": "Scholarship",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "religion": "All",
-      "class": [
-        "Class 10",
-        "Class 12",
-        "UG",
-        "PG"
-      ]
+      "state": null,
+      "gender": null,
+      "class": null
     },
-    "eligibility": "Eligibility criteria not explicitly mentioned",
-    "scholarship_amount": "Not explicitly mentioned",
-    "application_deadline": "Always Open",
-    "apply_link": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2025-26#apply",
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "eligibility": "Always Open",
+    "scholarship_amount": null,
+    "application_deadline": null,
+    "apply_link": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2025-26",
     "url": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2025-26"
   }
 ]

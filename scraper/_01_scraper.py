@@ -30,31 +30,33 @@ def extract_with_llm(markdown_text, url):
     cleaned_text = clean_markdown(markdown_text)
     
     prompt = f"""
-    Analyze the scholarship text below and extract structured data.
+    Analyze the scholarship text and extract structured data.
     
-    ### CRITICAL RULES:
-    1. **Inference**: If the State is not explicitly written but a city is mentioned (e.g., "Patna"), infer the State (e.g., "Bihar").
-    2. **Gender**: MUST be one of: "Female", "Male", "Transgender", or "All". Never use other words.
-    3. **Class**: Return a standard list like ["Class 10", "Class 12", "UG", "PG", "PhD"].
-    4. **Nulls**: If data is missing, use null.
+    ### RULES:
+    1. **Category**: Must be one of ["Scholarship", "Fellowship", "Internship"].
+    2. **Income**: Extract maximum eligible family income as an INTEGER (e.g., 250000). If no limit, use 999999999.
+    3. **Percentage**: Extract minimum required percentage as INTEGER (e.g., 60). If not mentioned, use 0.
     
-    ### TEXT TO ANALYZE:
-    {cleaned_text[:4500]}
+    ### TEXT:
+    {cleaned_text[:6500]}
     
-    ### REQUIRED JSON FORMAT:
+    ### JSON FORMAT:
     {{
-      "scholarship_name": "Extract exact name",
-      "type": "Scholarship",
+      "scholarship_name": "Name",
+      "category": "Scholarship/Fellowship/Internship",
       "tags": {{
-        "state": "State Name or 'All India' or 'International'",
-        "gender": "Female / Male / All",
-        "religion": "Minority / SC/ST / All",
-        "class": ["List", "of", "Levels"]
+        "state": "State Name",
+        "gender": "Female/Male/All",
+        "class": ["Class 10", "UG", "PG"]
       }},
-      "eligibility": "Summarize eligibility in 1 sentence",
-      "scholarship_amount": "Extract amount or benefits",
+      "requirements": {{
+        "min_percentage": 0,
+        "max_family_income": 999999999
+      }},
+      "eligibility": "Summary",
+      "scholarship_amount": "Amount",
       "application_deadline": "DD-MMM-YYYY",
-      "apply_link": "Extract apply URL if present"
+      "apply_link": "URL"
     }}
     """
 
@@ -66,7 +68,7 @@ def extract_with_llm(markdown_text, url):
                 {"role": "user", "content": prompt}
             ],
             temperature=0.1, 
-            max_tokens=1000
+            max_tokens=2500
         )
 
         raw_content = completion.choices[0].message.content.strip()

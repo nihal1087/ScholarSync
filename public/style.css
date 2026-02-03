@@ -1,3 +1,4 @@
+/* --- Imports & Variables --- */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
 
 :root {
@@ -10,39 +11,49 @@
   --shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
 }
 
+/* --- Reset & Base --- */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  /* Removes the gray highlight tap effect on mobile */
   -webkit-tap-highlight-color: transparent;
 }
 
 body {
   font-family: "Inter", sans-serif;
   background: var(--bg-gradient);
-  height: 100dvh; /* Dynamic Height for Mobile Browsers */
+  /* dvh = Dynamic Viewport Height (Handles mobile URL bars better) */
+  height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow: hidden; /* Prevent body scroll */
+  overflow: hidden;
 }
 
-/* --- Responsive Container --- */
+button, input {
+  font-family: inherit; /* Ensures form elements use Inter */
+}
+
+/* --- Layout Container --- */
 .chat-container {
   width: 100%;
-  max-width: 480px; /* Cap width on Desktop */
-  height: 100%; /* Full height on Mobile */
-  max-height: 850px; /* Cap height on Desktop */
+  max-width: 480px;
+  height: 100%;
+  max-height: 850px;
   background: var(--surface);
+  
+  /* Glassmorphism Effect */
   backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px); /* Safari support */
+  
   display: flex;
   flex-direction: column;
   position: relative;
   overflow: hidden;
 }
 
-/* Desktop Rounded Corners */
+/* Desktop Enhancements */
 @media (min-width: 768px) {
   .chat-container {
     height: 90vh;
@@ -52,19 +63,23 @@ body {
   }
 }
 
-/* --- Header --- */
+/* --- Header Section --- */
 .header {
   padding: 18px;
-  text-align: center;
-  font-weight: 600;
-  color: var(--text-dark);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   background: rgba(255, 255, 255, 0.95);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
   z-index: 10;
+}
+
+.header h1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-dark);
+  margin: 0;
 }
 
 .status-dot {
@@ -75,7 +90,7 @@ body {
   box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
 }
 
-/* --- Chat Area --- */
+/* --- Chat Area & Scrollbars --- */
 .chat-box {
   flex: 1;
   padding: 16px;
@@ -85,10 +100,13 @@ body {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  padding-bottom: 20px; /* Space above input */
+  padding-bottom: 20px;
+  
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
 }
 
-/* Hide Scrollbar */
+/* Webkit (Chrome/Safari) Scrollbar */
 .chat-box::-webkit-scrollbar {
   width: 4px;
 }
@@ -102,7 +120,7 @@ body {
   max-width: 88%;
   padding: 12px 16px;
   border-radius: 18px;
-  font-size: 15px; /* Readable on mobile */
+  font-size: 15px;
   line-height: 1.5;
   animation: slideUp 0.3s ease-out forwards;
   opacity: 0;
@@ -110,10 +128,7 @@ body {
 }
 
 @keyframes slideUp {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .bot-msg {
@@ -133,7 +148,7 @@ body {
   margin-left: auto;
 }
 
-/* --- Options (Chips) --- */
+/* --- Option Pills (Buttons) --- */
 .options-container {
   display: flex;
   flex-wrap: wrap;
@@ -146,7 +161,7 @@ body {
   background: rgba(255, 255, 255, 0.8);
   border: 1px solid var(--primary);
   color: var(--primary);
-  padding: 10px 16px; /* Larger tap area */
+  padding: 10px 16px;
   border-radius: 24px;
   font-size: 14px;
   font-weight: 500;
@@ -160,6 +175,7 @@ body {
   background: var(--primary);
   color: white;
 }
+
 @media (min-width: 768px) {
   .option-pill:hover {
     background: var(--primary);
@@ -176,14 +192,18 @@ body {
   margin-top: 8px;
   border: 1px solid #f1f5f9;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .card-header h3 {
   font-size: 16px;
   font-weight: 700;
-  margin-bottom: 4px;
   color: var(--text-dark);
+  margin: 0;
 }
+
 .type-badge {
   font-size: 11px;
   background: #eff6ff;
@@ -192,23 +212,14 @@ body {
   border-radius: 6px;
   font-weight: 600;
   display: inline-block;
-  margin-bottom: 8px;
+  width: fit-content;
 }
 
 .card-info {
   font-size: 13px;
   color: var(--text-gray);
-  margin-bottom: 12px;
   display: flex;
   gap: 10px;
-}
-.info-item {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  background: #f9fafb;
-  padding: 4px 8px;
-  border-radius: 6px;
 }
 
 .card-footer {
@@ -217,8 +228,9 @@ body {
   align-items: center;
   border-top: 1px solid #f3f4f6;
   padding-top: 12px;
-  margin-top: 12px;
+  margin-top: 4px;
 }
+
 .amount {
   color: #059669;
   font-weight: 700;
@@ -233,6 +245,11 @@ body {
   border-radius: 8px;
   font-size: 13px;
   font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.apply-btn:active {
+  opacity: 0.8;
 }
 
 /* --- Input Area --- */
@@ -243,7 +260,7 @@ body {
   display: flex;
   gap: 10px;
   align-items: center;
-  /* Safe area for iPhone X+ */
+  /* Safe Area for iPhone X+ Home Bar */
   padding-bottom: max(12px, env(safe-area-inset-bottom));
 }
 
@@ -253,22 +270,25 @@ input {
   border-radius: 24px;
   border: 1px solid #e5e7eb;
   background: #f9fafb;
-  font-size: 16px; /* Prevents iOS Zoom */
+  font-size: 16px; /* Prevents iOS auto-zoom */
   outline: none;
+  transition: all 0.2s ease;
   -webkit-appearance: none;
 }
 
 input:focus {
-  border-color: var(--primary);
   background: white;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
 }
 
 button#send-btn {
   width: 44px;
-  height: 44px; /* Standard Touch Target */
+  height: 44px;
   border-radius: 50%;
   border: none;
   background: var(--primary);
+  color: white;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -279,4 +299,49 @@ button#send-btn {
 
 button#send-btn:active {
   background: var(--primary-active);
+}
+
+/* --- Utilities --- */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.show-more-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 15px 0;
+}
+
+.show-more-btn {
+    background: #f3f4f6;
+    color: var(--text-dark);
+    border: 1px solid #e5e7eb;
+    padding: 10px 24px;
+    border-radius: 30px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.show-more-btn:hover {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.show-more-btn:active {
+    transform: scale(0.95);
 }

@@ -13,7 +13,7 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 
 app = FirecrawlApp(api_key=FIRECRAWL_KEY)
 
-REPO_ID = "meta-llama/Meta-Llama-3-8B-Instruct"
+AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-oss-120b")
 client = InferenceClient(token=HF_TOKEN)
 
 def clean_markdown(text):
@@ -62,7 +62,7 @@ def extract_with_llm(markdown_text, url):
 
     try:
         completion = client.chat.completions.create(
-            model=REPO_ID,
+            model=AI_MODEL,
             messages=[
                 {"role": "system", "content": "You are a data extraction API. You output ONLY valid JSON. No conversational text."},
                 {"role": "user", "content": prompt}
@@ -81,20 +81,20 @@ def extract_with_llm(markdown_text, url):
             data["url"] = url
             return data
         else:
-            print(f"   ⚠️ LLM output invalid JSON for {url}")
+            print(f"   Warning: LLM output invalid JSON for {url}")
             return None
 
     except json.JSONDecodeError:
-        print(f"   ⚠️ JSON Parsing Failed for {url}")
+        print(f"   Warning: JSON parsing failed for {url}")
         return None
     except Exception as e:
-        print(f"   ⚠️ API Error for {url}: {e}")
+        print(f"   Warning: API error for {url}: {e}")
         return None
 
 
 
 BASE_URL = "https://www.buddy4study.com/scholarships"
-print(f"🚀 Starting crawl on: {BASE_URL}")
+print(f"Starting crawl on: {BASE_URL}")
 
 try:
     doc = app.scrape(BASE_URL, formats=["markdown"])
@@ -102,7 +102,7 @@ try:
 
     links = re.findall(r"https://www\.buddy4study\.com/scholarship/[^\)\s]+", markdown_text)
     
-    print(f"✅ Found {len(links)} scholarship links.")
+    print(f"Found {len(links)} scholarship links.")
 
     results = []
 
@@ -117,20 +117,20 @@ try:
                 data = extract_with_llm(page_markdown, link)
                 if data:
                     results.append(data)
-                    print(f"   🎉 Extracted: {data.get('scholarship_name', 'Unknown')}")
+                    print(f"   Extracted: {data.get('scholarship_name', 'Unknown')}")
             else:
-                print("   ⚠️ Page content was empty.")
+                print("   Warning: page content was empty.")
 
-            time.sleep(2) 
+            time.sleep(2)
 
         except Exception as e:
-            print(f"   ❌ Failed to scrape link: {e}")
+            print(f"   Error: failed to scrape link: {e}")
 
     os.makedirs("data", exist_ok=True)
     with open("data/scholarships.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print(f"\n💾 Saved {len(results)} scholarships to data/scholarships.json")
+    print(f"\nSaved {len(results)} scholarships to data/scholarships.json")
 
 except Exception as e:
-    print(f"\n❌ Critical Error: {e}")
+    print(f"\nCritical error: {e}")

@@ -4,11 +4,18 @@
   "description": "Scholarship Chatbot with JSON Data",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "scrape": "node scraper/_01_scraper.js"
   },
   "dependencies": {
+    "@huggingface/inference": "^4.13.15",
     "body-parser": "^1.20.4",
     "cors": "^2.8.6",
-    "express": "^4.22.1"
+    "dotenv": "^17.4.2",
+    "express": "^4.22.1",
+    "firecrawl": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }

@@ -1,0 +1,44 @@
+name: Weekly Scholarship Data Scrape
+
+on:
+  schedule:
+    # Runs every Monday at 00:00 UTC
+    # Adjust the time by changing the cron expression: "0 0 * * 1"
+    # Format: minute hour day-of-month month day-of-week
+    - cron: '0 0 * * 1'
+  
+  # Allow manual triggering from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scholarship scraper
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'openai/gpt-oss-120b' }}
+        run: npm run scrape
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898752+github-actions[bot]@users.noreply.github.com"
+          git add data/scholarships.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update scholarships data (automated)" && git push)

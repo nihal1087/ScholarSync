@@ -1,9 +1,8 @@
-/* --- Imports & Variables --- */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
 
 :root {
   --bg-gradient: linear-gradient(135deg, #f0f4ff 0%, #dbeafe 100%);
-  --primary: #3b82f6; /* Bright Blue */
+  --primary: #3b82f6;
   --primary-active: #2563eb;
   --text-dark: #111827;
   --text-gray: #6b7280;
@@ -11,19 +10,16 @@
   --shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
 }
 
-/* --- Reset & Base --- */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* Removes the gray highlight tap effect on mobile */
   -webkit-tap-highlight-color: transparent;
 }
 
 body {
   font-family: "Inter", sans-serif;
   background: var(--bg-gradient);
-  /* dvh = Dynamic Viewport Height (Handles mobile URL bars better) */
   height: 100dvh;
   display: flex;
   justify-content: center;
@@ -32,28 +28,23 @@ body {
 }
 
 button, input {
-  font-family: inherit; /* Ensures form elements use Inter */
+  font-family: inherit;
 }
 
-/* --- Layout Container --- */
 .chat-container {
   width: 100%;
   max-width: 480px;
   height: 100%;
   max-height: 850px;
   background: var(--surface);
-  
-  /* Glassmorphism Effect */
   backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px); /* Safari support */
-  
+  -webkit-backdrop-filter: blur(16px);
   display: flex;
   flex-direction: column;
   position: relative;
   overflow: hidden;
 }
 
-/* Desktop Enhancements */
 @media (min-width: 768px) {
   .chat-container {
     height: 90vh;
@@ -63,7 +54,6 @@ button, input {
   }
 }
 
-/* --- Header Section --- */
 .header {
   padding: 18px;
   background: rgba(255, 255, 255, 0.95);
@@ -90,7 +80,6 @@ button, input {
   box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
 }
 
-/* --- Chat Area & Scrollbars --- */
 .chat-box {
   flex: 1;
   padding: 16px;
@@ -101,12 +90,10 @@ button, input {
   flex-direction: column;
   gap: 12px;
   padding-bottom: 20px;
-  
   scrollbar-width: thin;
   scrollbar-color: #cbd5e1 transparent;
 }
 
-/* Webkit (Chrome/Safari) Scrollbar */
 .chat-box::-webkit-scrollbar {
   width: 4px;
 }
@@ -115,7 +102,6 @@ button, input {
   border-radius: 4px;
 }
 
-/* --- Messages --- */
 .message {
   max-width: 88%;
   padding: 12px 16px;
@@ -148,7 +134,6 @@ button, input {
   margin-left: auto;
 }
 
-/* --- Option Pills (Buttons) --- */
 .options-container {
   display: flex;
   flex-wrap: wrap;
@@ -184,24 +169,33 @@ button, input {
   }
 }
 
-/* --- Result Cards --- */
 .result-card {
   background: white;
-  border-radius: 16px;
+  border-radius: 12px;
   padding: 16px;
   margin-top: 8px;
-  border: 1px solid #f1f5f9;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.06);
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 12px;
+  width: 100%;
+}
+
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
 }
 
 .card-header h3 {
   font-size: 16px;
   font-weight: 700;
   color: var(--text-dark);
-  margin: 0;
+  line-height: 1.35;
+  margin: 6px 0 0;
+  overflow-wrap: anywhere;
 }
 
 .type-badge {
@@ -213,22 +207,93 @@ button, input {
   font-weight: 600;
   display: inline-block;
   width: fit-content;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.type-badge.fellowship {
+  background: #fffbeb;
+  color: #b45309;
+}
+
+.type-badge.internship {
+  background: #f0fdf4;
+  color: #15803d;
+}
+
+.card-summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 10px;
+}
+
+.detail-item {
+  min-width: 0;
+  border: 1px solid #eef2f7;
+  border-radius: 8px;
+  padding: 10px;
+  background: #f8fafc;
+}
+
+.detail-label {
+  display: block;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.detail-item strong {
+  display: block;
+  color: var(--text-dark);
+  font-size: 14px;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .card-info {
-  font-size: 13px;
-  color: var(--text-gray);
   display: flex;
-  gap: 10px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.info-item {
+  max-width: 100%;
+  background: #f8fafc;
+  border: 1px solid #edf2f7;
+  border-radius: 999px;
+  color: #475569;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.3;
+  padding: 6px 10px;
+  overflow-wrap: anywhere;
+}
+
+.eligibility {
+  color: var(--text-gray);
+  font-size: 13px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .card-footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 12px;
   border-top: 1px solid #f3f4f6;
   padding-top: 12px;
-  margin-top: 4px;
+}
+
+.match-note {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 600;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .amount {
@@ -246,13 +311,14 @@ button, input {
   font-size: 13px;
   font-weight: 500;
   transition: opacity 0.2s;
+  flex-shrink: 0;
+  text-align: center;
 }
 
 .apply-btn:active {
   opacity: 0.8;
 }
 
-/* --- Input Area --- */
 .input-area {
   background: white;
   padding: 12px 16px;
@@ -260,7 +326,6 @@ button, input {
   display: flex;
   gap: 10px;
   align-items: center;
-  /* Safe Area for iPhone X+ Home Bar */
   padding-bottom: max(12px, env(safe-area-inset-bottom));
 }
 
@@ -270,7 +335,7 @@ input {
   border-radius: 24px;
   border: 1px solid #e5e7eb;
   background: #f9fafb;
-  font-size: 16px; /* Prevents iOS auto-zoom */
+  font-size: 16px;
   outline: none;
   transition: all 0.2s ease;
   -webkit-appearance: none;
@@ -301,7 +366,6 @@ button#send-btn:active {
   background: var(--primary-active);
 }
 
-/* --- Utilities --- */
 .sr-only {
   position: absolute;
   width: 1px;
@@ -314,19 +378,22 @@ button#send-btn:active {
   border-width: 0;
 }
 
-.show-more-container {
+.result-actions {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
     justify-content: center;
     margin: 15px 0;
 }
 
-.show-more-btn {
+.show-more-btn,
+.restart-btn {
     background: #f3f4f6;
     color: var(--text-dark);
     border: 1px solid #e5e7eb;
     padding: 10px 24px;
-    border-radius: 30px;
+    border-radius: 999px;
     font-size: 13px;
     font-weight: 600;
     cursor: pointer;
@@ -334,7 +401,8 @@ button#send-btn:active {
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
-.show-more-btn:hover {
+.show-more-btn:hover,
+.restart-btn:hover {
     background: var(--primary);
     color: white;
     border-color: var(--primary);
@@ -342,6 +410,22 @@ button#send-btn:active {
     box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
 
-.show-more-btn:active {
+.show-more-btn:active,
+.restart-btn:active {
     transform: scale(0.95);
+}
+
+@media (max-width: 380px) {
+  .card-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .card-footer {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .apply-btn {
+    width: 100%;
+  }
 }

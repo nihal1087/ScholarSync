@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 4001;
+const PORT = process.env.PORT || 4002;
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -161,7 +161,8 @@ function buildMatch(item, filters) {
 app.post('/chat', (req, res) => {
     const { category, state, gender, education, percentage, income } = req.body;
     const offset = Math.max(0, Number.parseInt(req.body.offset, 10) || 0);
-    const limit = Math.min(MAX_PAGE_SIZE, Math.max(1, Number.parseInt(req.body.limit, 10) || DEFAULT_PAGE_SIZE));
+    const requestedLimit = Math.max(1, Number.parseInt(req.body.limit, 10) || DEFAULT_PAGE_SIZE);
+    const showAll = req.body.showAll === true || req.body.showAll === "true";
 
     const userScore = parseFloat(percentage) || 0;
     const userIncome = parseInt(income) || 999999999;
@@ -192,6 +193,9 @@ app.post('/chat', (req, res) => {
         return parseDeadline(a.application_deadline) - parseDeadline(b.application_deadline);
     });
 
+    const limit = showAll
+        ? Math.max(0, matches.length - offset)
+        : Math.min(MAX_PAGE_SIZE, requestedLimit);
     const results = matches.slice(offset, offset + limit);
     const nextOffset = offset + results.length;
 

@@ -1,431 +1,7 @@
 [
   {
-    "scholarship_name": "",
+    "scholarship_name": "STEP eLearn – General Communication Online Program",
     "category": "Scholarship",
-    "tags": {
-      "state": "",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "",
-    "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-three"
-  },
-  {
-    "scholarship_name": "PXE Chandipur Internship for Pursuing UG Engineering Students",
-    "category": "Internship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Open to undergraduate engineering students seeking an internship",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/pxe-chandipur-internship-for-pursuing-ug-engineering-students#",
-    "url": "https://www.buddy4study.com/scholarship/drdo-pxe-chandipur-internship-2026"
-  },
-  {
-    "scholarship_name": "TWAS-CSIR Postgraduate Fellowship Programme",
-    "category": "Fellowship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/twas-csir-postgraduate-fellowship-programme",
-    "url": "https://www.buddy4study.com/scholarship/twas-csir-postgraduate-fellowship-programme-2026"
-  },
-  {
-    "scholarship_name": "UCL Global Master's Scholarship",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/ucl-global-master-s-scholarship",
-    "url": "https://www.buddy4study.com/scholarship/ucl-global-masters-scholarship-2026"
-  },
-  {
-    "scholarship_name": "NIT Delhi Summer Internship Programme",
-    "category": "Internship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/nit-delhi-summer-internship-programme#",
-    "url": "https://www.buddy4study.com/scholarship/nit-delhi-summer-internship-programme-2026"
-  },
-  {
-    "scholarship_name": "POGO SCOR Visiting Fellowships",
-    "category": "Fellowship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/pogo-scor-visiting-fellowships",
-    "url": "https://www.buddy4study.com/scholarship/pogo-scor-visiting-fellowship-programme-2026"
-  },
-  {
-    "scholarship_name": "Gitam Student Scholarships",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/gitam-student-scholarships",
-    "url": "https://www.buddy4study.com/scholarship/gitam-student-scholarships-2026"
-  },
-  {
-    "scholarship_name": "Einstein Fellowship Germany",
-    "category": "Fellowship",
-    "tags": {
-      "state": "",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/the-einstein-fellowship-germany#",
-    "url": "https://www.buddy4study.com/scholarship/the-einstein-fellowship-2026"
-  },
-  {
-    "scholarship_name": "ICCR India Africa Maitri Scholarship Scheme for African Countries",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/iccr-india-africa-maitri-scholarship-scheme-for-african-countries",
-    "url": "https://www.buddy4study.com/scholarship/iccr-india-africa-maitri-scholarship-scheme-for-african-countries-2026"
-  },
-  {
-    "scholarship_name": "Rajiv Gandhi University Internship",
-    "category": "Internship",
-    "tags": {
-      "state": "Arunachal Pradesh",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Details not provided in the source text.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/rajiv-gandhi-university-arunachal-pradesh-internship#",
-    "url": "https://www.buddy4study.com/scholarship/rajiv-gandhi-university-arunachal-pradesh-internship-2026"
-  },
-  {
-    "scholarship_name": "Delhi State Legal Services Authority Internship Program",
-    "category": "Internship",
-    "tags": {
-      "state": "Delhi",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "N/A",
-    "scholarship_amount": "N/A",
-    "application_deadline": "N/A",
-    "apply_link": "https://www.buddy4study.com/scholarship/delhi-state-legal-services-authority-internship-program#",
-    "url": "https://www.buddy4study.com/scholarship/delhi-state-legal-services-authority-internship-program-2026-27"
-  },
-  {
-    "scholarship_name": "DRDO DLRL Hyderabad Internship 2026",
-    "category": "Internship",
-    "tags": {
-      "state": "Telangana",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/drdo-dlrl-hyderabad-internship-2026#",
-    "url": "https://www.buddy4study.com/scholarship/drdo-dlrl-hyderabad-internship-2026"
-  },
-  {
-    "scholarship_name": "Japanese Government MEXT Scholarships for Research Students",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/japanese-government-mext-scholarships-for-research-students",
-    "url": "https://www.buddy4study.com/scholarship/japanese-government-mext-scholarships-for-research-students-2027"
-  },
-  {
-    "scholarship_name": "Ayush Scholarship Scheme",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/ayush-scholarship-scheme",
-    "url": "https://www.buddy4study.com/scholarship/ayush-scholarship-scheme-2026"
-  },
-  {
-    "scholarship_name": "Eisenhower Fellowships Global Program",
-    "category": "Fellowship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/eisenhower-fellowships-global-program#",
-    "url": "https://www.buddy4study.com/scholarship/eisenhower-fellowships-global-program-2027"
-  },
-  {
-    "scholarship_name": "INSA Visiting Scientist Programme",
-    "category": "Fellowship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/insa-visiting-scientist-programme#",
-    "url": "https://www.buddy4study.com/scholarship/insa-visiting-scientist-programme-2026"
-  },
-  {
-    "scholarship_name": "ASBS India Achievers Award",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/asbs-india-achievers-award",
-    "url": "https://www.buddy4study.com/scholarship/asbs--india-achievers-award-2026"
-  },
-  {
-    "scholarship_name": "Numerix Women in Finance Scholarship",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "Female",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Open to female students interested in finance.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/numerix-women-in-finance-scholarship",
-    "url": "https://www.buddy4study.com/scholarship/numerix-women-in-finance-scholarship-2026"
-  },
-  {
-    "scholarship_name": "Oxford and Cambridge Society of India Scholarship (OCSI-UK)",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/oxford-and-cambridge-society-of-india-scholarship-ocsi-uk#",
-    "url": "https://www.buddy4study.com/scholarship/oxford-and-cambridge-society-of-india-scholarship-ocsi-uk-2026"
-  },
-  {
-    "scholarship_name": "Vice Chancellor's Excellence Scholarships",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/vice-chancellors-excellence-scholarships#",
-    "url": "https://www.buddy4study.com/scholarship/vice-chancellors-excellence-postgraduate-scholarship-2026"
-  },
-  {
-    "scholarship_name": "HSCST Fellowship Programme Haryana",
-    "category": "Fellowship",
-    "tags": {
-      "state": "Haryana",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/hscst-fellowship-programme-haryana#",
-    "url": "https://www.buddy4study.com/scholarship/hscst-fellowship-programme-haryana-2025"
-  },
-  {
-    "scholarship_name": "Edinburgh Surgery Online Global Scholarships",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/edinburgh-surgery-online-global-scholarships",
-    "url": "https://www.buddy4study.com/scholarship/edinburgh-surgery-online-global-scholarships-2026"
-  },
-  {
-    "scholarship_name": "Joint Japan World Bank Graduate Scholarship Program",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/joint-japan-world-bank-graduate-scholarship-program#",
-    "url": "https://www.buddy4study.com/scholarship/joint-japan-world-bank-graduate-scholarship-program-jj-wbgsp-2026"
-  },
-  {
-    "scholarship_name": "India Netherlands Hydrogen Fellowship Programme",
-    "category": "Fellowship",
     "tags": {
       "state": "All India",
       "gender": "All",
@@ -435,15 +11,410 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/india-netherlands-hydrogen-fellowship-programme",
-    "url": "https://www.buddy4study.com/scholarship/india-netherlands-hydrogen-fellowship-programme-2026"
+    "scholarship_amount": "Discounted fee ranging from ₹697 to ₹1349",
+    "application_deadline": "",
+    "provider": "STEP eLearn",
+    "region": "India",
+    "summary": "STEP eLearn offers an adaptive online English communication course with discounted fees based on family income for Indian residents aged 5‑40.",
+    "eligibility": "Indian residents aged 5‑40 years, any education level, with family income proof; no gender restriction.",
+    "benefits": "Access to live online English courses covering reading, writing, speaking, listening, grammar and vocabulary, with personalized content.",
+    "key_points": [
+      "Discounted fee: ₹697 for families <8 Lakh",
+      "₹999 for families 8‑15 Lakh",
+      "₹1349 for families >15 Lakh"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/STEP1/instruction",
+    "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-three"
   },
   {
-    "scholarship_name": "University of Surrey Great Scholarships India",
+    "scholarship_name": "DRDO-PXE Chandipur Internship 2026",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹5,000 per month",
+    "application_deadline": "05-May-2026",
+    "provider": "Proof & Experimental Establishment (PXE), DRDO",
+    "region": "India",
+    "summary": "Six‑month DRDO‑PXE Chandipur internship for final‑year B.Tech. students with ₹5,000 monthly stipend.",
+    "eligibility": "Final‑year B.Tech. students (7th/8th semester) with CGPA ≥7.5/10, age <28 (as of 01‑May‑2026), studying in India in CSE, ECE or EIE.",
+    "benefits": "Monthly stipend of ₹5,000 for six months, hands‑on experience in testing and evaluation of armament systems at DRDO‑PXE.",
+    "key_points": [
+      "Application deadline: 05‑May‑2026",
+      "Must be a full‑time UG engineering student in CSE, ECE or EIE",
+      "Age limit: below 28 years as of 01‑May‑2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/drdo-pxe-chandipur-internship-2026",
+    "url": "https://www.buddy4study.com/scholarship/drdo-pxe-chandipur-internship-2026"
+  },
+  {
+    "scholarship_name": "TWAS-CSIR Postgraduate Fellowship Programme 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Monthly stipend",
+    "application_deadline": "06-May-2026",
+    "provider": "World Academy of Sciences (TWAS) and Council of Scientific and Industrial Research (CSIR)",
+    "region": "Italy",
+    "summary": "Prestigious TWAS‑CSIR fellowship for PhD scholars from developing countries (non‑India) to conduct research in CSIR labs in India, with a monthly stipend.",
+    "eligibility": "Applicants must be nationals of a developing (non‑Indian) country, ≤35 years old, hold an MSc in science/technology, be employed in a research position, and either be enrolled in a PhD (sandwich) or not yet registered (full‑time).",
+    "benefits": "Monthly stipend plus other benefits such as travel allowance, insurance, and research support during the fellowship.",
+    "key_points": [
+      "Two fellowship types: Sandwich (6 months‑3 years) and Full‑Time (up to 4 years).",
+      "Only one TWAS/OWSD fellowship per applicant per calendar year.",
+      "Application deadline: 06‑May‑2026."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/twas-csir-postgraduate-fellowship-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/twas-csir-postgraduate-fellowship-programme-2026"
+  },
+  {
+    "scholarship_name": "UCL Global Master's Scholarship 2026",
     "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "An annual scholarship of GBP 15,000",
+    "application_deadline": "07-May-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Master's applicants",
+    "benefits": "A total of 5 selected candidates from India will receive an annual scholarship of GBP 15,000 towards tuition fees for one year. Any remaining funds will be paid towards candidate maintenance. Note:- The scholarship...",
+    "key_points": [
+      "Apply by 07-May-2026",
+      "Selection: Candidates will be selected based on financial need and upon the recommendation of the student...",
+      "Application Deadline: 7th May 2026 (5 PM BST)"
+    ],
+    "apply_link": "https://www.ucl.ac.uk/scholarships/ucl-global-masters-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/ucl-global-masters-scholarship-2026"
+  },
+  {
+    "scholarship_name": "NIT Delhi Summer Internship Programme 2026",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "",
+    "application_deadline": "10-May-2026",
+    "provider": "National Institute of Technology Delhi",
+    "region": "India",
+    "summary": "Summer Internship 2026 at NIT Delhi's Intelligent Systems & Hardware Security Lab for UG/PG students, offering access to IoT lab and facilities.",
+    "eligibility": "Must be currently enrolled in an undergraduate or postgraduate program, have a No Objection Certificate from the institute, and be available full‑time for the internship.",
+    "benefits": "Internship opportunity at NIT Delhi with access to IoT lab and facilities.",
+    "key_points": [
+      "Apply by 10-May-2026.",
+      "Full‑time availability required for entire internship.",
+      "Must provide No Objection Certificate from parent institute."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/nit-delhi-summer-internship-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/nit-delhi-summer-internship-programme-2026"
+  },
+  {
+    "scholarship_name": "POGO-SCOR Visiting Fellowship Programme 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PG",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "International airfare, accommodation and other benefits",
+    "application_deadline": "13-May-2026",
+    "provider": "Partnership for Observation of the Global Ocean (POGO) and Scientific Committee on Oceanic Research (SCOR)",
+    "region": "United Kingdom",
+    "summary": "Fellowship for scientists, technicians, postgraduate and post‑doctoral fellows from developing countries to visit the UK, covering airfare and accommodation.",
+    "eligibility": "Citizens of India or any developing country/economy in transition, who are scientists, technicians, postgraduate or post‑doctoral fellows.",
+    "benefits": "International airfare, accommodation and other benefits during the fellowship.",
+    "key_points": [
+      "Open to candidates from developing countries, including India.",
+      "Covers international travel and stay in the UK.",
+      "Targeted at scientists, technicians, PG and post‑doctoral researchers."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pogo-scor-visiting-fellowship-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/pogo-scor-visiting-fellowship-programme-2026"
+  },
+  {
+    "scholarship_name": "GITAM Student Scholarships 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to 100% tuition fee waiver",
+    "application_deadline": "14-May-2026",
+    "provider": "Gandhi Institute of Technology and Management",
+    "region": "India",
+    "summary": "GITAM offers scholarships for UG and PG students in India, covering up to 100% tuition fees for meritorious candidates.",
+    "eligibility": "UG students need ≥50% in 10+2 and a GAT 2024 rank; PG students need ≥50% in bachelor's degree and a GAT 2024 rank, plus meet income criteria.",
+    "benefits": "Up to 100% tuition fee waiver based on merit, course, and financial need.",
+    "key_points": [
+      "Must have a qualifying rank in GAT 2024.",
+      "Income criteria must be met (no specific ceiling provided).",
+      "Application deadline is 14-May-2026."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/gitam-student-scholarships-2026",
+    "url": "https://www.buddy4study.com/scholarship/gitam-student-scholarships-2026"
+  },
+  {
+    "scholarship_name": "The Einstein Fellowship 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "EUR 10,000",
+    "application_deadline": "15-May-2026",
+    "provider": "Einstein Forum and Wittenstein Foundation",
+    "region": "Germany",
+    "summary": "The Einstein Fellowship 2026 supports outstanding young thinkers with a EUR 10,000 stipend and travel/accommodation benefits for interdisciplinary projects in Germany.",
+    "eligibility": "Applicants must be under 35, be outstanding young thinkers pursuing a project in a field different from their previous research, and hold a university degree in humanities, social sciences or natural sciences.",
+    "benefits": "Selected fellows receive a EUR 10,000 stipend, reimbursement of travel expenses, and 5‑6 months of living accommodation at Einstein’s summerhouse in Caputh, Brandenburg.",
+    "key_points": [
+      "Age limit: under 35 years",
+      "Project must be in a different field from previous research",
+      "University degree required in humanities, social sciences or natural sciences"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/the-einstein-fellowship-2026",
+    "url": "https://www.buddy4study.com/scholarship/the-einstein-fellowship-2026"
+  },
+  {
+    "scholarship_name": "ICCR India- Africa Maitri Scholarship Scheme for African Countries 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG",
+        "Diploma",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Full tuition fees, monthly living allowance and other benefits",
+    "application_deadline": "15-May-2026",
+    "provider": "The Indian Council for Cultural Relations (ICCR), Ministry of External Affairs, Government of India",
+    "region": "Ghana",
+    "summary": "Full tuition, living allowance and other benefits for Ghanaian students pursuing higher education in India.",
+    "eligibility": "Ghanaian nationals aged 18-35 for UG/PG/Certificate/Diploma (up to 40 for PhD), passport valid 2 years from 1 July 2026, and English proficiency.",
+    "benefits": "Full tuition fees, monthly living allowance and other benefits.",
+    "key_points": [
+      "Passport must be valid for at least 2 years as of 1 July 2026",
+      "Age limit: 35 for UG/PG/Certificate/Diploma, 40 for PhD",
+      "Open to all fields except Hindi/Sanskrit unless institution permits"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/iccr-india-africa-maitri-scholarship-scheme-for-african-countries-2026",
+    "url": "https://www.buddy4study.com/scholarship/iccr-india-africa-maitri-scholarship-scheme-for-african-countries-2026"
+  },
+  {
+    "scholarship_name": "Rajiv Gandhi University Internship, Arunachal Pradesh 2026",
+    "category": "Internship",
+    "tags": {
+      "state": "Arunachal Pradesh",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "",
+    "application_deadline": "15-May-2026",
+    "provider": "Rajiv Gandhi University",
+    "region": "India",
+    "summary": "One‑month summer internship at Rajiv Gandhi University offering hands‑on research experience in social sciences, with a certificate of participation.",
+    "eligibility": "Undergraduate or postgraduate students in any social sciences discipline, preferably under NEP 2020, with interest in research, strong communication, teamwork, and able to commit the full one‑month duration.",
+    "benefits": "Certificate of Participation upon successful completion.",
+    "key_points": [
+      "One‑month internship with hands‑on research at AITS",
+      "Open to UG and PG students in social sciences",
+      "Application deadline 15‑May‑2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/rajiv-gandhi-university-arunachal-pradesh-internship-2026",
+    "url": "https://www.buddy4study.com/scholarship/rajiv-gandhi-university-arunachal-pradesh-internship-2026"
+  },
+  {
+    "scholarship_name": "Delhi State Legal Services Authority Internship Program 2026-27",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "",
+    "application_deadline": "15-May-2026",
+    "provider": "Delhi State Legal Services Authority (DSLSA)",
+    "region": "India",
+    "summary": "Internship program by Delhi State Legal Services Authority offering law students hands‑on experience and a certificate.",
+    "eligibility": "Law students enrolled in any 5‑year integrated or 3‑year LLB program in India, with good written English, legal writing, basic legal knowledge and computer skills.",
+    "benefits": "Internship certificate and practical exposure to free legal aid services and work with marginalised communities.",
+    "key_points": [
+      "Open to all law students across India",
+      "Must have proficiency in English legal writing and basic computer skills",
+      "Application deadline 15‑May‑2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/delhi-state-legal-services-authority-internship-program-2026-27",
+    "url": "https://www.buddy4study.com/scholarship/delhi-state-legal-services-authority-internship-program-2026-27"
+  },
+  {
+    "scholarship_name": "DRDO-DLRL Hyderabad Internship 2026",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹30,000",
+    "application_deadline": "15-May-2026",
+    "provider": "DRDO (Defence Research and Development Organisation)",
+    "region": "India",
+    "summary": "Final year B.E/B.Tech students can intern at DRDO Hyderabad with a ₹30,000 stipend and certificate.",
+    "eligibility": "Final year B.E/B.Tech students (2026-27) with no backlogs.",
+    "benefits": "Stipend of ₹30,000 and internship completion certificate.",
+    "key_points": [
+      "Apply by 15-May-2026",
+      "Only final year B.E/B.Tech students eligible",
+      "No backlogs required"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/drdo-dlrl-hyderabad-internship-2026",
+    "url": "https://www.buddy4study.com/scholarship/drdo-dlrl-hyderabad-internship-2026"
+  },
+  {
+    "scholarship_name": "Japanese Government (MEXT) Scholarships for Research Students 2027",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to ¥145,000 monthly (≈₹85,300)",
+    "application_deadline": "15-May-2026",
+    "provider": "Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT)",
+    "region": "Japan",
+    "summary": "MEXT offers up to ¥145,000 monthly stipend and benefits for international students to pursue Master's or Doctoral research in Japan.",
+    "eligibility": "Born on or after 2 Apr 1992, completed 16 years of schooling outside Japan, hold a relevant bachelor's degree, and be willing to learn Japanese.",
+    "benefits": "Monthly stipend up to ¥145,000 (≈₹85,300) plus other benefits such as accommodation, travel allowance, and research support.",
+    "key_points": [
+      "Age limit: born on or after 2 Apr 1992.",
+      "Must have completed 16 years of schooling and a 3-year bachelor's degree abroad.",
+      "Application deadline: 15-May-2026."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/japanese-government-mext-scholarships-for-research-students-2027",
+    "url": "https://www.buddy4study.com/scholarship/japanese-government-mext-scholarships-for-research-students-2027"
+  },
+  {
+    "scholarship_name": "AYUSH Scholarship Scheme 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹43,500 per month",
+    "application_deadline": "15-May-2026",
+    "provider": "Government of India through the Indian Council for Cultural Relations (ICCR)",
+    "region": "India",
+    "summary": "AYUSH Scholarship Scheme 2026-27 offers up to ₹43,500 monthly stipend plus airfare and health insurance for UG/PG students in AYUSH courses across India.",
+    "eligibility": "UG or PG students in Ayurveda, Yoga, Unani, Siddha or Homoeopathy courses; must be at least 18 years old and hold a recognized bachelor's degree (or 12th with required subjects) for master's programs.",
+    "benefits": "Monthly stipend up to ₹43,500, airfare, health insurance, and other support for education in India.",
+    "key_points": [
+      "Monthly stipend up to ₹43,500.",
+      "Applicable to both UG and PG AYUSH students.",
+      "Deadline 15-May-2026; apply before the date."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/ayush-scholarship-scheme-2026",
+    "url": "https://www.buddy4study.com/scholarship/ayush-scholarship-scheme-2026"
+  },
+  {
+    "scholarship_name": "Eisenhower Fellowships Global Program 2027",
+    "category": "Fellowship",
     "tags": {
       "state": "All",
       "gender": "All",
@@ -453,10 +424,310 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Details not provided in the text",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-surrey-great-scholarships-india#",
+    "scholarship_amount": "Variable benefits",
+    "application_deadline": "15-May-2026",
+    "provider": "Eisenhower Fellowships",
+    "region": "United States",
+    "summary": "The Eisenhower Fellowships Global Program 2027 offers a fellowship for professionals aged 32‑45 to build networks and collaborations in the United States, with variable benefits.",
+    "eligibility": "Applicants must be 32‑45 years old, hold citizenship or have resided at least five years in the country they represent, possess strong English skills, have employer approval, not currently reside in the United States, and not have received a fellowship in the...",
+    "benefits": "Selected fellows receive variable benefits as determined by Eisenhower Fellowships.",
+    "key_points": [
+      "Age requirement: 32‑45 years",
+      "Must not be residing in the United States",
+      "Employer approval is required"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/eisenhower-fellowships-global-program-2027",
+    "url": "https://www.buddy4study.com/scholarship/eisenhower-fellowships-global-program-2027"
+  },
+  {
+    "scholarship_name": "INSA Visiting Scientist Programme 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹30,000 per month",
+    "application_deadline": "15-May-2026",
+    "provider": "Indian National Science Academy (INSA)",
+    "region": "India",
+    "summary": "INSA Visiting Scientist Programme offers scientists and faculty in Indian R&D organisations a monthly stipend of up to ₹30,000 to support research expenses.",
+    "eligibility": "Scientists and faculty in any R&D organisation, including universities or affiliated colleges in India, who have not received the programme in the last year.",
+    "benefits": "Maximum ₹30,000 per month to cover boarding, lodging, travel and other research-related expenses.",
+    "key_points": [
+      "Only for scientists/faculty in Indian R&D organisations",
+      "Applicant must not have availed the programme in the past year",
+      "Application deadline 15-May-2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/insa-visiting-scientist-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/insa-visiting-scientist-programme-2026"
+  },
+  {
+    "scholarship_name": "ASBS India Achievers Award 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "£15,000",
+    "application_deadline": "18-May-2026",
+    "provider": "University of Glasgow",
+    "region": "United Kingdom",
+    "summary": "ASBS India Achievers Award 2026 offers Indian students a £15,000 fee waiver for full‑time master’s programmes at the University of Glasgow.",
+    "eligibility": "Indian nationals with a confirmed offer for a postgraduate taught programme starting Sep 2026, holding grades equivalent to UK 1st class honours, and having international fee status. Applicants receiving external funding are ineligible.",
+    "benefits": "Selected candidates receive a tuition fee waiver of £15,000 (discount) for their master’s studies at the University of Glasgow.",
+    "key_points": [
+      "Must hold a confirmed offer for the September 2026 intake",
+      "Grades must be equivalent to UK 1st class honours",
+      "Students receiving external funding are ineligible"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/asbs--india-achievers-award-2026",
+    "url": "https://www.buddy4study.com/scholarship/asbs--india-achievers-award-2026"
+  },
+  {
+    "scholarship_name": "Numerix Women In Finance Scholarship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "Female",
+      "class": [
+        "PG",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "up to $20,000",
+    "application_deadline": "18-May-2026",
+    "provider": "Numerix LLC",
+    "region": "Abroad",
+    "summary": "Scholarship for female full-time Masters or PhD Finance students, offering up to $20,000.",
+    "eligibility": "Female citizens enrolled full‑time in a Masters or PhD Finance program, starting between 01‑Jan‑2026 and 01‑Feb‑2027, with <10 years total work experience and <5 years finance experience.",
+    "benefits": "Recipients receive a scholarship of up to $20,000 to support their Finance postgraduate studies.",
+    "key_points": [
+      "Apply before 18-May-2026",
+      "Must be a female citizen and full‑time Finance postgraduate",
+      "Work experience <10 years total, <5 years in finance"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/numerix-women-in-finance-scholarship-2026",
+    "url": "https://www.buddy4study.com/scholarship/numerix-women-in-finance-scholarship-2026"
+  },
+  {
+    "scholarship_name": "Oxford and Cambridge Society of India Scholarship (OCSI), UK 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to ₹4,00,000 (one-time)",
+    "application_deadline": "21-May-2026",
+    "provider": "Oxford and Cambridge Society of India (OCSI)",
+    "region": "United Kingdom",
+    "summary": "OCSI UK 2026 offers Indian students up to ₹4 lakh for undergraduate, graduate or research studies at Oxford or Cambridge.",
+    "eligibility": "Indian citizens residing in India, under 30 years by 1 Sep, holding a degree from an Indian university for a second undergraduate or postgraduate course (or school students for UG), and admitted to Oxford or Cambridge.",
+    "benefits": "One-time scholarship of up to ₹4,00,000 for studies at Oxford or Cambridge.",
+    "key_points": [
+      "Must be Indian citizen residing in India",
+      "Age limit: under 30 by 1 Sep of application year",
+      "Applicable for second UG/PG or research programs at Oxford/Cambridge"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/oxford-and-cambridge-society-of-india-scholarship-ocsi-uk-2026",
+    "url": "https://www.buddy4study.com/scholarship/oxford-and-cambridge-society-of-india-scholarship-ocsi-uk-2026"
+  },
+  {
+    "scholarship_name": "Vice-Chancellor’s Excellence Postgraduate Scholarship 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to 50% tuition fee waiver",
+    "application_deadline": "26-May-2026",
+    "provider": "Newcastle University",
+    "region": "United Kingdom",
+    "summary": "Postgraduate scholarship by Newcastle University offering up to 50% tuition fee waiver for Indian nationals pursuing selected master’s programs in the UK.",
+    "eligibility": "Indian nationals assessed as international students, holding an offer for an eligible master’s program and possessing at least an upper second-class UK honours degree (or equivalent).",
+    "benefits": "50% waiver on tuition fees for the full duration of the master’s program, credited to the tuition fee account.",
+    "key_points": [
+      "Must be Indian national and classified as international student for fee purposes.",
+      "Requires offer for eligible master’s program at Newcastle University’s city centre campus for 2026/27.",
+      "Award covers 50% of tuition fees for the entire program duration."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/vice-chancellors-excellence-postgraduate-scholarship-2026",
+    "url": "https://www.buddy4study.com/scholarship/vice-chancellors-excellence-postgraduate-scholarship-2026"
+  },
+  {
+    "scholarship_name": "HSCST Fellowship Programme, Haryana 2025-26",
+    "category": "Fellowship",
+    "tags": {
+      "state": "Haryana",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 55,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to ₹35,000 per month",
+    "application_deadline": "29-May-2026",
+    "provider": "Haryana State Council for Science, Innovation & Technology (HSCST)",
+    "region": "India",
+    "summary": "Fellowship for M.Sc. graduates to pursue full‑time PhD research in Haryana with a monthly stipend up to ₹35,000.",
+    "eligibility": "Applicants must be under 28 years (relaxed by 5 years for SC/ST/Women/OBC), hold an M.Sc. or equivalent with ≥55% marks, have qualified CSIR‑UGC NET JRF (2024), and not be receiving any other fellowship.",
+    "benefits": "Monthly stipend of up to ₹35,000 and research support for full‑time doctoral studies at any accredited university/institution in Haryana.",
+    "key_points": [
+      "Age limit 28 years (relaxed by 5 years for SC/ST/Women/OBC).",
+      "Must have cleared CSIR‑UGC NET JRF (2024) and hold M.Sc. with ≥55% marks.",
+      "Stipend up to ₹35,000 per month for full‑time PhD research in Haryana."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/hscst-fellowship-programme-haryana-2025",
+    "url": "https://www.buddy4study.com/scholarship/hscst-fellowship-programme-haryana-2025"
+  },
+  {
+    "scholarship_name": "Edinburgh Surgery Online Global Scholarships 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Full tuition fee coverage",
+    "application_deadline": "29-May-2026",
+    "provider": "University of Edinburgh",
+    "region": "United Kingdom",
+    "summary": "Full tuition scholarship for MSc Surgical Sciences (Online) for students from low-income countries, including India.",
+    "eligibility": "Applicants must be nationals or residents of low‑income or lower‑middle‑income countries (including India), enrolled in the MSc Surgical Sciences (Online Learning) program and have an accepted admission offer.",
+    "benefits": "Full tuition fee waiver for the MSc program, with possible contribution towards internet access costs.",
+    "key_points": [
+      "Open to applicants from developing countries",
+      "Covers full tuition fees",
+      "Application deadline 29‑May‑2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/edinburgh-surgery-online-global-scholarships-2026",
+    "url": "https://www.buddy4study.com/scholarship/edinburgh-surgery-online-global-scholarships-2026"
+  },
+  {
+    "scholarship_name": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Tuition fees and other benefits",
+    "application_deadline": "29-May-2026",
+    "provider": "World Bank Development Economics Vice Presidency (DEC)",
+    "region": "Abroad",
+    "summary": "The JJ/WBGSP 2026 scholarship funds Indian nationals pursuing a master's degree abroad, covering tuition fees and additional benefits.",
+    "eligibility": "Indian nationals (no dual citizenship) with a bachelor’s degree earned at least 3 years before the deadline, full‑time development‑related work experience of 3+ years, and unconditional admission to a participating master’s program abroad.",
+    "benefits": "Full coverage of tuition fees plus additional benefits such as living allowance, travel, and health insurance.",
+    "key_points": [
+      "Must be an Indian citizen without dual citizenship",
+      "Require at least 3 years of development‑related work experience",
+      "Admission to a participating master’s program abroad is mandatory"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/joint-japan-world-bank-graduate-scholarship-program-jj-wbgsp-2026",
+    "url": "https://www.buddy4study.com/scholarship/joint-japan-world-bank-graduate-scholarship-program-jj-wbgsp-2026"
+  },
+  {
+    "scholarship_name": "India Netherlands Hydrogen Fellowship Programme 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to €2,000 per month",
+    "application_deadline": "29-May-2026",
+    "provider": "Department of Science and Technology (DST), Government of India",
+    "region": "Netherlands",
+    "summary": "Fellowship for Indian PhD candidates to conduct hydrogen research in the Netherlands, offering up to €2,000 monthly.",
+    "eligibility": "Indian nationals with a Master's, PhD or postdoctoral degree in science/technology, working in engineering, science, economics, policy or safety, and holding a conditional acceptance from University of Groningen. Applicants already awarded PhD or within 8...",
+    "benefits": "Monthly stipend up to €2,000, opportunity to work in the Netherlands on hydrogen research, and collaboration with University of Groningen.",
+    "key_points": [
+      "Must be Indian national with a Master's, PhD or postdoc in a relevant field.",
+      "Conditional acceptance from University of Groningen is required.",
+      "Applicants with completed PhD or within 8 months of thesis submission are not eligible."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/india-netherlands-hydrogen-fellowship-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/india-netherlands-hydrogen-fellowship-programme-2026"
+  },
+  {
+    "scholarship_name": "University of Surrey GREAT Scholarships – India 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "£10,000",
+    "application_deadline": "29-May-2026",
+    "provider": "University of Surrey",
+    "region": "United Kingdom",
+    "summary": "£10,000 scholarship for Indian postgraduate students to study at University of Surrey, UK.",
+    "eligibility": "Indian passport holders with permanent residency, holding an unconditional offer for a full‑time postgraduate course starting Sep 2026, and having relevant work experience or interest.",
+    "benefits": "£10,000 award, study in the UK, networking with scholars, and ambassador role for UK higher education.",
+    "key_points": [
+      "Must be an Indian passport holder and permanent resident",
+      "Unconditional offer for a full‑time postgraduate course starting Sep 2026 required",
+      "Attend networking event and act as a UK education ambassador"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/university-of-surrey-great-scholarships-india-2026",
     "url": "https://www.buddy4study.com/scholarship/university-of-surrey-great-scholarships-india-2026"
   },
   {
@@ -465,184 +736,301 @@
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Details not provided in the text.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/lee-kong-chian-research-fellowship-2026",
-    "url": "https://www.buddy4study.com/scholarship/lee-kong-chian-research-fellowship-2026"
-  },
-  {
-    "scholarship_name": "IMU Breakout Graduate Fellowship Program",
-    "category": "Fellowship",
-    "tags": {
-      "state": "",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/imu-breakout-graduate-fellowship-program#",
-    "url": "https://www.buddy4study.com/scholarship/imu-breakout-graduate-fellowship-program-2026"
-  },
-  {
-    "scholarship_name": "D K Bhave Scholarship",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/d-k-bhave-scholarship",
-    "url": "https://www.buddy4study.com/scholarship/d-k-bhave-scholarship-2026"
-  },
-  {
-    "scholarship_name": "Post Matric Scholarship West Bengal",
-    "category": "Scholarship",
-    "tags": {
-      "state": "West Bengal",
-      "gender": "All",
       "class": [
-        "Post Matric"
+        "PhD",
+        "PG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-west-bengal",
-    "url": "https://www.buddy4study.com/scholarship/post-matric-scholarship-west-bengal-2025"
+    "scholarship_amount": "",
+    "application_deadline": "29-May-2026",
+    "provider": "National Library Board (NLB)",
+    "region": "Singapore",
+    "summary": "The Lee Kong Chian Research Fellowship 2026, offered by Singapore's National Library Board, supports curators, historians, academics, and independent researchers with a monthly...",
+    "eligibility": "Open to curators, historians, academics or independent researchers with established records, pursuing doctoral, postdoctoral or advanced research, and possessing scholarly credentials.",
+    "benefits": "Monthly stipend for 6 months, one-time relocation allowance, monthly accommodation allowance, and reimbursement of a return economy class air ticket.",
+    "key_points": [
+      "Must have an established research record",
+      "Applicants should be pursuing doctoral or postdoctoral research",
+      "Application deadline is 29-May-2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/lee-kong-chian-research-fellowship-2026",
+    "url": "https://www.buddy4study.com/scholarship/lee-kong-chian-research-fellowship-2026"
   },
   {
-    "scholarship_name": "Swami Vivekananda Merit Cum Means Scholarship Scheme for Minorities West Bengal",
-    "category": "Scholarship",
+    "scholarship_name": "IMU Breakout Graduate Fellowship Program 2026",
+    "category": "Fellowship",
     "tags": {
-      "state": "West Bengal",
+      "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "PhD"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Minority students residing in West Bengal.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/swami-vivekananda-merit-cum-means-scholarship-scheme-for-minorities-west-bengal",
+    "scholarship_amount": "Up to $10,000 per year",
+    "application_deadline": "30-May-2026",
+    "provider": "International Mathematical Union (IMU)",
+    "region": "All",
+    "summary": "Fellowship for PhD students from developing countries to pursue doctoral research, offering up to $10,000 per year.",
+    "eligibility": "Open to residents/citizens of developing countries who are enrolled or pre‑accepted in a recognised PhD program, have an outstanding maths record, a thesis advisor and project, and will be hosted by a recognised university/research institute in a developing...",
+    "benefits": "Up to $10,000 per year plus additional benefits.",
+    "key_points": [
+      "Must be a PhD candidate from a developing country",
+      "Host institution must be in a developing country",
+      "Award is $10,000 per year"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/imu-breakout-graduate-fellowship-program-2026",
+    "url": "https://www.buddy4study.com/scholarship/imu-breakout-graduate-fellowship-program-2026"
+  },
+  {
+    "scholarship_name": "D. K. Bhave Scholarship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to 50% of first-year tuition",
+    "application_deadline": "30-May-2026",
+    "provider": "Savitribai Phule Pune University",
+    "region": "Abroad",
+    "summary": "Scholarship for engineering graduates of Savitribai Phule Pune University to pursue a Master's abroad, covering up to 50% of first-year costs.",
+    "eligibility": "Must be an engineering graduate or final-year B.E/B.Tech student of Savitribai Phule Pune University (or NBA‑accredited institute in PMC/PCMC), have a confirmed admission for a Master's in Engineering abroad, maintain at least a B grade, and not already be...",
+    "benefits": "Provides up to 50% of the estimated first-year cost for a Master's in Engineering at an accredited foreign university.",
+    "key_points": [
+      "Covers maximum 50% of first-year tuition and fees.",
+      "Applicable only for engineering Master's programs in USA, Canada, Germany, England, Australia, New Zealand...",
+      "Eligibility limited to SPPU engineering graduates or final-year students from NBA‑accredited institutes in..."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/d-k-bhave-scholarship-2026",
+    "url": "https://www.buddy4study.com/scholarship/d-k-bhave-scholarship-2026"
+  },
+  {
+    "scholarship_name": "Post-Matric Scholarship, West Bengal 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "West Bengal",
+      "gender": "All",
+      "class": [
+        "Class 12",
+        "UG",
+        "PG",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 200000
+    },
+    "scholarship_amount": "Up to ₹16,500",
+    "application_deadline": "31-May-2026",
+    "provider": "West Bengal Minorities Development & Finance Corporation (WBMDFC)",
+    "region": "India",
+    "summary": "Post-Matric Scholarship by West Bengal for minority students from Class 11 to Ph.D., offering up to ₹16,500 to eligible residents.",
+    "eligibility": "Permanent residents of West Bengal studying Class 11 to Ph.D., with ≤₹2,00,000 family income and at least 50% marks in the last exam.",
+    "benefits": "Award up to ₹16,500 per student to support education from Class 11 through Ph.D.",
+    "key_points": [
+      "Resident of West Bengal required.",
+      "Family income ceiling ₹2,00,000.",
+      "Minimum 50% marks in latest exam."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-west-bengal-2025",
+    "url": "https://www.buddy4study.com/scholarship/post-matric-scholarship-west-bengal-2025"
+  },
+  {
+    "scholarship_name": "Swami Vivekananda Merit Cum Means Scholarship Scheme for Minorities, West Bengal 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "West Bengal",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "Diploma",
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹60,000",
+    "application_deadline": "31-May-2026",
+    "provider": "West Bengal Minorities Development & Finance Corporation (WBMDFC)",
+    "region": "India",
+    "summary": "Scholarship for minority students in West Bengal from Class 11 to PG, offering up to ₹60,000 to support education.",
+    "eligibility": "Minority students from West Bengal pursuing Class 11, diploma, undergraduate or postgraduate courses.",
+    "benefits": "Award up to ₹60,000 to reduce the financial burden for minority students.",
+    "key_points": [
+      "Open to minority students from Class 11 to postgraduate level.",
+      "Maximum award amount is ₹60,000 per student.",
+      "Application deadline is 31-May-2026."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/swami-vivekananda-merit-cum-means-scholarship-scheme-for-minorities-west-bengal-2025",
     "url": "https://www.buddy4study.com/scholarship/swami-vivekananda-merit-cum-means-scholarship-scheme-for-minorities-west-bengal-2025"
   },
   {
-    "scholarship_name": "Pre-Matric Scholarship for OBC Students Delhi",
+    "scholarship_name": "Pre-Matric Scholarship for OBC Students, Delhi 2025-26",
     "category": "Scholarship",
     "tags": {
       "state": "Delhi",
       "gender": "All",
       "class": [
+        "Class 9",
         "Class 10"
       ]
     },
     "requirements": {
       "min_percentage": 0,
-      "max_family_income": 999999999
+      "max_family_income": 250000
     },
-    "eligibility": "Open to OBC students in Delhi for pre‑matric (Class 10) level",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-obc-students-delhi",
+    "scholarship_amount": "Up to ₹500 per month",
+    "application_deadline": "31-May-2026",
+    "provider": "Department for the Welfare of SC/ST/OBC/Minority, Government of NCT Delhi",
+    "region": "Delhi",
+    "summary": "Pre-Matric Scholarship for OBC students in Delhi offers up to ₹500 per month for eligible Class 9‑10 students in government schools.",
+    "eligibility": "Indian citizen OBC students domiciled in Delhi studying in Classes 9‑10 of government schools, who have passed the previous class, maintain ≥75% attendance, and have family income below ₹2,50,000 per annum.",
+    "benefits": "Day scholars receive ₹100 per month (classes 1‑10, ≥60% attendance); hostelers receive ₹500 per month (classes 3‑10). Total scholarship up to ₹500 per month.",
+    "key_points": [
+      "Only for OBC students domiciled in Delhi",
+      "Family income must be below ₹2,50,000 per annum",
+      "Must be enrolled in government school classes 9‑10 with ≥75% attendance"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-obc-students-delhi-2025",
     "url": "https://www.buddy4study.com/scholarship/prematric-scholarship-for-obc-students-delhi-2025"
   },
   {
-    "scholarship_name": "Post-Matric Scholarship for OBC Students - Delhi",
+    "scholarship_name": "Post-Matric Scholarship for OBC Students, Delhi 2025-26",
     "category": "Scholarship",
     "tags": {
       "state": "Delhi",
       "gender": "All",
       "class": [
-        "Post-Matric"
+        "Class 11"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 75,
+      "max_family_income": 100000
+    },
+    "scholarship_amount": "Up to ₹750 per month",
+    "application_deadline": "31-May-2026",
+    "provider": "Ministry of Social Justice and Empowerment, Government of India",
+    "region": "Delhi",
+    "summary": "A centrally-sponsored scholarship for OBC students domiciled in Delhi, offering up to ₹750 per month for post‑matric studies.",
+    "eligibility": "Indian OBC students domiciled in Delhi, studying post‑matriculation, with ≤₹1,00,000 family income and ≥75% attendance.",
+    "benefits": "Monthly stipend of ₹260‑₹750 for day scholars or ₹160‑₹350 for hostelers, plus full tuition, registration and exam fees.",
+    "key_points": [
+      "Income ceiling ₹1,00,000 per annum",
+      "Minimum attendance 75% in previous year",
+      "Different stipend ranges for day scholars and hostelers"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-for-obc-students-delhi-2025",
+    "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-obc-students-delhi-2025"
+  },
+  {
+    "scholarship_name": "Reimbursement of Tuition Fee for SC/ST/OBC (School), Delhi 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Delhi",
+      "gender": "All",
+      "class": [
+        "Class 1-12"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to ₹48,000 (or actual paid, whichever is less)",
+    "application_deadline": "31-May-2026",
+    "provider": "Department for the Welfare of SC/ST, Government of NCT of Delhi",
+    "region": "Delhi",
+    "summary": "Reimbursement of tuition, lab, and library fees up to ₹48,000 for SC/ST/OBC/minority students in Delhi schools (Classes 1‑12).",
+    "eligibility": "Delhi domicile students belonging to SC, ST, OBC or minority communities, enrolled in Classes 1‑12 in recognized Delhi schools, with at least 50% marks in the previous exam.",
+    "benefits": "Provides 100% reimbursement of tuition, lab and library fees up to ₹48,000 (or actual amount paid) for eligible students.",
+    "key_points": [
+      "Must be a Delhi resident.",
+      "Applicable to SC/ST/OBC/minority students only.",
+      "Maximum reimbursement limit is ₹48,000 per student."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/reimbursement-of-tuition-fee-for-sc-st-obc-minorities-delhi",
+    "url": "https://www.buddy4study.com/scholarship/reimbursement-of-tuition-fee-for-sc-st-obc-school-delhi-2025"
+  },
+  {
+    "scholarship_name": "Dr. BR Ambedkar Scholarship for Topper Award, Delhi 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Delhi",
+      "gender": "All",
+      "class": [
+        "Class 10",
+        "Class 12",
+        "UG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "OBC students residing in Delhi for post-matric level education.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-scholarship-for-obc-students-delhi",
-    "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-obc-students-delhi-2025"
-  },
-  {
-    "scholarship_name": "Reimbursement of Tuition Fee for SC/ST/OBC Minorities Delhi",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Delhi",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Open to SC, ST, OBC minority students residing in Delhi.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/reimbursement-of-tuition-fee-for-sc-st-obc-minorities-delhi",
-    "url": "https://www.buddy4study.com/scholarship/reimbursement-of-tuition-fee-for-sc-st-obc-school-delhi-2025"
-  },
-  {
-    "scholarship_name": "Dr. B.R. Ambedkar Scholarship for Toppers (Meritorious Award) – Delhi",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Delhi",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Details not provided in the text.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "N/A",
-    "apply_link": "https://www.buddy4study.com/scholarship/dr-br-ambedkar-scholarship-for-toppers-meritorious-award-delhi",
+    "scholarship_amount": "₹8,000 per stream",
+    "application_deadline": "31-May-2026",
+    "provider": "Department for the Welfare of SC/ST, Government of NCT of Delhi",
+    "region": "India",
+    "summary": "Delhi government offers ₹8,000 to SC/ST/OBC/Minority students who top their professional/technical degree courses.",
+    "eligibility": "Indian citizen, Delhi domicile, belonging to SC/ST/OBC/Minority, passed Class 10 & 12 in Delhi, studying a professional/technical degree in Delhi, and secured top marks in final year exams.",
+    "benefits": "Selected candidates receive an award of ₹8,000 per stream.",
+    "key_points": [
+      "Must be a Delhi domicile",
+      "Must belong to SC/ST/OBC/Minority",
+      "Must have top marks in final year exams"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/dr-br-ambedkar-scholarship-for-topper-award-delhi-2025",
     "url": "https://www.buddy4study.com/scholarship/dr-br-ambedkar-scholarship-for-topper-award-delhi-2025"
   },
   {
-    "scholarship_name": "Merit Scholarship for SC/ST/OBC Students Delhi",
+    "scholarship_name": "Merit Scholarship for SC/ST/OBC Students (College/Professional Institutions), Delhi 2025-26",
     "category": "Scholarship",
     "tags": {
       "state": "Delhi",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG",
+        "Diploma"
+      ]
     },
     "requirements": {
-      "min_percentage": 0,
+      "min_percentage": 60,
       "max_family_income": 999999999
     },
-    "eligibility": "SC/ST/OBC students residing in Delhi",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/merit-scholarship-for-sc-st-obc-students-delhi",
+    "scholarship_amount": "Up to ₹22,320 per annum",
+    "application_deadline": "31-May-2026",
+    "provider": "Department for the Welfare of SC/ST/OBC/Minority, Government of NCT of Delhi",
+    "region": "India",
+    "summary": "Scholarship for SC/ST/OBC students from Delhi pursuing UG/PG or diploma courses, offering up to ₹22,320 per year.",
+    "eligibility": "Indian citizens domiciled in Delhi belonging to SC, ST, OBC or Minority categories, with at least 60% marks, enrolled in UG, PG or diploma programs in fields like Medicine, Engineering, Agriculture, Veterinary, Forensic Science, or other technical studies.",
+    "benefits": "Financial assistance up to ₹22,320 per annum to support education expenses for eligible SC/ST/OBC students.",
+    "key_points": [
+      "Must be a Delhi domicile.",
+      "Minimum 60% academic score required.",
+      "Applicable to UG, PG and diploma courses in specified technical fields."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/merit-scholarship-for-sc-st-obc-students-college-professional-institutions-delhi-2025",
     "url": "https://www.buddy4study.com/scholarship/merit-scholarship-for-sc-st-obc-students-college-professional-institutions-delhi-2025"
   },
   {
@@ -651,38 +1039,181 @@
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "",
+    "scholarship_amount": "$1,000",
+    "application_deadline": "31-May-2026",
+    "provider": "Office for Student Research & Creativity (OSRC), John Jay College of Criminal Justice",
+    "region": "United States",
+    "summary": "A $1,000 scholarship for undergraduate and graduate students at John Jay College to conduct research or creative work with faculty.",
+    "eligibility": "Undergraduate or graduate students enrolled at John Jay College for the full academic year, pursuing any major, not receiving support from other John Jay research programs for the same project, and having a faculty mentor before submitting the essay.",
+    "benefits": "Recipients receive a $1,000 scholarship to support their research or creative project conducted with a faculty mentor at John Jay College.",
+    "key_points": [
+      "Must be enrolled at John Jay College for the entire academic year",
+      "Cannot receive support from other John Jay research programs for the same project",
+      "Must secure a faculty mentor before submitting the application essay"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/john-jay-college-creativity-assistant-scholarships",
     "url": "https://www.buddy4study.com/scholarship/john-jay-college-creativity-assistant-scholarships"
   },
   {
-    "scholarship_name": "Royal Conservatoire of Scotland Great Scholarship",
+    "scholarship_name": "Royal Conservatoire of Scotland GREAT Scholarship 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/royal-conservatoire-of-scotland-great-scholarship",
+    "scholarship_amount": "GBP 10,000",
+    "application_deadline": "31-May-2026",
+    "provider": "Royal Conservatoire of Scotland",
+    "region": "United Kingdom",
+    "summary": "GBP 10,000 scholarship for Indian nationals pursuing a 1‑year full‑time postgraduate program at Royal Conservatoire of Scotland.",
+    "eligibility": "Indian nationals with a confirmed offer for a full‑time, one‑year postgraduate course at Royal Conservatoire of Scotland, applied by 31‑May‑2026.",
+    "benefits": "Award of GBP 10,000 to support tuition and living expenses for the postgraduate study.",
+    "key_points": [
+      "Only Indian nationals are eligible.",
+      "Must have a full‑time 1‑year postgraduate offer.",
+      "Application deadline is 31‑May‑2026."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/royal-conservatoire-of-scotland-great-scholarship-2026",
     "url": "https://www.buddy4study.com/scholarship/royal-conservatoire-of-scotland-great-scholarship-2026"
   },
   {
-    "scholarship_name": "Talent Support Stipend Programme West Bengal",
+    "scholarship_name": "Talent Support Stipend Programme, West Bengal 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "West Bengal",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "UG",
+        "PG",
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 200000
+    },
+    "scholarship_amount": "Up to ₹4,900",
+    "application_deadline": "31-May-2026",
+    "provider": "West Bengal Minorities Development & Finance Corporation (WBMDFC)",
+    "region": "India",
+    "summary": "Minority students from West Bengal, from Class 11 to Ph.D., with family income ≤₹2 lakh and ≤50% marks, can receive up to ₹4,900.",
+    "eligibility": "Applicants must be West Bengal domiciles belonging to a minority community, studying from Class 11 up to Ph.D., have family income ≤₹2 lakh, and have secured less than 50% in the previous final exam.",
+    "benefits": "Selected students receive a stipend of up to ₹4,900 to support their education.",
+    "key_points": [
+      "Domicile of West Bengal required.",
+      "Family income must not exceed ₹2 lakh.",
+      "Marks below 50% in last exam."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/talent-support-stipend-programme-west-bengal-2025",
+    "url": "https://www.buddy4study.com/scholarship/talent-support-stipend-programme-west-bengal-2025"
+  },
+  {
+    "scholarship_name": "Nutanix NextGen Innovators Scholarship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "$2,500",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "Abroad",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate students",
+    "benefits": "Selected candidates will receive a scholarship of $2,500.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Start: 1st February 2026 Application Deadline: 31st May 2026 Winners Announced: 17th July 2026"
+    ],
+    "apply_link": "https://www.nutanix.com/scholarships/nutanix-nextgen-innovators-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/nutanix-nextgen-innovators-scholarship-2026"
+  },
+  {
+    "scholarship_name": "King's College London Vice-Chancellor's Awards 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "£5,000 fee reduction",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Postgraduate applicants",
+    "benefits": "The selected students will receive a scholarship worth £5,000 (approx. ₹6,16,564.50) as a tuition fee reduction for postgraduate study.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: Candidates will be selected based on academic merit, evidence of making the most of their time at...",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/kings-college-london-vice-chancellors-awards-2026",
+    "url": "https://www.buddy4study.com/scholarship/kings-college-london-vice-chancellors-awards-2026"
+  },
+  {
+    "scholarship_name": "University of Birmingham India Chancellor's Scholarships 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "£10,000 towards tuition fees",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Postgraduate taught applicants",
+    "benefits": "Selected candidates will be awarded £10,000 towards their tuition fees.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria and academic...",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.birmingham.ac.uk/schools/business/courses/masters/scholarships",
+    "url": "https://www.buddy4study.com/scholarship/university-of-birmingham-india-chancellors-scholarships-2026"
+  },
+  {
+    "scholarship_name": "Merit-cum-Means Scholarship, West Bengal 2025-26",
     "category": "Scholarship",
     "tags": {
       "state": "West Bengal",
@@ -693,253 +1224,377 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/talent-support-stipend-programme-west-bengal",
-    "url": "https://www.buddy4study.com/scholarship/talent-support-stipend-programme-west-bengal-2025"
+    "scholarship_amount": "An award up to ₹33,000",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Minority students in professional/technical courses",
+    "benefits": "Selected students will receive an award of up to ₹33,000.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: Students will be selected as per the eligibility criteria.",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://wbmdfcscholarship.in/",
+    "url": "https://www.buddy4study.com/scholarship/merit-cum-means-scholarship-west-bengal-2025"
   },
   {
-    "scholarship_name": "Nutanix NextGen Innovators Scholarship",
+    "scholarship_name": "Sports Global Excellence Scholarship 2026-27",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/nutanix-nextgen-innovators-scholarship",
-    "url": "https://www.buddy4study.com/scholarship/nutanix-nextgen-innovators-scholarship-2026"
+    "scholarship_amount": "A tuition fee waiver of up to £7,500",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "UG/PG taught applicants",
+    "benefits": "Selected candidates will receive the benefits as follows:- 1\\. Scholarship: --- --- --- --- Course Scholarship Amount Postgraduate taught degree £5,000 Undergraduate taught degree 1st year (Level 4) 2nd year (Level 5)...",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: Candidates will be selected based on their fulfilment of the selection criteria. The scholarship...",
+      "Application Deadline: 31st May 2026 Notification of Candidates: 9th June 2026"
+    ],
+    "apply_link": "https://forms.office.com/Pages/ResponsePage.aspx?id=U7fLnrmoG0-yBpcWknmKZyl1iSltcwxMlJZNYDQZ2_lUMlExMU85SjVOODhIVDBWOVBCQ04wS1NHUyQlQCN0PWcu",
+    "url": "https://www.buddy4study.com/scholarship/sports-global-excellence-scholarship-2026"
   },
   {
-    "scholarship_name": "Kings College London Vice Chancellor's Awards",
+    "scholarship_name": "University of Birmingham India Postgraduate Chancellor's Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/kings-college-london-vice-chancellors-awards",
-    "url": "https://www.buddy4study.com/scholarship/kings-college-london-vice-chancellors-awards-2026"
+    "scholarship_amount": "A scholarship of £10,000 awards towards tuition fees",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Students pursuing full-time postgraduate programme",
+    "benefits": "The selected candidates shall receive £10,000 towards tuition fees for a full-time, postgraduate taught degree programme at the University of Birmingham's UK campus, starting in September 2026.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The scholars are selected based on their academic merit and Statement of Purpose.",
+      "Application Deadline: 31st May, 2026"
+    ],
+    "apply_link": "https://www.birmingham.ac.uk/study/scholarships-funding/india-postgraduate-chancellors-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/university-of-birmingham-india-postgraduate-chancellor-s-scholarship-2026"
   },
   {
-    "scholarship_name": "University of Birmingham India Chancellor's Scholarships",
+    "scholarship_name": "University of Plymouth GREAT Scholarship 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-birmingham-india-chancellors-scholarships",
-    "url": "https://www.buddy4study.com/scholarship/university-of-birmingham-india-chancellors-scholarships-2026"
-  },
-  {
-    "scholarship_name": "University of Plymouth Great Scholarships",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-plymouth-great-scholarships#",
+    "scholarship_amount": "£10,000",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Postgraduate applicants",
+    "benefits": "The selected scholar will receive each scholarship worth up to £10,000 towards the tuition fees.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The scholarship is awarded based on academic excellence and relevant experience.",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.plymouth.ac.uk/study/funding/scholarships/great-scholarships",
     "url": "https://www.buddy4study.com/scholarship/university-of-plymouth-great-scholarship-2026"
   },
   {
-    "scholarship_name": "Sheffield Hallam University Great Scholarships",
+    "scholarship_name": "Sheffield Hallam University GREAT Scholarships 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/sheffield-hallam-university-great-scholarships",
+    "scholarship_amount": "A tuition fee waiver of £10,000 for their full-time postgraduate taught course",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Postgraduate applicants at Sheffield Hallam University",
+    "benefits": "The selected candidates will receive a £10,000 tuition fee waiver for their full-time Master's program during the 2026–2027 academic year.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The selection of the candidates is based on the information provided in the online scholarship...",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.shu.ac.uk/funding/scholarships-and-bursaries/great-scholarships#:~:text=The%20GREAT%20scholarships%20are%20exclusively,can%20demonstrate%20excellent%20academic%20achievement.",
     "url": "https://www.buddy4study.com/scholarship/sheffield-hallam-university-great-scholarships-2026"
   },
   {
-    "scholarship_name": "Nottingham Global Full Scholarship",
+    "scholarship_name": "Nottingham Global Scholarships 2026-27",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/nottingham-global-full-scholarship",
+    "scholarship_amount": "100% tuition waiver",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "China",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate applicants",
+    "benefits": "The selected candidates will receive up to 100% tuition fee waiver for the first year of their study.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The students will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.nottingham.edu.cn/en/study-with-us/undergraduate/fees-and-scholarships/international.aspx",
     "url": "https://www.buddy4study.com/scholarship/nottingham-global-scholarships-2026"
   },
   {
-    "scholarship_name": "Queens University Belfast Great Scholarships",
+    "scholarship_name": "Queen's University Belfast GREAT Scholarships 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/queens-university-belfast-great-scholarships",
+    "scholarship_amount": "£10,000",
+    "application_deadline": "31-May-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "PG applicants",
+    "benefits": "The selected scholars will receive £10,000 towards tuition fees for a one-year master’s programme.",
+    "key_points": [
+      "Apply by 31-May-2026",
+      "Selection: The selection of the candidates will be made based on academic merit, fulfilment of the...",
+      "Application Deadline: 31st May 2026"
+    ],
+    "apply_link": "https://www.qub.ac.uk/Study/international-students/international-scholarships/great-scholarships-2025/",
     "url": "https://www.buddy4study.com/scholarship/queens-university-belfast-great-scholarships-2026"
   },
   {
-    "scholarship_name": "Amsterdam Merit Scholarship Medicine",
+    "scholarship_name": "Amsterdam Merit Scholarship (Medicine) 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
       "class": [
-        "UG"
+        "PG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/amsterdam-merit-scholarship-medicine#",
+    "scholarship_amount": "A scholarship of € 4,000",
+    "application_deadline": "01-Jun-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Students admitted to one of the (Master's) programs of the Faculty of Medicine",
+    "benefits": "The selected candidates shall receive a scholarship of € 4,000.",
+    "key_points": [
+      "Apply by 01-Jun-2026",
+      "Selection: The candidates are selected based on their academic excellence, letters of recommendation, and the...",
+      "Application Deadline: 01 June 2026"
+    ],
+    "apply_link": "https://www.amc.nl/web/leren/leren-in-het-amc/amsterdam-merit-scholarship.htm",
     "url": "https://www.buddy4study.com/scholarship/amsterdam-merit-scholarship-medicine"
   },
   {
-    "scholarship_name": "University of Winnipeg President's Scholarship for World Leaders (International Students)",
+    "scholarship_name": "The University of Winnipeg President’s Scholarship for World Leaders (for International Students) 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/the-university-of-winnipeg-presidents-scholarship-for-world-leaders-for-international-students",
+    "scholarship_amount": "An award of up to $3,500",
+    "application_deadline": "01-Jun-2026",
+    "provider": "",
+    "region": "Canada",
+    "summary": "Program Scholarships",
+    "eligibility": "UG/PG students and Professionals",
+    "benefits": "Selected students will receive the following awards for the different categories: For Undergraduate: $5,000 (₹4,67,059.50) For Graduate: $5,000 (₹4,67,059.50) For Professional, Applied Continuing Education (PACE)...",
+    "key_points": [
+      "Apply by 01-Jun-2026",
+      "Selection: Selections are based on the eligibility criteria.",
+      "Application Deadline: 1st June 2026"
+    ],
+    "apply_link": "https://www.uwinnipeg.ca/awards/awards-bursaries-and-scholarships/international-students.html",
     "url": "https://www.buddy4study.com/scholarship/the-university-of-winnipeg-presidents-scholarship-for-world-leaders-for-international-students-2026"
   },
   {
-    "scholarship_name": "Newcastle University India Leadership and Innovation Scholarship",
+    "scholarship_name": "Newcastle University India Leadership and Innovation Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/newcastle-university-india-leadership-and-innovation-scholarship#",
+    "scholarship_amount": "Full tuition fees",
+    "application_deadline": "04-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Master’s applicants",
+    "benefits": "Selected candidates will receive a scholarship to cover their full tuition fees.",
+    "key_points": [
+      "Apply by 04-Jun-2026",
+      "Selection: Candidates will be selected based on their academic abilities, commitment to their studies, and...",
+      "Application Deadline: 4 June 2026"
+    ],
+    "apply_link": "https://applyto.newcastle.ac.uk/",
     "url": "https://www.buddy4study.com/scholarship/newcastle-university-india-leadership-and-innovation-scholarship-2026"
   },
   {
-    "scholarship_name": "Vivo Ignite Technology Innovation Initiatives",
+    "scholarship_name": "vivo Ignite: Technology & Innovation Initiatives 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/vivo-ignite-technology-innovation-initiatives",
+    "scholarship_amount": "An award of up to ₹9,00,000 and more",
+    "application_deadline": "10-Jun-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Postgraduate applicants",
+    "benefits": "Individual participants: 1st Prize: ₹4,00,000 2nd Prize: ₹3,00,000 3rd Prize: ₹2,00,000 4th Prize: ₹1,50,000 5th Prize: ₹75,000 Group participants: 1st Prize: ₹9,00,000 2nd Prize: ₹6,00,000 3rd Prize: ₹4,50,000 4th...",
+    "key_points": [
+      "Apply by 10-Jun-2026",
+      "Selection: Candidates will be shortlisted, selected and mentored by vivo's CSR implementation partner in...",
+      "Application Deadline: 10th June 2026"
+    ],
+    "apply_link": "https://vivoignite.com/",
     "url": "https://www.buddy4study.com/scholarship/vivo-ignite-technology-innovation-initiatives-2026"
   },
   {
-    "scholarship_name": "University of Leeds International Excellence Scholarships",
+    "scholarship_name": "University of Leeds International Excellence Scholarships 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-leeds-international-excellence-scholarships#",
+    "scholarship_amount": "Scholarship up to £16,000 (₹18,86,702.40 approx.)",
+    "application_deadline": "12-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "UG/PG degree applicants",
+    "benefits": "The selected candidates shall receive scholarships worth either £3,000, £6,000 or £16,000.",
+    "key_points": [
+      "Apply by 12-Jun-2026",
+      "Selection: The students will be selected based on the fulfilment of the eligibility criteria.",
+      "Undergraduate Application Timeline (BST) Application Deadline: 31 March 2026 Candidate Notification: 15 May..."
+    ],
+    "apply_link": "https://www.leeds.ac.uk/international-scholarships-funding/doc/masters-scholarships",
     "url": "https://www.buddy4study.com/scholarship/university-of-leeds-international-excellence-scholarships-2026"
   },
   {
-    "scholarship_name": "University of Westminster International Undergraduate Excellence Awards",
+    "scholarship_name": "University of Westminster International Undergraduate Excellence Awards 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-westminster-international-undergraduate-excellence-awards#",
+    "scholarship_amount": "£2,500 tuition fee",
+    "application_deadline": "15-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "International undergraduate students",
+    "benefits": "The selected students will receive a tuition fee award of £2,500 (approx. ₹3,02,055.25) paid directly to the University towards tuition fees in the first semester.",
+    "key_points": [
+      "Apply by 15-Jun-2026",
+      "Selection: Candidates will be selected based on all eligibility requirements and academic excellence, with...",
+      "Application Deadline: 15 June 2026"
+    ],
+    "apply_link": "https://www.westminster.ac.uk/study/fees-and-funding/scholarships/international-undergraduate-excellence-award-iea-september-2026",
     "url": "https://www.buddy4study.com/scholarship/university-of-westminster-international-undergraduate-excellence-awards-2026"
   },
   {
-    "scholarship_name": "Robert Gordon University Vice Chancellor's Undergraduate Scholarship 2026",
+    "scholarship_name": "Robert Gordon University Vice-Chancellor’s Undergraduate Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "",
+      "state": "All India",
       "gender": "All",
       "class": [
         "UG"
@@ -949,35 +1604,56 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/robert-gordon-university-vice-chancellor-s-undergraduate-scholarship-2026",
+    "scholarship_amount": "Tuition Fee waiver for the first year of the course",
+    "application_deadline": "17-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate Applicants",
+    "benefits": "Selected students will receive first-year tuition fee waiver at the university, enrolled in any undergraduate course.",
+    "key_points": [
+      "Apply by 17-Jun-2026",
+      "Selection: The students will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: 17th June 2026"
+    ],
+    "apply_link": "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/vice-chancellor-s-undergraduate-scholarship#apply",
     "url": "https://www.buddy4study.com/scholarship/robert-gordon-university-vice-chancellor-s-undergraduate-scholarship-2026"
   },
   {
-    "scholarship_name": "Nottingham Trent University International Scholarships",
+    "scholarship_name": "Nottingham Trent University International Scholarships (September) 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/nottingham-trent-university-international-scholarships-january",
+    "scholarship_amount": "Fee waivers ranging from GBP 2,000 to 50%",
+    "application_deadline": "24-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "UG/PG applicants",
+    "benefits": "Selected candidates will receive:- NTU Excellence Scholarship: 50% or 25% off of 1st year fees. India Prestigious University Award: Up to GBP 4,000. NTU International Scholarship: GBP 2,000. NTU International Merit...",
+    "key_points": [
+      "Apply by 24-Jun-2026",
+      "Selection: Candidates will be selected based on merit and fulfilment of the eligibility criteria. They will...",
+      "Application Deadline: 24th June, 2026"
+    ],
+    "apply_link": "https://www.ntu.ac.uk/international/scholarships-and-fees/scholarships",
     "url": "https://www.buddy4study.com/scholarship/nottingham-trent-university-international-scholarships-2026"
   },
   {
-    "scholarship_name": "AWS AI ML Scholars",
+    "scholarship_name": "AWS AI & ML Scholars 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "",
+      "state": "All India",
       "gender": "All",
       "class": []
     },
@@ -985,32 +1661,23 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Details not provided",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/aws-ai-ml-scholars#",
+    "scholarship_amount": "Free AI training and career development",
+    "application_deadline": "24-Jun-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "18 year olds and above",
+    "benefits": "Selected candidates will receive a scholarship that covers the full cost of a three-month Udacity Nanodegree, preparing them for specialised, AWS-aligned AI careers. They will also receive a certificate upon...",
+    "key_points": [
+      "Apply by 24-Jun-2026",
+      "Selection: Candidates will be selected based on their performance in the challenge phase.",
+      "Application Start: 24th March 2026 Application Deadline: 24th June 2026"
+    ],
+    "apply_link": "https://aws.amazon.com/about-aws/our-impact/scholars/",
     "url": "https://www.buddy4study.com/scholarship/aws-ai-ml-scholars-2026"
   },
   {
-    "scholarship_name": "University of Bath International Excellence Scholarships",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Details not specified in the provided text.",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-bath-international-excellence-scholarships",
-    "url": "https://www.buddy4study.com/scholarship/university-of-bath-international-excellence-scholarships"
-  },
-  {
-    "scholarship_name": "India High Fliers Undergraduate Scholarships",
+    "scholarship_name": "University of Bath International Excellence Scholarships 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
@@ -1023,52 +1690,109 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/india-high-fliers-undergraduate-scholarships",
+    "scholarship_amount": "Scholarships worth £8,000 per academic year",
+    "application_deadline": "25-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Students joining an undergraduate course in September 2026",
+    "benefits": "The selected candidates shall receive Scholarships worth £8,000 (₹9,69,297 approx.) per academic year.",
+    "key_points": [
+      "Apply by 25-Jun-2026",
+      "Application Start: 08 January 2026 Application Deadline: 25 June 2026"
+    ],
+    "apply_link": "https://www.bath.ac.uk/guides/scholarships-for-international-undergraduate-students/",
+    "url": "https://www.buddy4study.com/scholarship/university-of-bath-international-excellence-scholarships"
+  },
+  {
+    "scholarship_name": "India High Fliers Undergraduate Scholarships 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "£5,000 for the first year",
+    "application_deadline": "30-Jun-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate applicants",
+    "benefits": "Selected candidates will receive a scholarship amount of £5,000 for the first year of undergraduate studies. Note:- Candidates must have sufficient funds to cover the full cost of living at the University of...",
+    "key_points": [
+      "Apply by 30-Jun-2026",
+      "Selection: Applicants will be nominated based on their merit and their fulfilment of the eligibility...",
+      "Application Deadline: 30th June 2026"
+    ],
+    "apply_link": "https://www.birmingham.ac.uk/funding/undergraduate/university-of-birminghamindia-high-fliers-undergraduate-scholarships",
     "url": "https://www.buddy4study.com/scholarship/india-high-fliers-undergraduate-scholarships-2026"
   },
   {
-    "scholarship_name": "Fulbright-Nehru Doctoral Research Fellowships",
+    "scholarship_name": "Fulbright Nehru Doctoral Research Fellowships 2027-28",
     "category": "Fellowship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
       "class": [
-        "Doctoral"
+        "PhD"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Doctoral research scholars across disciplines",
-    "scholarship_amount": "Varies",
-    "application_deadline": "N/A",
-    "apply_link": "https://www.buddy4study.com/scholarship/fulbright-nehru-doctoral-research-fellowships",
+    "scholarship_amount": "Monthly Stipend and other benefits",
+    "application_deadline": "01-Jul-2026",
+    "provider": "",
+    "region": "United States",
+    "summary": "Program Scholarships",
+    "eligibility": "PhD students",
+    "benefits": "The selected fellows will receive the following benefits:- A monthly stipend J-1 visa support round-trip economy class air travel applicable allowances and modest affiliation fees",
+    "key_points": [
+      "Apply by 01-Jul-2026",
+      "Selection: The fellows will be selected based on the eligibility criteria.",
+      "Application Deadline: 1st July 2026"
+    ],
+    "apply_link": "https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/fulbright-nehru-doctoral-research-fellowships/",
     "url": "https://www.buddy4study.com/scholarship/fulbright-nehru-doctoral-research-fellowships-2027"
   },
   {
-    "scholarship_name": "University of Hartford Future Leaders Scholarship",
+    "scholarship_name": "University of Hartford Future Leaders Scholarship 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-hartford-future-leaders-scholarship#",
+    "scholarship_amount": "USD 2,000 per academic year",
+    "application_deadline": "15-Jul-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate applicants",
+    "benefits": "The selected students will receive a scholarship of USD 2,000 per year, renewable for one year.",
+    "key_points": [
+      "Apply by 15-Jul-2026",
+      "Selection: Selection is based on the statement, which includes value-driven and impact-focused criteria.",
+      "Application Deadline: 15 July 2026 Notification of Scholarship: 8 August 2026"
+    ],
+    "apply_link": "https://www.hartford.edu/admission/graduate-admission/future-leaders-scholarship.aspx",
     "url": "https://www.buddy4study.com/scholarship/university-of-hartford-future-leaders-scholarship-2026"
   },
   {
-    "scholarship_name": "University of Leeds International Masters Regional Scholarships",
+    "scholarship_name": "University of Leeds International Master’s Regional Scholarships 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
@@ -1081,68 +1805,111 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-leeds-international-masters-regional-scholarships#",
+    "scholarship_amount": "Fee reduction of £6,000",
+    "application_deadline": "31-Jul-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Master’s applicants",
+    "benefits": "The selected candidates shall receive a fee reduction of £6,000 (₹7,19,967 approx.)",
+    "key_points": [
+      "Apply by 31-Jul-2026",
+      "Application Start: 1 October 2025 Application Deadline: 31 July 2026 Note:- Students should check the..."
+    ],
+    "apply_link": "https://www.leeds.ac.uk/masters-scholarships-bursaries/doc/international-regional-scholarships-2026",
     "url": "https://www.buddy4study.com/scholarship/university-of-leeds-international-masters-regional-scholarships-2026"
   },
   {
-    "scholarship_name": "JMS Trust Merit Scholarships",
+    "scholarship_name": "JM Sethia Merit Scholarships 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "Class 10",
+        "Class 12"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Details not provided in the text",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/jms-trust-merit-scholarships",
+    "scholarship_amount": "A monthly scholarship of up to ₹1,000",
+    "application_deadline": "31-Jul-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Students enrolled in full-time courses from Class 9 to Professional level",
+    "benefits": "Selected candidates will receive a monthly scholarship of:- Category A - ₹400 for two years (9th -10th). Category B- ₹500 for two years (11th -12th). Category C - ₹600 for two or three years as applicable (graduation)...",
+    "key_points": [
+      "Apply by 31-Jul-2026",
+      "Selection: Applications will be discussed and analysed for final selection by a selection panel, constituted...",
+      "Application Deadline: 31st July 2026"
+    ],
+    "apply_link": "https://www.jmstrust.com/activities.html",
     "url": "https://www.buddy4study.com/scholarship/jm-sethia-merit-scholarships-2026"
   },
   {
-    "scholarship_name": "Education Future International Scholarship",
+    "scholarship_name": "Education Future International Scholarship 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/education-future-international-scholarship",
+    "scholarship_amount": "Scholarship ranging between ₹2-10 lakh",
+    "application_deadline": "30-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "UG and PG applicants",
+    "benefits": "The selected candidates will receive a scholarship ranging between ₹2-10 lakhs.",
+    "key_points": [
+      "Apply by 30-Aug-2026",
+      "Selection: The candidates will be selected based on academic merit and motivational paragraph submitted by...",
+      "Application Start: 1 September 2025 Final Selection Announcement: September 1st week 2026 Applications are..."
+    ],
+    "apply_link": "https://www.education-future.org/",
     "url": "https://www.buddy4study.com/scholarship/education-future-international-scholarship-2026"
   },
   {
-    "scholarship_name": "Falmouth University Pathway Awards",
+    "scholarship_name": "Falmouth University Pathway Awards 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/falmouth-university-pathway-awards",
+    "scholarship_amount": "£2,000 towards tuition fees",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Undergraduate applicants",
+    "benefits": "Selected candidates will receive a contribution of £2,000 towards tuition fees.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected based on merit and fulfilment of the eligibility criteria.",
+      "The application deadline is according to the respective course timeline."
+    ],
+    "apply_link": "https://www.falmouth.ac.uk/study/student-funding/scholarships-international-students/falmouth-pathway-awards",
     "url": "https://www.buddy4study.com/scholarship/falmouth-university-pathway-awards-2026"
   },
   {
-    "scholarship_name": "University of Strathclyde International Postgraduate Dean's Excellence Scholarship",
+    "scholarship_name": "University of Strathclyde International Postgraduate Dean's Excellence Scholarship 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All",
@@ -1155,154 +1922,155 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "International postgraduate students",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-strathclyde-international-postgraduate-deans-excellence-scholarship",
+    "scholarship_amount": "An award of £10,000 for 1 year",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "International PG applicants",
+    "benefits": "The selected students will receive a £10,000 (approx. ₹12,59,431.00) scholarship for 1 year of study towards tuition fees.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected based on eligibility criteria.",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://www.strath.ac.uk/studywithus/scholarships/humanitiessocialsciencesdeansinternationalexcellencescholarship/#apply",
     "url": "https://www.buddy4study.com/scholarship/university-of-strathclyde-international-postgraduate-dean-s-excellence-scholarship-2026"
   },
   {
-    "scholarship_name": "Nokia Scholarship",
+    "scholarship_name": "Nokia Foundation Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "PhD"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/scholarship/nokia-scholarship",
+    "scholarship_amount": "Scholarship up to €7,500 (approx. ₹7,63,747)",
+    "application_deadline": "15-Sep-2026",
+    "provider": "",
+    "region": "Finland",
+    "summary": "Program Scholarships",
+    "eligibility": "Individuals pursuing a PhD in Information and Communications Technologies (ICT) or related fields",
+    "benefits": "The selected candidates will receive a scholarship of up to 7,500 euros (approx. ₹7,63,747) to support doctoral research and living expenses.",
+    "key_points": [
+      "Apply by 15-Sep-2026",
+      "Selection: Candidates are selected on the basis of the quality of their research studies.",
+      "Application start: 03 August 2026 Application Deadline: 15 September 2026"
+    ],
+    "apply_link": "https://www.nokiafoundation.com/nokia-scholarship-info",
     "url": "https://www.buddy4study.com/scholarship/nokia-foundation-scholarship-2026"
   },
   {
-    "scholarship_name": "Vivo Kanya Gyaan Scholarship Program",
+    "scholarship_name": "vivo KanyaGyaan Scholarship Program 2025-26",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/page/vivo-kanya-gyaan-scholarship-program",
+    "scholarship_amount": "INR 5 lakh",
+    "application_deadline": "11-May-2026",
+    "provider": "",
+    "region": "",
+    "summary": "Program Scholarships",
+    "eligibility": "Deadline:11-May-2026 Open to young women across India who are currently enrolled in full-time, regular STEM undergraduate courses such as B.Tech / B.E., B.Sc, BCA, MBBS, etc. (first or second year) at NIRF-ranked colleges; preference will be given to...",
+    "benefits": "Selected students will receive a fixed scholarship of INR 60,000 per year for up to three years. Note: The scholarship will cover essential education-related expenses, including institution fees, hostel and...",
+    "key_points": [
+      "Apply by 11-May-2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/page/vivo-kanya-gyaan-scholarship-program#singleScApply",
     "url": "https://www.buddy4study.com/scholarship/vivo-kanya-gyaan-scholarship-program"
   },
   {
-    "scholarship_name": "Vivo Kanya Gyaan Scholarship Program",
+    "scholarship_name": "Kind Circle Scholarship for Meritorious Students 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG",
+        "PG"
+      ]
     },
     "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
+      "min_percentage": 60,
+      "max_family_income": 600000
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/page/vivo-kanya-gyaan-scholarship-program",
-    "url": "https://www.buddy4study.com/scholarship/vivo-kanya-gyaan-scholarship-program"
-  },
-  {
-    "scholarship_name": "Kind Circle Scholarship for Meritorious Students",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "Meritorious students",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/page/kind-circle-scholarship-for-meritorious-students",
+    "scholarship_amount": "INR 6 lakh",
+    "application_deadline": "31-Mar-2027",
+    "provider": "",
+    "region": "",
+    "summary": "Program Scholarships",
+    "eligibility": "Deadline:31-Mar-2027 Students from Class 1 to postgraduate level enrolled in any Indian school or college Annual family income below INR 6 lakh At least 60% marks in the previous academic year",
+    "benefits": "The scholarship award varies based on the candidate's needs and will be determined after their interview. The minimum scholarship amount is INR 6,000.",
+    "key_points": [
+      "Apply by 31-Mar-2027"
+    ],
+    "apply_link": "https://www.buddy4study.com/page/kind-circle-scholarship-for-meritorious-students#singleScApply",
     "url": "https://www.buddy4study.com/scholarship/kind-circle-scholarship-for-meritorious-students-2026-27"
   },
   {
-    "scholarship_name": "Cadence Invecas Scholarship Program",
+    "scholarship_name": "The Cadence/Invecas Scholarship program 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "Delhi",
       "gender": "All",
-      "class": []
+      "class": [
+        "Class 12"
+      ]
     },
     "requirements": {
-      "min_percentage": 0,
+      "min_percentage": 80,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/page/the-cadence-invecas-scholarship-program#",
+    "scholarship_amount": "",
+    "application_deadline": "10-May-2026",
+    "provider": "",
+    "region": "",
+    "summary": "Program Scholarships",
+    "eligibility": "Deadline:10-May-2026 Have successfully passed 12th class with a minimum overall score of 80%. Pursuing 12th can also apply on the basis of their previous record. Comes from a lower-income group. Currently reside and study in Delhi NCR, Bangalore, Pune...",
+    "benefits": "Selected students will receive financial support for key educational expenses.",
+    "key_points": [
+      "Apply by 10-May-2026"
+    ],
+    "apply_link": "https://www.buddy4study.com/page/the-cadence-invecas-scholarship-program#singleScApply",
     "url": "https://www.buddy4study.com/scholarship/the-cadence-invecas-scholarship-program"
   },
   {
-    "scholarship_name": "Cadence Invecas Scholarship Program",
+    "scholarship_name": "STEP eLearn – General Communication Online Program",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
+      "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "UG"
+      ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "eligibility": "Not specified",
-    "scholarship_amount": "Not specified",
-    "application_deadline": "Not specified",
-    "apply_link": "https://www.buddy4study.com/page/the-cadence-invecas-scholarship-program#",
-    "url": "https://www.buddy4study.com/scholarship/the-cadence-invecas-scholarship-program"
-  },
-  {
-    "scholarship_name": "",
-    "category": "Scholarship",
-    "tags": {
-      "state": "",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
+    "scholarship_amount": "₹ 697",
     "application_deadline": "",
-    "apply_link": "",
-    "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-three"
-  },
-  {
-    "scholarship_name": "",
-    "category": "Scholarship",
-    "tags": {
-      "state": "",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "eligibility": "",
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "apply_link": "",
-    "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-three"
+    "provider": "",
+    "region": "",
+    "summary": "the Program",
+    "eligibility": "Criteria: Be a resident of India. Fall within the age range of 5 to 40 years. Be an adult learner or anyone seeking to improve their English skills.",
+    "benefits": "",
+    "key_points": [],
+    "apply_link": "https://www.buddy4study.com/application/STEP1/instruction",
+    "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-one"
   }
 ]

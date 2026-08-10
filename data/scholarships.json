@@ -7,87 +7,60 @@
       "gender": "All",
       "class": [
         "Class 10",
-        "UG",
-        "PG"
+        "Class 12",
+        "UG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Discounted fee starting from ₹697 (up to 54% off)",
+    "scholarship_amount": "₹697 - ₹1349 (discounted)",
     "application_deadline": "",
     "provider": "STEP eLearn",
     "region": "All India",
-    "summary": "Online English communication course with income‑based discounts, open to Indian residents aged 5‑40.",
-    "eligibility": "Indian residents aged 5‑40, any education level, with family income proof.",
-    "benefits": "Adaptive English modules, live trainer sessions, and up to 54% discount on course fee.",
+    "summary": "STEP eLearn offers an adaptive online English communication course with discounted fees based on family income for Indian students aged 5-40.",
+    "eligibility": "Indian residents aged 5-40, school or college students, with required ID and family income proof.",
+    "benefits": "Access to adaptive English learning covering reading, writing, listening, speaking, grammar, and vocabulary with live trainers, at reduced cost.",
     "key_points": [
-      "Discount varies with family income: <8 Lakh → ₹697, 8‑15 Lakh → ₹999, >15 Lakh → ₹1349.",
-      "Open to school, college and adult learners (age 5‑40).",
-      "Apply online via the provided link."
+      "Discounted fee: ₹697 for families <8 Lakh, ₹999 for 8‑15 Lakh, ₹1349 for >15 Lakh.",
+      "Requires student ID and family income proof.",
+      "Course adapts to learner’s proficiency level."
     ],
     "apply_link": "https://www.buddy4study.com/application/STEP1/instruction",
     "url": "https://www.buddy4study.com/scholarship/step-elearn-general-communication-online-category-three"
   },
   {
-    "scholarship_name": "University of Surrey International Excellence Award 2026",
+    "scholarship_name": "Atul Maheshwari Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "GBP 5,000 tuition fee waiver",
-    "application_deadline": "03-Aug-2026",
-    "provider": "University of Surrey",
-    "region": "United Kingdom",
-    "summary": "GBP 5,000 tuition fee waiver for self-funded international students pursuing a full-time Master's at University of Surrey, UK.",
-    "eligibility": "Self-funded overseas students with an offer for a full-time Master's program (excluding part-time, distance learning, MSc Pharmaceutical Sciences, MBA, and SISC applicants).",
-    "benefits": "GBP 5,000 tuition fee waiver.",
-    "key_points": [
-      "Only full-time Master's programs eligible",
-      "Excludes MSc Pharmaceutical Sciences, MBA, part-time and distance learning",
-      "Applicants must be self-funded overseas fee-payers"
-    ],
-    "apply_link": "https://www.buddy4study.com/scholarship/university-of-surrey-international-excellence-award-2026",
-    "url": "https://www.buddy4study.com/scholarship/university-of-surrey-international-excellence-award-2026"
-  },
-  {
-    "scholarship_name": "PM YASASVI Pre-Matric Scholarship Scheme for OBC/EBC/DNT Students (Class 9 & 10), Punjab 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Punjab",
+      "state": "All India",
       "gender": "All",
       "class": [
         "Class 9",
-        "Class 10"
+        "Class 10",
+        "Class 11",
+        "Class 12"
       ]
     },
     "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
+      "min_percentage": 60,
+      "max_family_income": 200000
     },
-    "scholarship_amount": "₹4,000 per annum",
-    "application_deadline": "06-Aug-2026",
-    "provider": "Ministry of Social Justice and Empowerment, Government of India",
+    "scholarship_amount": "Up to ₹75,000 per year",
+    "application_deadline": "",
+    "provider": "Amar Ujala Foundation",
     "region": "India",
-    "summary": "A government scholarship for OBC/EBC/DNT students in Punjab studying Class 9 or 10, offering ₹4,000 annual allowance.",
-    "eligibility": "Students of Punjab belonging to OBC, EBC or DNT categories, studying in Class 9 or 10.",
-    "benefits": "Consolidated academic allowance of ₹4,000 per year to support pre‑matric education.",
+    "summary": "Amar Ujala Foundation offers up to ₹75,000 annual scholarship for class 9‑12 students in government schools across India.",
+    "eligibility": "Students in classes 9‑12 studying in government institutions, with >60% marks in the last exam and family income ≤₹2,00,000.",
+    "benefits": "₹50,000 per year for classes 9‑10, ₹75,000 per year for classes 11‑12. Two blind students (one each from class 10 and 12) also considered.",
     "key_points": [
-      "Only for OBC/EBC/DNT students in Punjab",
-      "Applicable for Class 9 and 10 only",
-      "Application deadline 06-Aug-2026"
+      "Only for students in government schools",
+      "Family income ceiling ₹2,00,000",
+      "Scholarship amount varies by class level"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-students-class-9&10-punjab-2026",
-    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-students-class-9&10-punjab-2026"
+    "apply_link": "https://www.buddy4study.com/scholarship/atul-maheshwari-scholarship-2026",
+    "url": "https://www.buddy4study.com/scholarship/atul-maheshwari-scholarship-2026"
   },
   {
     "scholarship_name": "Fulbright Foreign Language Teaching Assistant Program 2026-27",
@@ -107,74 +80,42 @@
     "application_deadline": "10-Aug-2026",
     "provider": "United States-India Educational Foundation (USIEF)",
     "region": "United States",
-    "summary": "Fulbright FLTA 2026-27 offers Indian early‑career English teachers a fellowship to the US with a monthly stipend and other benefits.",
-    "eligibility": "Indian citizens with a master’s degree by June 2027, good academic record, TOEFL score ≥79, and experience as a college‑level English teacher or related professional.",
-    "benefits": "Monthly stipend, health insurance, travel allowance, professional development, and networking opportunities.",
+    "summary": "Fulbright FTA Program offers early‑career English teachers a fellowship with a monthly stipend and additional benefits to teach in the US.",
+    "eligibility": "Applicants must hold a Master's degree in English Language (or related fields) and be early‑career English teachers or professionals.",
+    "benefits": "Monthly stipend, health insurance, travel allowance, professional development, and opportunity to teach English in US colleges.",
     "key_points": [
-      "Must be an Indian citizen",
-      "Must hold a master’s degree by June 2027",
-      "TOEFL score of at least 79 required"
+      "Master's degree in English Language required",
+      "Monthly stipend provided",
+      "Program for early‑career English teachers"
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/fulbright-foreign-language-teaching-assistant-program-2026",
     "url": "https://www.buddy4study.com/scholarship/fulbright-foreign-language-teaching-assistant-program-2026"
   },
   {
-    "scholarship_name": "Vidyadhan Class 11 and 12 Scholarship Program, Maharashtra 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Maharashtra",
-      "gender": "All",
-      "class": [
-        "Class 11",
-        "Class 12"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 85,
-      "max_family_income": 200000
-    },
-    "scholarship_amount": "₹10,000 per annum",
-    "application_deadline": "10-Aug-2026",
-    "provider": "Sarojini Damodaran Foundation",
-    "region": "India",
-    "summary": "Annual ₹10,000 scholarship for Maharashtra Class 11‑12 students scoring ≥85% in Class 10, with family income under ₹2 lakh.",
-    "eligibility": "Maharashtra residents who passed Class 10/SSLC in 2026 with ≥85% (8.9 CGPA) or ≥75% for disabled students, and family income below ₹2 lakh.",
-    "benefits": "Selected candidates receive ₹10,000 per year.",
-    "key_points": [
-      "Domicile must be Maharashtra",
-      "Minimum 85% marks in Class 10 (75% for disabled)",
-      "Family income ceiling of ₹2,00,000"
-    ],
-    "apply_link": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-maharashtra-2026",
-    "url": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-maharashtra-2026"
-  },
-  {
     "scholarship_name": "Kalpana Chawla Chhatravratti Yojna for Girls (For engineering students) Scholarship Scheme 2025-26",
     "category": "Scholarship",
     "tags": {
-      "state": "Haryana",
+      "state": "All India",
       "gender": "Female",
       "class": [
-        "Class 10",
-        "Class 12",
         "UG"
       ]
     },
     "requirements": {
-      "min_percentage": 80,
+      "min_percentage": 0,
       "max_family_income": 999999999
     },
     "scholarship_amount": "Up to ₹8,350 per month",
     "application_deadline": "10-Aug-2026",
     "provider": "Haryana State Council for Science, Innovation & Technology (HSCSIT)",
     "region": "India",
-    "summary": "Scholarship for female Haryana residents pursuing first‑year engineering (B.E/B.Tech/B.Arch/B.Plan) with up to ₹8,350 monthly stipend.",
-    "eligibility": "Female Haryana residents admitted to first year of B.E, B.Tech, B.Arch or B.Plan (2025‑26) who passed Class 10 and 12 with ≥80% (Haryana board) or ≥85% (other boards).",
-    "benefits": "Monthly stipend up to ₹8,350 for the duration of the course.",
+    "summary": "Scholarship for female engineering students in India, offering up to ₹8,350 monthly, deadline 10-Aug-2026.",
+    "eligibility": "Female engineering students who have qualified JEE.",
+    "benefits": "Monthly stipend up to ₹8,350.",
     "key_points": [
-      "Must be a resident of Haryana.",
-      "Minimum 80% in 12th (Haryana board) or 85% (other boards).",
-      "Applicable only for first‑year engineering admissions 2025‑26."
+      "Only for girls",
+      "JEE qualified candidates",
+      "Monthly stipend up to ₹8,350"
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/kalpana-chawla-chhatravratti-yojna-for-girls-scholarship-scheme-2025",
     "url": "https://www.buddy4study.com/scholarship/kalpana-chawla-chhatravratti-yojna-for-girls-scholarship-scheme-2025"
@@ -197,13 +138,13 @@
     "application_deadline": "10-Aug-2026",
     "provider": "Sarojini Damodaran Foundation",
     "region": "India",
-    "summary": "Scholarship of ₹10,000 per year for Delhi students who passed Class 10 in 2026 with ≥80% marks and family income below ₹2 lakh.",
-    "eligibility": "Delhi residents who passed Class 10/SSLC in 2026 with at least 80% (70% for disabled) and family income under ₹2,00,000.",
-    "benefits": "₹10,000 per annum financial assistance.",
+    "summary": "Scholarship for Delhi students who passed Class 10 in 2026, offering ₹10,000 annually.",
+    "eligibility": "Delhi residents who passed Class 10/SSLC in 2026 with at least 80% marks (or 8 CGPA) and family income below ₹2,00,000 (70% for students with disability).",
+    "benefits": "Recipients receive ₹10,000 per annum.",
     "key_points": [
-      "Must be domiciled in Delhi",
-      "Family income must be below ₹2 lakh",
-      "Minimum 80% marks (70% for disability)"
+      "Must be domiciled in Delhi.",
+      "Family income must be under ₹2,00,000.",
+      "Cut-off marks reduced to 70% for students with disability."
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-delhi-2026",
     "url": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-delhi-2026"
@@ -215,8 +156,7 @@
       "state": "Punjab",
       "gender": "All",
       "class": [
-        "Class 11",
-        "Class 12"
+        "Class 10"
       ]
     },
     "requirements": {
@@ -227,16 +167,46 @@
     "application_deadline": "10-Aug-2026",
     "provider": "Sarojini Damodaran Foundation",
     "region": "India",
-    "summary": "Scholarship of ₹10,000 per year for Class 11/12 students in Punjab who passed Class 10 with ≥80% and have family income below ₹2 lakh.",
-    "eligibility": "Punjab domicile, passed Class 10/SSLC in 2026 with ≥80% (70% for disabled), family income < ₹2 lakh.",
-    "benefits": "₹10,000 per annum scholarship.",
+    "summary": "A ₹10,000 annual scholarship for Punjab students who passed Class 10 in 2026 with at least 80% marks and family income under ₹2 lakh.",
+    "eligibility": "Applicants must be Punjab residents who passed Class 10/SSLC in 2026 with ≥80% marks (or 8.5 CGPA) and have a family income below ₹2 lakh per annum. Disabled students have a lower cut‑off of 70%.",
+    "benefits": "Recipients receive a scholarship of ₹10,000 per year.",
     "key_points": [
-      "Must be domiciled in Punjab.",
-      "Minimum 80% marks in Class 10 (70% for students with disability).",
-      "Family income must be less than ₹2,00,000 annually."
+      "Domicile requirement: only students residing in Punjab are eligible.",
+      "Family income ceiling: annual income must be less than ₹2 lakh.",
+      "Application deadline: 10‑Aug‑2026; screening test on 16‑Aug‑2026."
     ],
     "apply_link": "https://www.vidyadhan.org/apply",
     "url": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-punjab-2026"
+  },
+  {
+    "scholarship_name": "Vidyadhan Class 11 and 12 Scholarship Program, Maharashtra 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": [
+        "Class 11",
+        "Class 12"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹10,000 per annum",
+    "application_deadline": "10-Aug-2026",
+    "provider": "Sarojini Damodaran Foundation",
+    "region": "India",
+    "summary": "Vidyadhan offers a ₹10,000 annual scholarship for Maharashtra Class 11 and 12 students, deadline 10-Aug-2026.",
+    "eligibility": "Open to students studying in Class 11 or Class 12 in Maharashtra, India.",
+    "benefits": "Recipients receive ₹10,000 per year to support their education expenses.",
+    "key_points": [
+      "Only for Maharashtra residents",
+      "Application deadline is 10-Aug-2026",
+      "Award amount is ₹10,000 annually"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-maharashtra-2026",
+    "url": "https://www.buddy4study.com/scholarship/vidyadhan-class-11-and-12-scholarship-program-maharashtra-2026"
   },
   {
     "scholarship_name": "Arturo Falaschi Short-term PhD Fellowships, ICGEB, New Delhi 2026",
@@ -252,17 +222,17 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "USD 1,122 per month (approximately ₹97,781)",
+    "scholarship_amount": "USD 1,122 per month (≈ ₹97,781)",
     "application_deadline": "14-Aug-2026",
     "provider": "International Center for Genetic Engineering and Biotechnology (ICGEB)",
     "region": "Italy",
-    "summary": "Short-term PhD fellowship by ICGEB offering a monthly stipend of USD 1,122 for up to 12 months to PhD students from ICGEB Member States.",
-    "eligibility": "PhD students who are nationals of an ICGEB Member State, hold a B.Sc. (Honours) for Trieste/Cape Town or M.Sc. for New Delhi, and possess an English proficiency certificate.",
-    "benefits": "Monthly stipend of USD 1,122 (≈ ₹97,781) for up to 12 months and opportunity to conduct collaborative research at ICGEB laboratories.",
+    "summary": "Short-term PhD fellowship offering a monthly stipend of USD 1,122 for up to 12 months, supporting collaborative research at ICGEB labs.",
+    "eligibility": "PhD students pursuing a doctorate degree.",
+    "benefits": "Monthly stipend of USD 1,122 (≈ ₹97,781) for up to 12 months.",
     "key_points": [
-      "Must be a national of an ICGEB Member State",
-      "Require B.Sc. (Honours) or M.Sc. degree depending on location",
-      "English proficiency certificate required"
+      "Open to PhD candidates from ICGEB Member States",
+      "Research collaboration with ICGEB laboratories",
+      "Application deadline 14-Aug-2026"
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/arturo-falaschi-short-term-phd-fellowships-icgeb-new-delhi-2026",
     "url": "https://www.buddy4study.com/scholarship/arturo-falaschi-short-term-phd-fellowships-icgeb-new-delhi-2026"
@@ -271,7 +241,7 @@
     "scholarship_name": "Arturo Falaschi Postdoctoral Fellowships, ICGEB, New Delhi 2026",
     "category": "Fellowship",
     "tags": {
-      "state": "Delhi",
+      "state": "All India",
       "gender": "All",
       "class": [
         "PhD"
@@ -281,19 +251,19 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "A monthly stipend of US$ 1,749 and other benefits",
+    "scholarship_amount": "US$ 1,749 per month",
     "application_deadline": "14-Aug-2026",
-    "provider": "",
+    "provider": "International Center for Genetic Engineering and Biotechnology (ICGEB)",
     "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Ph.D. (Life Science) degree holders",
-    "benefits": "The selected fellows will receive a monthly stipend of US$ 1,749. Other Benefits:- Travel expenses from the applicant's home country to the ICGEB lab at the beginning of the fellowship and a return travel provision...",
+    "summary": "Postdoctoral fellowship for Ph.D. holders in Life Sciences, offering a US$1,749 monthly stipend and benefits, open to nationals of ICGEB member states.",
+    "eligibility": "Ph.D. degree holders in Life Sciences (or 3+ years research experience) who are nationals of an ICGEB member state.",
+    "benefits": "Monthly stipend of US$1,749 plus other benefits provided by ICGEB.",
     "key_points": [
-      "Apply by 14-Aug-2026",
-      "Selection: The ICGEB fellowships selection committee will evaluate complete and endorsed applications...",
-      "Deadline for Expression of interest: August 14, 2026 Application Deadline: September 30, 2026"
+      "Open to nationals of ICGEB member states",
+      "Must hold a recent Ph.D. in Life Sciences",
+      "Application deadline: 14-Aug-2026"
     ],
-    "apply_link": "https://www.icgeb.org/fellowships/arturo-falaschi-postdoctoral-fellowships-september-2026/",
+    "apply_link": "https://www.buddy4study.com/scholarship/arturo-falaschi-postdoctoral-fellowships-icgeb-new-delhi-2026",
     "url": "https://www.buddy4study.com/scholarship/arturo-falaschi-postdoctoral-fellowships-icgeb-new-delhi-2026"
   },
   {
@@ -302,56 +272,33 @@
     "tags": {
       "state": "All India",
       "gender": "All",
-      "class": []
+      "class": [
+        "Class 10",
+        "Class 12",
+        "UG"
+      ]
     },
     "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
+      "min_percentage": 60,
+      "max_family_income": 500000
     },
-    "scholarship_amount": "Financial assistance",
+    "scholarship_amount": "",
     "application_deadline": "15-Aug-2026",
-    "provider": "",
+    "provider": "Khushboo Charitable Trust",
     "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Graduate applicants",
-    "benefits": "Selected candidates will receive financial assistance.",
+    "summary": "Financial aid for meritorious graduates from select Indian cities, with family income ceiling up to ₹5‑8 lakhs.",
+    "eligibility": "Graduate applicants from Pune, Nasik, Ahilyanagar, Ahmedabad, Gandhinagar or Hyderabad with at least 60% in class 10 and 12, admitted to first year/DSE of a professional course, and family income below ₹5 L (₹8 L for Pune, Ahilyanagar, Nashik).",
+    "benefits": "Provides financial assistance to support higher education for eligible students.",
     "key_points": [
-      "Apply by 15-Aug-2026",
-      "Selection: Candidates will be selected through the following process:- Scrutinising the forms, Verifying...",
-      "Application Start: 1st July 2025 Application deadline: 15th August 2025"
+      "Eligible cities: Pune, Nasik, Ahilyanagar, Ahmedabad, Gandhinagar, Hyderabad.",
+      "Income limit ₹5 L (₹8 L for Pune, Ahilyanagar, Nashik).",
+      "Must have 60% in class 10 & 12 and be admitted to first year/DSE of a professional course."
     ],
-    "apply_link": "https://www.cybagekhushboo.org/scholarship/",
+    "apply_link": "https://www.buddy4study.com/scholarship/cybagekhushboo-annual-scholarship-program-2026",
     "url": "https://www.buddy4study.com/scholarship/cybagekhushboo-annual-scholarship-program-2026"
   },
   {
     "scholarship_name": "Inlaks Fine Arts Awards 2027",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "₹3,00,000 per annum",
-    "application_deadline": "15-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Emerging young artists",
-    "benefits": "The award is worth ₹3,00,000 for a period of one year. The awardee will also have to attend an art residency programme within India for a period of 4 weeks during the course of the year.",
-    "key_points": [
-      "Apply by 15-Aug-2026",
-      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
-      "Application Deadline: 15th August 2026"
-    ],
-    "apply_link": "https://inlaksfoundation.org/opportunities/awards/inlaks-fine-art-award/",
-    "url": "https://www.buddy4study.com/scholarship/inlaks-fine-arts-awards-2027"
-  },
-  {
-    "scholarship_name": "McCall MacBain Scholarships 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All India",
@@ -365,19 +312,49 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Tuition fee, monthly stipend of $2,300 ( approx. ₹1,98,148) and other benefits",
-    "application_deadline": "19-Aug-2026",
-    "provider": "",
-    "region": "Canada",
-    "summary": "Program Scholarships",
-    "eligibility": "Students pursuing a funded master’s or second-entry professional undergraduate program",
-    "benefits": "The selected students will receive: Tuition fees for the full duration of a Master’s or professional programme A monthly living stipend of $2,300 ( approx. ₹1,98,148) One-time relocation grant for moving to Montreal...",
+    "scholarship_amount": "₹3,00,000 per annum",
+    "application_deadline": "15-Aug-2026",
+    "provider": "Inlaks Shivdasani Foundation",
+    "region": "India",
+    "summary": "Inlaks Fine Arts Awards 2027 provides ₹3 lakh annually to emerging Indian artists to pursue independent work across India.",
+    "eligibility": "Indian passport holders or residents, born on/after 1 Jan 1996, who are emerging artists; must be recent UG/PG graduate or final‑year visual arts student; first‑year master’s students are ineligible.",
+    "benefits": "Financial assistance of ₹3,00,000 per year to support independent artistic work anywhere in India.",
     "key_points": [
-      "Apply by 19-Aug-2026",
-      "Selection: Selection is based on fulfilment of eligibility and merit.",
-      "Application Deadline: 19th August 2026"
+      "Must not hold another similar government scholarship during tenure.",
+      "Applicants must submit a new body of work if re‑applying.",
+      "First‑year master’s students are not eligible."
     ],
-    "apply_link": "https://mccallmacbainscholars.org/apply/",
+    "apply_link": "https://www.buddy4study.com/scholarship/inlaks-fine-arts-awards-2027",
+    "url": "https://www.buddy4study.com/scholarship/inlaks-fine-arts-awards-2027"
+  },
+  {
+    "scholarship_name": "McCall MacBain Scholarships 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Tuition fee, monthly stipend of $2,300 (≈₹1,98,148) and other benefits",
+    "application_deadline": "19-Aug-2026",
+    "provider": "McGill University",
+    "region": "Canada",
+    "summary": "McCall MacBain Scholarships support funded master’s or second‑entry professional undergraduate studies at McGill University with tuition coverage and a $2,300 monthly stipend.",
+    "eligibility": "Applicants must have earned a bachelor’s degree within the last 5 years, or be ≤30 years old on 01‑Jan‑2026 with a degree older than 5 years, or be set to graduate by Aug‑2027, and demonstrate English proficiency.",
+    "benefits": "Full tuition for the program, monthly living stipend of $2,300 (≈₹1,98,148), one‑time relocation grant, up to 25 finalist awards of $20,000 each, and up to 15 regional awards of $10,000 each.",
+    "key_points": [
+      "Open to students in funded master’s or second‑entry professional undergraduate programs.",
+      "Must meet specific graduation timing or age criteria and prove English proficiency.",
+      "Application deadline is 19‑Aug‑2026; apply via the official McGill website."
+    ],
+    "apply_link": "https://mccallmacbainscholars.org/program/",
     "url": "https://www.buddy4study.com/scholarship/mccall-macbain-scholarships-2026"
   },
   {
@@ -386,30 +363,62 @@
     "tags": {
       "state": "All India",
       "gender": "All",
+      "class": [
+        "Class 12",
+        "UG",
+        "PG",
+        "Diploma"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹75,000",
+    "application_deadline": "22-Aug-2026",
+    "provider": "Indus Towers Ltd",
+    "region": "India",
+    "summary": "Indus Towers CSR scholarship supports disabled Indian students with up to ₹75,000 for various higher education courses.",
+    "eligibility": "Indian nationals with at least 40% disability, aged 14-40 (as of 1 June 2025), pursuing higher secondary, diploma, UG, PG, vocational, certificate or coaching courses.",
+    "benefits": "Financial assistance up to ₹75,000 to cover tuition, fees, or related educational expenses.",
+    "key_points": [
+      "Must have a disability certificate confirming ≥40% disability.",
+      "Age limit: 14 to 40 years as of 1 June 2025.",
+      "Applicable for a wide range of courses from higher secondary to postgraduate studies."
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/indus-towers-scholarship-program-2026",
+    "url": "https://www.buddy4study.com/scholarship/indus-towers-scholarship-program-2026"
+  },
+  {
+    "scholarship_name": "St Mary's University Sports Scholarships 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
       "class": []
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Financial assistance up to ₹75,000",
-    "application_deadline": "22-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Disabled students willing to pursue higher studies",
-    "benefits": "The scholarship provides financial assistance towards course fees, covering admission fees, tuition fees, and examination fees. It supports students pursuing academic and professional courses, vocational and skill...",
+    "scholarship_amount": "GBP 2,000 (₹2,33,409)",
+    "application_deadline": "23-Aug-2026",
+    "provider": "St Mary's University",
+    "region": "United Kingdom",
+    "summary": "Sports scholarships for athletes competing regionally, nationally or internationally, offering up to GBP 2,000.",
+    "eligibility": "Open to student athletes competing at regional, national or international levels; Gold for Olympic/Paralympic or BUCS-level athletes, Silver for other student athletes.",
+    "benefits": "Award up to GBP 2,000 (≈₹2,33,409) to eligible athletes.",
     "key_points": [
-      "Apply by 22-Aug-2026",
-      "Selection: The selection committee will create a provisional merit list of eligible scholarship recipients...",
-      "Application Deadline: 22nd August 2026"
+      "Gold scholarship for Olympic/Paralympic level athletes",
+      "Silver scholarship for other student athletes",
+      "Maximum award of GBP 2,000"
     ],
-    "apply_link": "https://ssscholarship.org/",
-    "url": "https://www.buddy4study.com/scholarship/indus-towers-scholarship-program-2026"
+    "apply_link": "https://www.buddy4study.com/scholarship/st-marys-university-sports-scholarships-2026",
+    "url": "https://www.buddy4study.com/scholarship/st-mary-s-university-sports-scholarships-2026"
   },
   {
-    "scholarship_name": "St Mary's University Sports Scholarships 2026",
-    "category": "Scholarship",
+    "scholarship_name": "AMBER Postdoctoral Fellowship 2026",
+    "category": "Fellowship",
     "tags": {
       "state": "All India",
       "gender": "All",
@@ -419,19 +428,20 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Scholarships of up to GBP 2,000",
-    "application_deadline": "23-Aug-2026",
+    "scholarship_amount": "Variable Benefits",
+    "application_deadline": "24-Aug-2026",
     "provider": "",
-    "region": "United Kingdom",
+    "region": "France",
     "summary": "Program Scholarships",
-    "eligibility": "Athletes competing at the regional, national, and international levels",
-    "benefits": "The selected candidates will receive:- Financial support of up to: GBP 2,000 - for Gold scholarships GBP 1,500 - for Silver scholarships GBP 1,000 - for Bronze scholarships Free gym membership Strength and...",
+    "eligibility": "Postdoctoral researchers",
+    "benefits": "Selected fellows will receive a 3-year postdoctoral contract along with the following benefits: Financial incentives: monthly family and child allowances, a stipend reviewed yearly, pension scheme, death benefit, and...",
     "key_points": [
-      "Apply by 23-Aug-2026",
-      "Application Deadline: August 23, 2026"
+      "Apply by 24-Aug-2026",
+      "Selection: Candidates will be selected based on eligibility criteria.",
+      "Application Deadline: 24th August 2026"
     ],
-    "apply_link": "https://www.stmarys.ac.uk/student-life/sport/sport-scholarships.aspx",
-    "url": "https://www.buddy4study.com/scholarship/st-mary-s-university-sports-scholarships-2026"
+    "apply_link": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/AMBER-Postdoctoral-Fellowship--PRISM--Platform-for-Robotic-Imaging-and-Synchrotron-Microscopy_JR3933?utm_source=chatgpt.com",
+    "url": "https://www.buddy4study.com/scholarship/amber-postdoctoral-fellowship-2026"
   },
   {
     "scholarship_name": "PKC WEnyan Scholarship Program 2026",
@@ -520,6 +530,62 @@
     "url": "https://www.buddy4study.com/scholarship/university-of-dundee-gems-scholarship-2026"
   },
   {
+    "scholarship_name": "JSPN Scholarship 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Financial assistance",
+    "application_deadline": "30-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Indian citizens belonging to the Madhwa community",
+    "benefits": "Selection is based on a balanced evaluation of merit and financial need, ensuring scholarships reach the most deserving students.",
+    "key_points": [
+      "Apply by 30-Aug-2026",
+      "Selection: The students will be selected based on academic merit and financial need.",
+      "Application Start Date: 18th June 2026 Online Submission Deadline: 30th August 2026 Document Submission..."
+    ],
+    "apply_link": "https://srijspn.org/jspnapp/views/home.jsf",
+    "url": "https://www.buddy4study.com/scholarship/jspn-scholarship-2026"
+  },
+  {
+    "scholarship_name": "CERN Research Fellowship 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Monthly stipend of CHF 7,004–7,425 and other benefits",
+    "application_deadline": "30-Aug-2026",
+    "provider": "",
+    "region": "Switzerland",
+    "summary": "Program Scholarships",
+    "eligibility": "PhD students",
+    "benefits": "Selected fellows will receive the following benefits: A monthly net stipend of CHF 7,004(₹8,17,780.04) –7,425( ₹8,66,935.57), depending on qualifications and experience 30 days of paid leave per year, plus 2 weeks of...",
+    "key_points": [
+      "Apply by 30-Aug-2026",
+      "Selection: Fellows will be selected based on the eligibility criteria.",
+      "Application Deadline: 30th August 2026"
+    ],
+    "apply_link": "https://careers.cern/jobs/research-fellowship-applied-physics-engineering/",
+    "url": "https://www.buddy4study.com/scholarship/cern-research-fellowship-2026"
+  },
+  {
     "scholarship_name": "Education Future International Scholarship 2026",
     "category": "Scholarship",
     "tags": {
@@ -579,60 +645,33 @@
     "url": "https://www.buddy4study.com/scholarship/inlaks-attakkalari-dance-studentship-2026"
   },
   {
-    "scholarship_name": "CERN Research Fellowship 2026",
-    "category": "Fellowship",
+    "scholarship_name": "SBS International Masters Scholarships September 2026",
+    "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "All",
       "gender": "All",
       "class": [
-        "PhD"
+        "PG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Monthly stipend of CHF 7,004–7,425 and other benefits",
-    "application_deadline": "30-Aug-2026",
+    "scholarship_amount": "An award of up to £9,000",
+    "application_deadline": "31-Aug-2026",
     "provider": "",
-    "region": "Switzerland",
+    "region": "United Kingdom",
     "summary": "Program Scholarships",
-    "eligibility": "PhD students",
-    "benefits": "Selected fellows will receive the following benefits: A monthly net stipend of CHF 7,004(₹8,17,780.04) –7,425( ₹8,66,935.57), depending on qualifications and experience 30 days of paid leave per year, plus 2 weeks of...",
+    "eligibility": "Postgraduate students",
+    "benefits": "Selected students will receive a tuition fee scholarship ranging from £7,000 to £9,000, depending on the programme and applicable course fee.",
     "key_points": [
-      "Apply by 30-Aug-2026",
-      "Selection: Fellows will be selected based on the eligibility criteria.",
-      "Application Deadline: 30th August 2026"
+      "Apply by 31-Aug-2026",
+      "Selection: Students will be selected based on eligibility criteria.",
+      "Application Deadline: 31st August 2026"
     ],
-    "apply_link": "https://careers.cern/jobs/research-fellowship-applied-physics-engineering/",
-    "url": "https://www.buddy4study.com/scholarship/cern-research-fellowship-2026"
-  },
-  {
-    "scholarship_name": "JSPN Scholarship 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Financial assistance",
-    "application_deadline": "30-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Indian citizens belonging to the Madhwa community",
-    "benefits": "Selection is based on a balanced evaluation of merit and financial need, ensuring scholarships reach the most deserving students.",
-    "key_points": [
-      "Apply by 30-Aug-2026",
-      "Selection: The students will be selected based on academic merit and financial need.",
-      "Application Start Date: 18th June 2026 Online Submission Deadline: 30th August 2026 Document Submission..."
-    ],
-    "apply_link": "https://srijspn.org/jspnapp/views/home.jsf",
-    "url": "https://www.buddy4study.com/scholarship/jspn-scholarship-2026"
+    "apply_link": "https://www.strath.ac.uk/studywithus/scholarships/sbsinternationalmastersscholarshipsseptember2026/",
+    "url": "https://www.buddy4study.com/scholarship/sbs-international-masters-scholarships-september-2026"
   },
   {
     "scholarship_name": "Coventry University Sports Scholarships 2026",
@@ -665,33 +704,116 @@
     "url": "https://www.buddy4study.com/scholarship/coventry-university-sports-scholarships-2026"
   },
   {
-    "scholarship_name": "Umbrella Scheme Pre-Matric ST Scholarship Class 9 and 10, Tripura 2026-27",
+    "scholarship_name": "NSP Mukhya Mantri Vidyarthi Kalyan Yojna, Himachal Pradesh 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "Tripura",
-      "gender": "All",
+      "state": "Himachal Pradesh",
+      "gender": "Female",
       "class": [
-        "Class 10"
+        "UG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "A monthly scholarship of up to ₹ 525 for 10 months and other grants",
+    "scholarship_amount": "Up to ₹5,000 per annum",
     "application_deadline": "31-Aug-2026",
     "provider": "",
     "region": "India",
     "summary": "Program Scholarships",
-    "eligibility": "ST students studying in Class 9 and 10",
-    "benefits": "The selected scholars will receive the following benefits:- --- --- --- Items Day Scholars (in ₹) Hostelers (in ₹) Scholarship for 10 months (per month) 225 525 Books and Ad-hoc Grant (per annum) 750 1,000 Additional...",
+    "eligibility": "Class 1 to UG students of Himachal Pradesh",
+    "benefits": "The selected candidates will receive the following benefits annually:- For school-going boys: ₹1,500 For school-going girls: ₹ 2,000 For college/university students: ₹5,000",
     "key_points": [
       "Apply by 31-Aug-2026",
-      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
       "Application Deadline: 31st August 2026"
     ],
     "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/umbrella-scheme-pre-matric-st-scholarship-class-9-and-10-tripura-2026"
+    "url": "https://www.buddy4study.com/scholarship/nsp-mukhya-mantri-vidyarthi-kalyan-yojna-himachal-pradesh-2026"
+  },
+  {
+    "scholarship_name": "AMP Scholarship Fund for Higher Education 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹10,000",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Students pursuing higher education",
+    "benefits": "Selected students will receive financial assistance of ₹10,000 as a reward for their studies.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: The Scholarship will be awarded only to Meritorious and Needy Students after complete background...",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://ampindia.org/amp_scholarship_fund#:~:text=Association%20of%20Muslim%20Professionals%20(AMP,Education%20Scholarship%20Fund%27%20since%202013.",
+    "url": "https://www.buddy4study.com/scholarship/amp-scholarship-fund-for-higher-education-2026"
+  },
+  {
+    "scholarship_name": "Mahindra All India Talent Scholarship (MAITS) 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹10,000 per annum for a maximum period of 3 years",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "SSC/HSC or equivalent passed students",
+    "benefits": "Selected candidates will receive an annual award of ₹10,000 for a maximum period of 3 years.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: The selection of the candidates will be based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://www.kcmet.org/what-we-do-Scholarship-Grants.aspx",
+    "url": "https://www.buddy4study.com/scholarship/mahindra-all-india-talent-scholarship-maits-2026"
+  },
+  {
+    "scholarship_name": "Inlaks King's India Institute Studentship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Award of USD 2350 and other benefits",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "United Kingdom",
+    "summary": "Program Scholarships",
+    "eligibility": "Indian registered PhD students",
+    "benefits": "Selected candidates will receive various benefits:- Reimbursement of travel expenses as per the Foundation's guidelines Maintenance allowance for the duration of the research visit Up to USD 500 (approx.₹48,166.60)...",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will go through a two-tier selection process: Desk review for shortlisting...",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://inlaksfoundation.org/opportunities/grants/inlaks-kings-india-institute-studentship/",
+    "url": "https://www.buddy4study.com/scholarship/inlaks-king-s-india-institute-studentship-2026"
   },
   {
     "scholarship_name": "National Means-cum-Merit Scholarship Scheme 2026-27",
@@ -723,36 +845,37 @@
     "url": "https://www.buddy4study.com/scholarship/national-means-cum-merit-scholarship-scheme-2026"
   },
   {
-    "scholarship_name": "Jawaharlal Nehru Memorial Fund Scholarships for Doctoral Studies 2026",
+    "scholarship_name": "Nilam Patel Bahushrut Foundation SSC Students Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All India",
+      "state": "Gujarat",
       "gender": "All",
       "class": [
-        "PhD"
+        "Class 10",
+        "UG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "A monthly stipend of ₹18,000 and an annual contingent allowance of ₹15,000",
+    "scholarship_amount": "Scholarships, prizes and special awards",
     "application_deadline": "31-Aug-2026",
     "provider": "",
     "region": "India",
     "summary": "Program Scholarships",
-    "eligibility": "Full-time Ph.D. scholars registered at a recognised university in India",
-    "benefits": "The selected students will receive a maintenance allowance including a tuition fee of ₹18,000 per month and an annual contingent expense for study tours within India, purchase of books, stationery, etc. of ₹15,000.",
+    "eligibility": "Hearing impaired Class 10 passed students of Gujarat and Maharashtra",
+    "benefits": "The top 7 students will be awarded scholarships, prizes and recognition for their academic excellence. The awards are presented as follows: Manubhai D Shah Award for Academic Excellence \\- 1st Rank holder at SSC level...",
     "key_points": [
       "Apply by 31-Aug-2026",
-      "Selection: The selection of the candidates will be based on the eligibility criteria and submitted details.",
-      "Application Deadline: 31st August 2026"
+      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application End Date: 31st August 2026 Scholarship Disbursement: October 2026 (first week)"
     ],
-    "apply_link": "https://www.jnmf.in/sform.html",
-    "url": "https://www.buddy4study.com/scholarship/jawaharlal-nehru-memorial-fund-scholarships-for-doctoral-studies-2026"
+    "apply_link": "https://www.bahushrutfoundation.org/application-forms",
+    "url": "https://www.buddy4study.com/scholarship/nilam-patel-bahushrut-foundation-ssc-students-scholarship-2026"
   },
   {
-    "scholarship_name": "R D Sethna Loan Scholarship 2026",
+    "scholarship_name": "Falmouth University Pathway Awards 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All India",
@@ -765,20 +888,20 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Scholarship loan to support higher studies",
+    "scholarship_amount": "£2,000 towards tuition fees",
     "application_deadline": "31-Aug-2026",
     "provider": "",
-    "region": "India",
+    "region": "United Kingdom",
     "summary": "Program Scholarships",
-    "eligibility": "Indian students pursuing higher education",
-    "benefits": "Selected candidates will receive financial aid in the form of an interest-bearing scholarship loan. The interest rate is 2% per annum, compounded annually. The amount awarded will be determined based on an assessment...",
+    "eligibility": "Undergraduate applicants",
+    "benefits": "Selected candidates will receive a contribution of £2,000 towards tuition fees.",
     "key_points": [
       "Apply by 31-Aug-2026",
-      "Selection: Applicants will be selected based on merit and fulfilment of the eligibility criteria.",
-      "Application Deadline for Study Abroad: 31st July 2026 Application Deadline for Study in India: 31st August..."
+      "Selection: Candidates will be selected based on merit and fulfilment of the eligibility criteria.",
+      "The application deadline is according to the respective course timeline."
     ],
-    "apply_link": "https://www.rdsethnascholarships.org/application-fees/",
-    "url": "https://www.buddy4study.com/scholarship/r-d-sethna-loan-scholarship-2026"
+    "apply_link": "https://www.falmouth.ac.uk/study/student-funding/scholarships-international-students/falmouth-pathway-awards",
+    "url": "https://www.buddy4study.com/scholarship/falmouth-university-pathway-awards-2026"
   },
   {
     "scholarship_name": "Nilam Patel Bahushrut Foundation HSC & Above Students Scholarship 2026",
@@ -811,64 +934,6 @@
     "url": "https://www.buddy4study.com/scholarship/nilam-patel-bahushrut-foundation-hsc-above-students-scholarship-2026"
   },
   {
-    "scholarship_name": "Nilam Patel Bahushrut Foundation Study Abroad Scholarship 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Gujarat",
-      "gender": "All",
-      "class": [
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Scholarships, prizes and awards",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "Abroad",
-    "summary": "Program Scholarships",
-    "eligibility": "Hearing Impaired students of Maharashtra and Gujarat",
-    "benefits": "The top 7 students will be awarded scholarships, prizes and recognition for their academic excellence. The awards are presented as follows:- Manubhai D Shah Award for Academic Excellence \\- 1st Rank holder at SSC...",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
-      "Application Deadline: 31th August 2026"
-    ],
-    "apply_link": "https://www.bahushrutfoundation.org/application-forms",
-    "url": "https://www.buddy4study.com/scholarship/nilam-patel-bahushrut-foundation-study-abroad-scholarship-2026"
-  },
-  {
-    "scholarship_name": "Falmouth University Pathway Awards 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "£2,000 towards tuition fees",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "United Kingdom",
-    "summary": "Program Scholarships",
-    "eligibility": "Undergraduate applicants",
-    "benefits": "Selected candidates will receive a contribution of £2,000 towards tuition fees.",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: Candidates will be selected based on merit and fulfilment of the eligibility criteria.",
-      "The application deadline is according to the respective course timeline."
-    ],
-    "apply_link": "https://www.falmouth.ac.uk/study/student-funding/scholarships-international-students/falmouth-pathway-awards",
-    "url": "https://www.buddy4study.com/scholarship/falmouth-university-pathway-awards-2026"
-  },
-  {
     "scholarship_name": "University of Strathclyde International Postgraduate Dean's Excellence Scholarship 2026",
     "category": "Scholarship",
     "tags": {
@@ -898,6 +963,64 @@
     "url": "https://www.buddy4study.com/scholarship/university-of-strathclyde-international-postgraduate-dean-s-excellence-scholarship-2026"
   },
   {
+    "scholarship_name": "Umbrella Scheme Pre-Matric ST Scholarship Class 9 and 10, Tripura 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Tripura",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "A monthly scholarship of up to ₹ 525 for 10 months and other grants",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "ST students studying in Class 9 and 10",
+    "benefits": "The selected scholars will receive the following benefits:- --- --- --- Items Day Scholars (in ₹) Hostelers (in ₹) Scholarship for 10 months (per month) 225 525 Books and Ad-hoc Grant (per annum) 750 1,000 Additional...",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/umbrella-scheme-pre-matric-st-scholarship-class-9-and-10-tripura-2026"
+  },
+  {
+    "scholarship_name": "Jawaharlal Nehru Memorial Fund Scholarships for Doctoral Studies 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "PhD"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "A monthly stipend of ₹18,000 and an annual contingent allowance of ₹15,000",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Full-time Ph.D. scholars registered at a recognised university in India",
+    "benefits": "The selected students will receive a maintenance allowance including a tuition fee of ₹18,000 per month and an annual contingent expense for study tours within India, purchase of books, stationery, etc. of ₹15,000.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: The selection of the candidates will be based on the eligibility criteria and submitted details.",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://www.jnmf.in/sform.html",
+    "url": "https://www.buddy4study.com/scholarship/jawaharlal-nehru-memorial-fund-scholarships-for-doctoral-studies-2026"
+  },
+  {
     "scholarship_name": "Amber Scholarship Programme 2026",
     "category": "Scholarship",
     "tags": {
@@ -925,60 +1048,33 @@
     "url": "https://www.buddy4study.com/scholarship/amber-scholarship-programme-2026"
   },
   {
-    "scholarship_name": "AMP Scholarship Fund for Higher Education 2026",
+    "scholarship_name": "Nilam Patel Bahushrut Foundation Study Abroad Scholarship 2026",
     "category": "Scholarship",
     "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "₹10,000",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Students pursuing higher education",
-    "benefits": "Selected students will receive financial assistance of ₹10,000 as a reward for their studies.",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: The Scholarship will be awarded only to Meritorious and Needy Students after complete background...",
-      "Application Deadline: 31st August 2026"
-    ],
-    "apply_link": "https://ampindia.org/amp_scholarship_fund#:~:text=Association%20of%20Muslim%20Professionals%20(AMP,Education%20Scholarship%20Fund%27%20since%202013.",
-    "url": "https://www.buddy4study.com/scholarship/amp-scholarship-fund-for-higher-education-2026"
-  },
-  {
-    "scholarship_name": "SBS International Masters Scholarships September 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
+      "state": "Gujarat",
       "gender": "All",
       "class": [
-        "PG"
+        "UG"
       ]
     },
     "requirements": {
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "An award of up to £9,000",
+    "scholarship_amount": "Scholarships, prizes and awards",
     "application_deadline": "31-Aug-2026",
     "provider": "",
-    "region": "United Kingdom",
+    "region": "Abroad",
     "summary": "Program Scholarships",
-    "eligibility": "Postgraduate students",
-    "benefits": "Selected students will receive a tuition fee scholarship ranging from £7,000 to £9,000, depending on the programme and applicable course fee.",
+    "eligibility": "Hearing Impaired students of Maharashtra and Gujarat",
+    "benefits": "The top 7 students will be awarded scholarships, prizes and recognition for their academic excellence. The awards are presented as follows:- Manubhai D Shah Award for Academic Excellence \\- 1st Rank holder at SSC...",
     "key_points": [
       "Apply by 31-Aug-2026",
-      "Selection: Students will be selected based on eligibility criteria.",
-      "Application Deadline: 31st August 2026"
+      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: 31th August 2026"
     ],
-    "apply_link": "https://www.strath.ac.uk/studywithus/scholarships/sbsinternationalmastersscholarshipsseptember2026/",
-    "url": "https://www.buddy4study.com/scholarship/sbs-international-masters-scholarships-september-2026"
+    "apply_link": "https://www.bahushrutfoundation.org/application-forms",
+    "url": "https://www.buddy4study.com/scholarship/nilam-patel-bahushrut-foundation-study-abroad-scholarship-2026"
   },
   {
     "scholarship_name": "NSP Financial Assistance for Education to the Wards of Beedi/Cine/Iomc/Lsdm, Pre-Matric 2026-27",
@@ -1010,33 +1106,6 @@
     "url": "https://www.buddy4study.com/scholarship/nsp-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-pre-matric-2026"
   },
   {
-    "scholarship_name": "Inlaks Residency at International Center of Photography, USA 2027",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "USD 10,000 stipend for a 2-month residency",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Indian photographic practitioner or researcher",
-    "benefits": "The selected resident will receive:- a two-month residency at ICP in New York City during Spring 2027 (between April and June) a USD 10,000 stipend to support travel, lodging, and living expenses during the residency...",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: Candidates will be selected through a two-step process:- A joint committee from ICP...",
-      "Application Deadline: 31st August 2026"
-    ],
-    "apply_link": "https://inlaksfoundation.org/opportunities/overseas-residencies/the-inlaks-residency-at-international-centre-of-photography-new-york-usa/",
-    "url": "https://www.buddy4study.com/scholarship/inlaks-residency-at-international-center-of-photography-usa-2027"
-  },
-  {
     "scholarship_name": "Inlaks Research and Travel Grants 2026",
     "category": "Scholarship",
     "tags": {
@@ -1064,6 +1133,62 @@
     ],
     "apply_link": "https://inlaksfoundation.org/opportunities/grants/inlaks-research-and-travel-grant/",
     "url": "https://www.buddy4study.com/scholarship/inlaks-research-and-travel-grants-2026"
+  },
+  {
+    "scholarship_name": "Inlaks Residency at International Center of Photography, USA 2027",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "USD 10,000 stipend for a 2-month residency",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "Indian photographic practitioner or researcher",
+    "benefits": "The selected resident will receive:- a two-month residency at ICP in New York City during Spring 2027 (between April and June) a USD 10,000 stipend to support travel, lodging, and living expenses during the residency...",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected through a two-step process:- A joint committee from ICP...",
+      "Application Deadline: 31st August 2026"
+    ],
+    "apply_link": "https://inlaksfoundation.org/opportunities/overseas-residencies/the-inlaks-residency-at-international-centre-of-photography-new-york-usa/",
+    "url": "https://www.buddy4study.com/scholarship/inlaks-residency-at-international-center-of-photography-usa-2027"
+  },
+  {
+    "scholarship_name": "BCWD Vidyasiri - Food and Accommodation Scholarship Scheme, Karnataka 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Karnataka",
+      "gender": "All",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹1,500 monthly",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "OBC students of Karnataka",
+    "benefits": "Selected candidates will receive ₹1,500 for 10 months of the academic year. The amount will be credited online (RTGS) to the bank account opened in any of their Core Banking System Banks, subject to other conditions.",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: August 31, 2026"
+    ],
+    "apply_link": "https://bcwd.karnataka.gov.in/163/2026-27-post-matric-scholarship/en",
+    "url": "https://www.buddy4study.com/scholarship/bcwd-vidyasiri-food-and-accommodation-scholarship-scheme-karnataka-2026-1"
   },
   {
     "scholarship_name": "NSP Pre-Matric Scholarship for SC Students (Class 9 & 10), Sikkim 2026",
@@ -1155,64 +1280,6 @@
     "url": "https://www.buddy4study.com/scholarship/nsp-centrally-sponsored-post-matric-scholarship-to-sc-students-sikkim-2026"
   },
   {
-    "scholarship_name": "NSP Mukhya Mantri Vidyarthi Kalyan Yojna, Himachal Pradesh 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Himachal Pradesh",
-      "gender": "Female",
-      "class": [
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Up to ₹5,000 per annum",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Class 1 to UG students of Himachal Pradesh",
-    "benefits": "The selected candidates will receive the following benefits annually:- For school-going boys: ₹1,500 For school-going girls: ₹ 2,000 For college/university students: ₹5,000",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
-      "Application Deadline: 31st August 2026"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/nsp-mukhya-mantri-vidyarthi-kalyan-yojna-himachal-pradesh-2026"
-  },
-  {
-    "scholarship_name": "Inlaks King's India Institute Studentship 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "PhD"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Award of USD 2350 and other benefits",
-    "application_deadline": "31-Aug-2026",
-    "provider": "",
-    "region": "United Kingdom",
-    "summary": "Program Scholarships",
-    "eligibility": "Indian registered PhD students",
-    "benefits": "Selected candidates will receive various benefits:- Reimbursement of travel expenses as per the Foundation's guidelines Maintenance allowance for the duration of the research visit Up to USD 500 (approx.₹48,166.60)...",
-    "key_points": [
-      "Apply by 31-Aug-2026",
-      "Selection: Candidates will go through a two-tier selection process: Desk review for shortlisting...",
-      "Application Deadline: 31st August 2026"
-    ],
-    "apply_link": "https://inlaksfoundation.org/opportunities/grants/inlaks-kings-india-institute-studentship/",
-    "url": "https://www.buddy4study.com/scholarship/inlaks-king-s-india-institute-studentship-2026"
-  },
-  {
     "scholarship_name": "NSP Sainik School Scholarship Scheme, Himachal Pradesh 2026-27",
     "category": "Scholarship",
     "tags": {
@@ -1240,13 +1307,43 @@
     "url": "https://www.buddy4study.com/scholarship/nsp-sainik-school-scholarship-scheme-himachal-pradesh-2026"
   },
   {
-    "scholarship_name": "Nilam Patel Bahushrut Foundation SSC Students Scholarship 2026",
+    "scholarship_name": "BCWD Post-Matric Scholarship, Karnataka 2026-27",
     "category": "Scholarship",
     "tags": {
-      "state": "Gujarat",
+      "state": "Karnataka",
       "gender": "All",
       "class": [
         "Class 10",
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 0,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "Up to ₹20,000 annually",
+    "application_deadline": "31-Aug-2026",
+    "provider": "",
+    "region": "India",
+    "summary": "Program Scholarships",
+    "eligibility": "OBC students of Karnataka",
+    "benefits": "--- --- --- Particulars Allowance (annual) Tuition Fees (annual) Professional UG and PG Courses ₹10,000 ₹10,000 Other Professional Courses ₹8,000 ₹5,000 General UG and PG Courses ₹6,000 ₹2,000 Post Matriculation...",
+    "key_points": [
+      "Apply by 31-Aug-2026",
+      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
+      "Application Deadline: August 31, 2026"
+    ],
+    "apply_link": "https://bcwd.karnataka.gov.in/163/2026-27-post-matric-scholarship/en",
+    "url": "https://www.buddy4study.com/scholarship/bcwd-post-matric-scholarship-karnataka-2027"
+  },
+  {
+    "scholarship_name": "R D Sethna Loan Scholarship 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
         "UG"
       ]
     },
@@ -1254,20 +1351,20 @@
       "min_percentage": 0,
       "max_family_income": 999999999
     },
-    "scholarship_amount": "Scholarships, prizes and special awards",
+    "scholarship_amount": "Scholarship loan to support higher studies",
     "application_deadline": "31-Aug-2026",
     "provider": "",
     "region": "India",
     "summary": "Program Scholarships",
-    "eligibility": "Hearing impaired Class 10 passed students of Gujarat and Maharashtra",
-    "benefits": "The top 7 students will be awarded scholarships, prizes and recognition for their academic excellence. The awards are presented as follows: Manubhai D Shah Award for Academic Excellence \\- 1st Rank holder at SSC level...",
+    "eligibility": "Indian students pursuing higher education",
+    "benefits": "Selected candidates will receive financial aid in the form of an interest-bearing scholarship loan. The interest rate is 2% per annum, compounded annually. The amount awarded will be determined based on an assessment...",
     "key_points": [
       "Apply by 31-Aug-2026",
-      "Selection: The candidates will be selected based on the fulfilment of the eligibility criteria.",
-      "Application End Date: 31st August 2026 Scholarship Disbursement: October 2026 (first week)"
+      "Selection: Applicants will be selected based on merit and fulfilment of the eligibility criteria.",
+      "Application Deadline for Study Abroad: 31st July 2026 Application Deadline for Study in India: 31st August..."
     ],
-    "apply_link": "https://www.bahushrutfoundation.org/application-forms",
-    "url": "https://www.buddy4study.com/scholarship/nilam-patel-bahushrut-foundation-ssc-students-scholarship-2026"
+    "apply_link": "https://www.rdsethnascholarships.org/application-fees/",
+    "url": "https://www.buddy4study.com/scholarship/r-d-sethna-loan-scholarship-2026"
   },
   {
     "scholarship_name": "Allianz Climate Risk Award 2026",
@@ -1382,118 +1479,6 @@
     ],
     "apply_link": "https://www.kent.ac.uk/scholarships/search/FNADKISFUG01",
     "url": "https://www.buddy4study.com/scholarship/university-of-kent-international-scholarships-for-undergraduate-student-2026"
-  },
-  {
-    "scholarship_name": "Schwarzman Scholars Programme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Fully-funded Master’s programme and other benefits",
-    "application_deadline": "09-Sep-2026",
-    "provider": "",
-    "region": "United States",
-    "summary": "Program Scholarships",
-    "eligibility": "Postgraduate degree applicants",
-    "benefits": "The selected candidates will receive: a fully-funded Master’s programme room and board travel to and from Beijing at the beginning and end of the academic year in-country study tours course books and supplies a Lenovo...",
-    "key_points": [
-      "Apply by 09-Sep-2026",
-      "Selection: The applicants will be selected based on their academic abilities and leadership potential, as...",
-      "Application Deadline: 9th September 2026"
-    ],
-    "apply_link": "https://www.schwarzmanscholars.org/",
-    "url": "https://www.buddy4study.com/scholarship/schwarzman-scholars-programme-2026"
-  },
-  {
-    "scholarship_name": "DRDO SSPL Junior Research Fellowship 2026",
-    "category": "Fellowship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "Monthly Stipend of ₹37,000",
-    "application_deadline": "09-Sep-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Engineering and Science candidates",
-    "benefits": "Selected candidates will receive the following benefits: Stipend of ₹37,000 per month for Junior Research Fellow (JRF) Opportunity to work on DRDO research projects in semiconductor materials, device fabrication, and...",
-    "key_points": [
-      "Apply by 09-Sep-2026",
-      "Selection: Candidates will be selected through a walk-in-interview held at SJB Auditorium, SSPL Complex...",
-      "There is no fixed application deadline. Interested candidates can attend the walk-in interview on the..."
-    ],
-    "apply_link": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL23072026.pdf",
-    "url": "https://www.buddy4study.com/scholarship/drdo-sspl-junior-research-fellow-2026"
-  },
-  {
-    "scholarship_name": "NSP Centrally Sponsored Scheme Of Pre-Matric Scholarship For SC Students (Class 9 and 10), Jammu and Kashmir 2026",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Jammu and Kashmir",
-      "gender": "All",
-      "class": [
-        "Class 10"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "A consolidated academic allowance of up to ₹8,000 per annum",
-    "application_deadline": "15-Sep-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Scheduled Caste (SC) students of the state studying in Class 1 to 10",
-    "benefits": "The eligible students will receive the following awards:- --- --- --- Particulars Academic Allowance (per annum in ₹) Day Scholars 3,500 Hosteller Component I: 7,000 Component II: 8,000 (From Class 3 to 10) A 10%...",
-    "key_points": [
-      "Apply by 15-Sep-2026",
-      "Selection: Candidates will be selected based on the fulfilment of the eligibility criteria.",
-      "Application Deadline: 15th September 2026"
-    ],
-    "apply_link": "http://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/nsp-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-9-and-10-jammu-and-kashmir-2026"
-  },
-  {
-    "scholarship_name": "INSPIRE Awards MANAK Scheme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": []
-    },
-    "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
-    },
-    "scholarship_amount": "A one-time award of ₹10,000",
-    "application_deadline": "15-Sep-2026",
-    "provider": "",
-    "region": "India",
-    "summary": "Program Scholarships",
-    "eligibility": "Students enrolled in Classes 6 to 10",
-    "benefits": "Selected students will receive a one-time award of ₹10,000. In addition, students selected for the National Level Exhibition & Project Competition (NLEPC) will receive mentoring from reputed technology institutions...",
-    "key_points": [
-      "Apply by 15-Sep-2026",
-      "Selection: The selection of ideas/innovations will be based on factors such as novelty, social...",
-      "Application Deadline: 15th September 2026"
-    ],
-    "apply_link": "https://www.inspireawards-dst.gov.in/UserP/award.aspx",
-    "url": "https://www.buddy4study.com/scholarship/inspire-awards-manak-scheme-2026-27"
   },
   {
     "scholarship_name": "STEP eLearn – General Communication Online Program",

@@ -51,35 +51,35 @@ function handleInput(text) {
       case FLOW.CATEGORY:
         userSelections.category = text;
         currentStep = FLOW.STATE;
-        addBotMessage("Great. Which <b>State</b> are you from?");
+        addBotMessage("Great. Which <strong>State</strong> are you from?");
         showOptions(OPTIONS.states);
         break;
 
       case FLOW.STATE:
         userSelections.state = text;
         currentStep = FLOW.GENDER;
-        addBotMessage("Got it. What is your <b>Gender</b>?");
+        addBotMessage("Got it. What is your <strong>Gender</strong>?");
         showOptions(OPTIONS.genders);
         break;
 
       case FLOW.GENDER:
         userSelections.gender = text;
         currentStep = FLOW.CLASS;
-        addBotMessage("What is your current <b>Education Level</b>?");
+        addBotMessage("What is your current <strong>Education Level</strong>?");
         showOptions(OPTIONS.classes);
         break;
 
       case FLOW.CLASS:
         userSelections.education = text;
         currentStep = FLOW.SCORE;
-        addBotMessage("What was your <b>Last Exam Percentage</b>? (e.g., 85)");
+        addBotMessage("What was your <strong>Last Exam Percentage</strong>? (e.g., 85)");
         break;
 
       case FLOW.SCORE:
         userSelections.percentage = text.replace(/[^0-9.]/g, '');
 
         currentStep = FLOW.INCOME;
-        addBotMessage("Finally, what is your <b>Annual Family Income</b>?");
+        addBotMessage("Finally, what is your <strong>Annual Family Income</strong>?");
         showOptions(OPTIONS.incomes);
         break;
 
@@ -177,8 +177,9 @@ async function loadResultsPage({ reset = false, showAll = false } = {}) {
 function addResultActions({ scroll = true } = {}) {
   removeResultActions();
 
-  const container = document.createElement('div');
-  container.className = 'result-actions fade-in';
+  const nav = document.createElement('nav');
+  nav.className = 'result-actions fade-in';
+  nav.setAttribute('aria-label', 'Result actions');
 
   if (resultCursor.hasMore) {
     const remaining = Math.max(0, resultCursor.total - resultCursor.nextOffset);
@@ -187,7 +188,7 @@ function addResultActions({ scroll = true } = {}) {
     btn.type = 'button';
     btn.innerText = `See All (${remaining})`;
     btn.onclick = () => loadResultsPage({ showAll: true });
-    container.appendChild(btn);
+    nav.appendChild(btn);
   }
 
   const restartBtn = document.createElement('button');
@@ -195,9 +196,9 @@ function addResultActions({ scroll = true } = {}) {
   restartBtn.type = 'button';
   restartBtn.innerText = 'Start Over';
   restartBtn.onclick = () => handleInput('Start Over');
-  container.appendChild(restartBtn);
+  nav.appendChild(restartBtn);
 
-  chatBox.appendChild(container);
+  chatBox.appendChild(nav);
   if (scroll) scrollToBottom();
 }
 
@@ -246,8 +247,9 @@ function renderCardsGradually(items, delay = 120, { scrollToFirst = false } = {}
 function renderCard(item) {
   const tags = item.tags || {};
   const reqs = item.requirements || {};
-  const card = document.createElement("div");
+  const card = document.createElement("article");
   card.className = "result-card fade-in";
+  card.setAttribute("role", "article");
 
   const category = cleanText(item.category, "Scholarship");
   const scope = cleanText(item._match && item._match.scope, cleanText(tags.state, "All India"));
@@ -287,30 +289,30 @@ function renderCard(item) {
   ` : "";
   const fitHtml = fitItems.length ? renderFitSection(fitItems) : "";
   const eligibilityHtml = eligibility ? `
-        <div class="detail-section">
-            <span class="section-label">Eligibility</span>
+        <section class="detail-section" aria-label="Eligibility">
+            <h3 class="section-label">Eligibility</h3>
             <p class="eligibility">${escapeHtml(eligibility)}</p>
-        </div>
+        </section>
   ` : "";
   const summaryTextHtml = summary ? renderTextSection("Overview", summary) : "";
   const benefitsHtml = benefits ? renderTextSection("Benefits", benefits) : "";
   const keyPointsHtml = keyPoints.length ? renderListSection("Important", keyPoints) : "";
   const footerHtml = officialLink ? `
-        <div class="card-footer">
+        <footer class="card-footer">
             <a href="${officialLink}" target="_blank" rel="noopener noreferrer" class="apply-btn">Open Official Page</a>
-        </div>
+        </footer>
   ` : "";
 
   card.innerHTML = `
-        <div class="card-header">
+        <header class="card-header">
             <div>
                 <div class="badge-row">
                   <span class="type-badge ${toCssClass(category)}">${escapeHtml(category)}</span>
                   ${deadlineBadgeHtml}
                 </div>
-                <h3>${escapeHtml(cleanText(item.scholarship_name, "Scholarship opportunity"))}</h3>
+                <h2>${escapeHtml(cleanText(item.scholarship_name, "Scholarship opportunity"))}</h2>
             </div>
-        </div>
+        </header>
         ${metaHtml}
         ${summaryHtml}
         ${fitHtml}
@@ -335,28 +337,28 @@ function renderDetailItems(items, className) {
 
 function renderTextSection(label, text) {
   return `
-    <div class="detail-section">
-      <span class="section-label">${escapeHtml(label)}</span>
+    <section class="detail-section" aria-label="${escapeHtml(label)}">
+      <h3 class="section-label">${escapeHtml(label)}</h3>
       <p class="eligibility">${escapeHtml(text)}</p>
-    </div>
+    </section>
   `;
 }
 
 function renderListSection(label, items) {
   return `
-    <div class="detail-section list-section">
-      <span class="section-label">${escapeHtml(label)}</span>
+    <section class="detail-section list-section" aria-label="${escapeHtml(label)}">
+      <h3 class="section-label">${escapeHtml(label)}</h3>
       <ul class="detail-list">
         ${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
       </ul>
-    </div>
+    </section>
   `;
 }
 
 function renderFitSection(items) {
   return `
-    <div class="fit-section">
-      <span class="section-label">Why This Fits</span>
+    <section class="fit-section" aria-label="Why This Fits">
+      <h3 class="section-label">Why This Fits</h3>
       <div class="fit-chip-row">
         ${items.map((item) => `
           <div class="fit-chip ${item.tone}">
@@ -365,7 +367,7 @@ function renderFitSection(items) {
           </div>
         `).join("")}
       </div>
-    </div>
+    </section>
   `;
 }
 
@@ -536,6 +538,8 @@ function toCssClass(value) {
 function showOptions(options) {
   const div = document.createElement("div");
   div.className = "options-container fade-in";
+  div.setAttribute("role", "group");
+  div.setAttribute("aria-label", "Select an option");
   options.forEach((opt) => {
     const btn = document.createElement("button");
     btn.className = "option-pill";
@@ -555,6 +559,8 @@ function removeOptions() {
 function addBotMessage(html, { scroll = true } = {}) {
   const div = document.createElement("div");
   div.className = "message bot-msg fade-in";
+  div.setAttribute("role", "article");
+  div.setAttribute("aria-label", "Assistant message");
   div.innerHTML = html;
   div.id = "msg-" + Date.now();
   chatBox.appendChild(div);
@@ -565,6 +571,8 @@ function addBotMessage(html, { scroll = true } = {}) {
 function addUserMessage(text) {
   const div = document.createElement("div");
   div.className = "message user-msg fade-in";
+  div.setAttribute("role", "article");
+  div.setAttribute("aria-label", "Your message");
   div.innerText = text;
   chatBox.appendChild(div);
   scrollToBottom();
@@ -586,3 +594,7 @@ userInput.addEventListener("keypress", (e) => {
   if (e.key === "Enter") handleInput(userInput.value);
 });
 sendBtn.addEventListener("click", () => handleInput(userInput.value));
+document.getElementById("chat-form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  handleInput(userInput.value);
+});

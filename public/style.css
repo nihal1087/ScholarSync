@@ -188,6 +188,13 @@ button, input {
   width: 100%;
 }
 
+.result-card header,
+.result-card section,
+.result-card footer {
+  margin: 0;
+  padding: 0;
+}
+
 .results-loader {
   width: 100%;
   display: flex;
@@ -265,7 +272,7 @@ button, input {
   gap: 6px;
 }
 
-.card-header h3 {
+.card-header h2 {
   font-size: 16px;
   font-weight: 700;
   color: var(--text-dark);
@@ -472,6 +479,7 @@ button, input {
   letter-spacing: 0.04em;
   margin-bottom: 5px;
   text-transform: uppercase;
+  margin: 0 0 5px;
 }
 
 .eligibility {
@@ -526,6 +534,7 @@ button, input {
   gap: 10px;
   align-items: center;
   padding-bottom: max(12px, env(safe-area-inset-bottom));
+  margin: 0;
 }
 
 input {
@@ -584,6 +593,8 @@ button#send-btn:active {
     gap: 8px;
     justify-content: center;
     margin: 15px 0;
+    padding: 0;
+    list-style: none;
 }
 
 .show-more-btn,

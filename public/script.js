@@ -654,11 +654,10 @@ function scrollToElement(element) {
   chatBox.scrollTop += elementRect.top - chatRect.top - 8;
 }
 
-userInput.addEventListener("keypress", (e) => {
-  if (e.key === "Enter") handleInput(userInput.value);
-});
-sendBtn.addEventListener("click", () => handleInput(userInput.value));
-document.getElementById("chat-form").addEventListener("submit", (e) => {
-  e.preventDefault();
-  handleInput(userInput.value);
-});
+const chatForm = document.getElementById("chat-form");
+if (chatForm) {
+  chatForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    handleInput(userInput.value);
+  });
+}

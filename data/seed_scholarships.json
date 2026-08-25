@@ -1,0 +1,326 @@
+[
+  {
+    "scholarship_name": "Central Sector Scheme of Scholarships for College and University Students (PM-USP)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG", "PG"]
+    },
+    "requirements": {
+      "min_percentage": 80,
+      "max_family_income": 450000
+    },
+    "scholarship_amount": "₹12,000 to ₹20,000 per annum",
+    "application_deadline": "31-Oct-2026",
+    "provider": "Department of Higher Education (MoE)",
+    "region": "India",
+    "summary": "Financial support for top 20th percentile Class 12 passed students pursuing regular graduate or postgraduate degree programs.",
+    "eligibility": "Students above 80th percentile in Class 12 board exam, enrolled in regular UG/PG courses with annual family income up to ₹4.5 Lakh.",
+    "benefits": "₹12,000 per annum for graduation (first 3 years) and ₹20,000 per annum for postgraduate studies.",
+    "key_points": [
+      "Must be above 80th percentile in relevant 12th board stream",
+      "Disbursed directly via DBT through National Scholarship Portal (NSP)",
+      "Applicable for recognized colleges and universities in India"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://scholarships.gov.in/"
+  },
+  {
+    "scholarship_name": "AICTE Pragati Scholarship Scheme for Girl Students (Technical Degree/Diploma)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": ["UG", "Diploma"]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 800000
+    },
+    "scholarship_amount": "₹50,000 per annum",
+    "application_deadline": "30-Nov-2026",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "region": "India",
+    "summary": "Empowers meritorious female students admitted to 1st year or 2nd year (lateral entry) AICTE-approved technical degree or diploma courses.",
+    "eligibility": "Female students admitted to AICTE approved technical degree/diploma programs. Maximum 2 girls per family. Family income <= ₹8 Lakh.",
+    "benefits": "₹50,000 per annum for every year of study towards college fee payment, books, equipment, and laptop purchase.",
+    "key_points": [
+      "Exclusively for female students in technical education",
+      "Up to 10,000 scholarships awarded annually across India",
+      "Applied via National Scholarship Portal (NSP)"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati"
+  },
+  {
+    "scholarship_name": "AICTE Saksham Scholarship Scheme for Specially-Abled Students",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG", "Diploma"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 800000
+    },
+    "scholarship_amount": "₹50,000 per annum",
+    "application_deadline": "30-Nov-2026",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "region": "India",
+    "summary": "Financial support for specially-abled students with disability not less than 40% pursuing technical degree or diploma courses.",
+    "eligibility": "Specially-abled students (disability >= 40%) admitted to AICTE approved institutions with family income <= ₹8 Lakh per annum.",
+    "benefits": "₹50,000 per annum for each year of technical study.",
+    "key_points": [
+      "Valid disability certificate required (min 40%)",
+      "Covers all eligible specially-abled students admitted to AICTE courses",
+      "Direct DBT transfer through NSP"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes/Saksham"
+  },
+  {
+    "scholarship_name": "Post-Matric Scholarship for SC Students",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["Class 11", "Class 12", "UG", "PG", "Diploma", "PhD"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 250000
+    },
+    "scholarship_amount": "Full tuition fee waiver + monthly maintenance allowance",
+    "application_deadline": "31-Dec-2026",
+    "provider": "Ministry of Social Justice and Empowerment",
+    "region": "India",
+    "summary": "Centrally sponsored scheme enabling Scheduled Caste students to pursue post-matriculation or post-secondary studies.",
+    "eligibility": "SC students studying in post-matriculation courses in recognized institutions with annual family income up to ₹2.5 Lakh.",
+    "benefits": "Full reimbursement of non-refundable tuition fees and academic maintenance allowance up to ₹13,500/year.",
+    "key_points": [
+      "Valid caste certificate and income certificate mandatory",
+      "Covers Class 11 up to PhD programs",
+      "Managed via state scholarship portals and NSP"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://socialjustice.gov.in/"
+  },
+  {
+    "scholarship_name": "Post-Matric Scholarship for ST Students",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["Class 11", "Class 12", "UG", "PG", "Diploma", "PhD"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 250000
+    },
+    "scholarship_amount": "Compulsory fee waiver + maintenance allowance",
+    "application_deadline": "31-Dec-2026",
+    "provider": "Ministry of Tribal Affairs",
+    "region": "India",
+    "summary": "Empowers Scheduled Tribe students across India to complete higher education across degree, diploma, and doctoral levels.",
+    "eligibility": "ST category students pursuing recognized post-matric courses whose parents' annual income does not exceed ₹2.5 Lakh.",
+    "benefits": "Tuition fee reimbursement, book grant, and monthly maintenance allowance.",
+    "key_points": [
+      "All recognized professional and general courses covered",
+      "Applicable for both hostellers and day scholars",
+      "Apply via National Scholarship Portal"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://tribal.nic.in/"
+  },
+  {
+    "scholarship_name": "Post-Matric Scholarship Scheme for Minorities",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["Class 11", "Class 12", "UG", "PG", "Diploma", "PhD"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 200000
+    },
+    "scholarship_amount": "Admission, tuition fee waiver + maintenance allowance up to ₹10,000/yr",
+    "application_deadline": "31-Oct-2026",
+    "provider": "Ministry of Minority Affairs",
+    "region": "India",
+    "summary": "Financial support for meritorious minority community students (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) for higher education.",
+    "eligibility": "Students belonging to notified minority communities with >= 50% marks in previous exam and family income <= ₹2.0 Lakh.",
+    "benefits": "Admission and tuition fees up to ₹7,000 p.a. and maintenance allowance up to ₹3,800 to ₹10,000 p.a.",
+    "key_points": [
+      "30% of scholarships earmarked for female students",
+      "Applicable from Class 11 up to Ph.D.",
+      "Direct DBT credit into student bank account"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.minorityaffairs.gov.in/"
+  },
+  {
+    "scholarship_name": "Merit-Cum-Means Scholarship for Professional and Technical Courses (Minorities)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG", "PG"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 250000
+    },
+    "scholarship_amount": "₹20,000 per annum + ₹10,000 maintenance allowance",
+    "application_deadline": "31-Oct-2026",
+    "provider": "Ministry of Minority Affairs",
+    "region": "India",
+    "summary": "Assistance for minority students pursuing undergraduate or postgraduate professional and technical courses (Engineering, Medical, MBA, etc.).",
+    "eligibility": "Minority community students admitted to professional/technical courses with >= 50% in qualifying exam and family income <= ₹2.5 Lakh.",
+    "benefits": "Course fee up to ₹20,000 per annum and maintenance allowance of ₹1,000/month for hostellers (₹500 for day scholars).",
+    "key_points": [
+      "Covers listed premier institutions (IITs, NITs, IIMs) with full fee reimbursement",
+      "Apply through the National Scholarship Portal (NSP)",
+      "Renewable every year based on academic performance"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://scholarships.gov.in/"
+  },
+  {
+    "scholarship_name": "Ishan Uday Special Scholarship Scheme for North Eastern Region (NER)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 450000
+    },
+    "scholarship_amount": "₹5,400 to ₹7,800 per month",
+    "application_deadline": "31-Oct-2026",
+    "provider": "University Grants Commission (UGC)",
+    "region": "India",
+    "summary": "Special scholarship by UGC to promote higher education among students having domicile of North Eastern states.",
+    "eligibility": "Students with domicile of NER (Assam, Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura) admitted to 1st year general/technical UG degree with income <= ₹4.5 Lakh.",
+    "benefits": "₹5,400 per month for general degree and ₹7,800 per month for technical/medical/professional courses.",
+    "key_points": [
+      "10,000 fresh scholarships awarded every year",
+      "Requires valid Domicile Certificate of NE State",
+      "Apply on National Scholarship Portal"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.ugc.gov.in/"
+  },
+  {
+    "scholarship_name": "Prime Minister's Scholarship Scheme (PMSS) for CAPFs, AR and Assam Rifles",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG", "PG"]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 999999999
+    },
+    "scholarship_amount": "₹3,000/month for girls and ₹2,500/month for boys",
+    "application_deadline": "30-Nov-2026",
+    "provider": "Welfare & Rehabilitation Board (WARB), MHA",
+    "region": "India",
+    "summary": "Encourages higher technical and professional education for dependent wards and widows of Central Armed Police Forces and Assam Rifles personnel.",
+    "eligibility": "Wards/widows of deceased/ex/serving CAPFs & AR personnel pursuing professional courses (Engineering, Medicine, Dental, Veterinary, BBA, BCA, MBA, MCA) with min 60% in 10+2/Diploma/Graduation.",
+    "benefits": "₹36,000 per annum for female students and ₹30,000 per annum for male students.",
+    "key_points": [
+      "Applicable for technical and professional degree programs",
+      "Disbursed directly by Ministry of Home Affairs via NSP",
+      "Priority given to wards of martyrs and personnel disabled in action"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://warb-mha.gov.in/"
+  },
+  {
+    "scholarship_name": "AICTE Swanath Scholarship Scheme",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": ["UG", "Diploma"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 800000
+    },
+    "scholarship_amount": "₹50,000 per annum",
+    "application_deadline": "30-Nov-2026",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "region": "India",
+    "summary": "Provides financial aid to orphans, wards of parents who died due to Covid-19, and wards of Armed Forces personnel martyred in action pursuing technical education.",
+    "eligibility": "Orphan students, Covid-19 affected students, or wards of martyred Armed Forces personnel admitted to AICTE approved degree/diploma courses with family income <= ₹8 Lakh.",
+    "benefits": "₹50,000 per annum towards tuition and incidental charges.",
+    "key_points": [
+      "2,000 scholarships available annually (1000 Degree + 1000 Diploma)",
+      "Requires relevant certificate (Death certificate / Martyr certificate)",
+      "Applied through National Scholarship Portal"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes/Swanath"
+  },
+  {
+    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (MahaDBT)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": ["UG", "PG", "Diploma"]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 800000
+    },
+    "scholarship_amount": "50% Tuition & Exam Fee Reimbursement",
+    "application_deadline": "31-Mar-2027",
+    "provider": "Directorate of Higher & Technical Education, Maharashtra",
+    "region": "Maharashtra",
+    "summary": "Tuition and exam fee reimbursement scheme for economically backward students of Maharashtra pursuing professional and non-professional higher education.",
+    "eligibility": "Domicile of Maharashtra, admitted through CAP rounds to approved courses with annual family income up to ₹8 Lakh.",
+    "benefits": "50% reimbursement of tuition and examination fees.",
+    "key_points": [
+      "Must have Maharashtra Domicile and Cap round admission letter",
+      "Applied via MahaDBT portal (mahadbt.maharashtra.gov.in)",
+      "Valid for government, aided, and non-aided private colleges"
+    ],
+    "apply_link": "https://mahadbt.maharashtra.gov.in/",
+    "url": "https://mahadbt.maharashtra.gov.in/"
+  },
+  {
+    "scholarship_name": "Medhabruti Scholarship (Odisha State Higher Education)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Odisha",
+      "gender": "All",
+      "class": ["Class 12", "UG", "PG", "Diploma"]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "₹5,000 to ₹10,000 per annum",
+    "application_deadline": "31-Dec-2026",
+    "provider": "Higher Education Department, Government of Odisha",
+    "region": "Odisha",
+    "summary": "State scholarship scheme for meritorious students of Odisha pursuing Junior, Senior, PG, and Technical/Professional courses.",
+    "eligibility": "Permanent resident of Odisha with >= 60% in previous exam, enrolled in regular courses, and parental income <= ₹6.0 Lakh.",
+    "benefits": "₹5,000/yr for +2 / Junior; ₹10,000/yr for Technical / Professional / PG courses.",
+    "key_points": [
+      "Over 23,000 scholarships disbursed across Odisha students annually",
+      "Apply via Odisha State Scholarship Portal",
+      "Disbursed through direct beneficiary transfer"
+    ],
+    "apply_link": "https://scholarship.odisha.gov.in/",
+    "url": "https://scholarship.odisha.gov.in/"
+  }
+]

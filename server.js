@@ -17,7 +17,7 @@ app.get("/health", (_req, res) => {
   res.json({ status: "ok" });
 });
 
-app.all("*path", (req, _res, next) => {
+app.use((req, _res, next) => {
   next(new AppError(`Cannot ${req.method} ${req.originalUrl}`, 404));
 });
 

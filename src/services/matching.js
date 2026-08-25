@@ -1,4 +1,4 @@
-const { normalizeText, hasValue, toNumber, isOpenScope, getApplyLink, isValidItem } = require("../utils/text");
+const { normalizeText, hasValue, toNumber, isOpenScope, getApplyLink, isValidItem, isDuplicateRecord } = require("../utils/text");
 const { getAll } = require("../data/scholarships");
 const config = require("../config");
 
@@ -102,24 +102,30 @@ function buildMatch(item, filters) {
 
 function findMatches(filters) {
   const scholarships = getAll();
-  const seen = new Set();
-
-  const matches = scholarships
+  const candidateMatches = scholarships
     .map((item) => buildMatch(item, filters))
-    .filter(Boolean)
-    .filter((item) => {
-      const key = normalizeText(getApplyLink(item) || item.scholarship_name);
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
+    .filter(Boolean);
 
-  matches.sort((a, b) => {
+  const deduplicatedMatches = [];
+
+  for (const item of candidateMatches) {
+    const existingIndex = deduplicatedMatches.findIndex((existing) => isDuplicateRecord(existing, item));
+    if (existingIndex === -1) {
+      deduplicatedMatches.push(item);
+    } else {
+      // Keep the higher scoring or earlier deadline version
+      if (item._match.score > deduplicatedMatches[existingIndex]._match.score) {
+        deduplicatedMatches[existingIndex] = item;
+      }
+    }
+  }
+
+  deduplicatedMatches.sort((a, b) => {
     if (b._match.score !== a._match.score) return b._match.score - a._match.score;
     return parseDeadline(a.application_deadline) - parseDeadline(b.application_deadline);
   });
 
-  return matches;
+  return deduplicatedMatches;
 }
 
 function paginateMatches(matches, { offset = 0, limit = config.defaultPageSize, showAll = false } = {}) {

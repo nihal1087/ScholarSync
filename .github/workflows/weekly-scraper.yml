@@ -33,23 +33,23 @@ jobs:
       - name: Check required secrets
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           if [ -z "$FIRECRAWL_API_KEY" ]; then
             echo "::error::Missing FIRECRAWL_API_KEY. Add it in Settings > Secrets and variables > Actions > Repository secrets."
             exit 1
           fi
 
-          if [ -z "$HF_TOKEN" ]; then
-            echo "::error::Missing HF_TOKEN. Add it in Settings > Secrets and variables > Actions > Repository secrets."
-            exit 1
+          if [ -z "$GROQ_API_KEY" ]; then
+            echo "::warning::GROQ_API_KEY is not set. Scraper will use Tier 1 Native Next.js and Tier 3 Local Heuristic fallback."
           fi
 
       - name: Run scholarship scraper
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ secrets.GROQ_MODEL || vars.GROQ_MODEL || 'openai/gpt-oss-120b' }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          AI_MODEL: ${{ secrets.AI_MODEL || vars.AI_MODEL || 'openai/gpt-oss-120b' }}
         run: npm run scrape
 
       - name: Commit and push changes

@@ -1,7 +1,7 @@
 {
-  "name": "scholarship-bot-v2",
+  "name": "scholarsync",
   "version": "1.0.0",
-  "description": "Scholarship Chatbot with JSON Data",
+  "description": "ScholarSync Chatbot - search scholarships, fellowships, and internships in India",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

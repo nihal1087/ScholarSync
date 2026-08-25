@@ -270,8 +270,16 @@ function renderCard(item) {
     region || scope
   ].filter(Boolean);
   const summaryItems = [
-    { label: "Award", value: amount },
-    { label: "Deadline", value: deadline }
+    { 
+      label: "Award", 
+      value: amount, 
+      icon: `<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21 18H3V6h18v12zm-9-2c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3z"/></svg>` 
+    },
+    { 
+      label: "Deadline", 
+      value: deadline, 
+      icon: `<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10z"/></svg>` 
+    }
   ].filter((detail) => detail.value);
   const fitItems = buildFitItems({ scope, classes, gender, reqs, tags });
   const deadlineBadgeHtml = deadlineInfo ? `
@@ -297,9 +305,29 @@ function renderCard(item) {
   const summaryTextHtml = summary ? renderTextSection("Overview", summary) : "";
   const benefitsHtml = benefits ? renderTextSection("Benefits", benefits) : "";
   const keyPointsHtml = keyPoints.length ? renderListSection("Important", keyPoints) : "";
-  const footerHtml = officialLink ? `
+
+  const hasDetails = Boolean(eligibility || benefits || keyPoints.length);
+  const detailsHtml = hasDetails ? `
+        <div class="card-details-collapsible">
+            ${eligibilityHtml}
+            ${benefitsHtml}
+            ${keyPointsHtml}
+        </div>
+  ` : "";
+
+  const footerHtml = (hasDetails || officialLink) ? `
         <footer class="card-footer">
-            <a href="${officialLink}" target="_blank" rel="noopener noreferrer" class="apply-btn">Open Official Page</a>
+            ${hasDetails ? `
+                <button class="toggle-details-btn" type="button">
+                    Show Details
+                    <svg class="chevron-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true">
+                        <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/>
+                    </svg>
+                </button>
+            ` : ""}
+            ${officialLink ? `
+                <a href="${officialLink}" target="_blank" rel="noopener noreferrer" class="apply-btn">Open Official Page</a>
+            ` : ""}
         </footer>
   ` : "";
 
@@ -317,11 +345,29 @@ function renderCard(item) {
         ${summaryHtml}
         ${fitHtml}
         ${summaryTextHtml}
-        ${eligibilityHtml}
-        ${benefitsHtml}
-        ${keyPointsHtml}
+        ${detailsHtml}
         ${footerHtml}
   `;
+
+  if (hasDetails) {
+    const toggleBtn = card.querySelector(".toggle-details-btn");
+    const collapsible = card.querySelector(".card-details-collapsible");
+    if (toggleBtn && collapsible) {
+      toggleBtn.addEventListener("click", () => {
+        const isExpanded = collapsible.classList.toggle("expanded");
+        toggleBtn.innerHTML = isExpanded 
+          ? `Hide Details <svg class="chevron-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true" style="transform: rotate(180deg);"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg>`
+          : `Show Details <svg class="chevron-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg>`;
+        
+        if (isExpanded) {
+          setTimeout(() => {
+            scrollToElement(card);
+          }, 100);
+        }
+      });
+    }
+  }
+
   chatBox.appendChild(card);
   return card;
 }
@@ -329,7 +375,10 @@ function renderCard(item) {
 function renderDetailItems(items, className) {
   return items.map((item) => `
     <div class="${className}">
-      <span class="detail-label">${escapeHtml(item.label)}</span>
+      <div class="detail-label-row">
+        ${item.icon || ""}
+        <span class="detail-label">${escapeHtml(item.label)}</span>
+      </div>
       <strong>${escapeHtml(item.value)}</strong>
     </div>
   `).join("");
@@ -362,8 +411,7 @@ function renderFitSection(items) {
       <div class="fit-chip-row">
         ${items.map((item) => `
           <div class="fit-chip ${item.tone}">
-            <span>${escapeHtml(item.label)}</span>
-            <strong>${escapeHtml(item.value)}</strong>
+            <strong>${escapeHtml(item.label)}:</strong> <span>${escapeHtml(item.value)}</span>
           </div>
         `).join("")}
       </div>
@@ -380,21 +428,37 @@ function buildFitItems({ scope, classes, gender, reqs, tags }) {
   const hasIncomeLimit = Number.isFinite(maxIncome) && maxIncome > 0 && maxIncome < 999999999;
   const genderIsRestricted = normalizeForDisplay(tags.gender) !== "all";
 
-  return [
-    { label: "Location", value: scope || "All India", tone: "fit" },
-    { label: "Level", value: classes, tone: "fit" },
-    genderIsRestricted ? { label: "Gender", value: gender, tone: "watch" } : null,
-    {
+  const items = [];
+
+  // Level
+  if (classes && classes !== "Open to all levels") {
+    items.push({ label: "Level", value: classes, tone: "neutral" });
+  }
+
+  // Gender
+  if (genderIsRestricted) {
+    items.push({ label: "Gender", value: gender, tone: "watch" });
+  }
+
+  // Score
+  if (hasScoreRequirement) {
+    items.push({
       label: "Score",
-      value: hasScoreRequirement ? `${minPercentage}%+ needed` : "No minimum listed",
+      value: `${minPercentage}%+ needed`,
       tone: getFitTone(hasScoreRequirement, userScore, minPercentage)
-    },
-    {
+    });
+  }
+
+  // Income
+  if (hasIncomeLimit) {
+    items.push({
       label: "Income",
-      value: hasIncomeLimit ? formatIncomeLimit(maxIncome) : "No limit listed",
+      value: formatIncomeLimit(maxIncome),
       tone: getIncomeTone(hasIncomeLimit, userIncome, maxIncome)
-    }
-  ].filter(Boolean);
+    });
+  }
+
+  return items;
 }
 
 function getFitTone(hasRequirement, userValue, requiredValue) {

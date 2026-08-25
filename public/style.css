@@ -177,11 +177,11 @@ button, input {
 
 .result-card {
   background: white;
-  border-radius: 12px;
+  border-radius: 16px;
   padding: 16px;
   margin-top: 8px;
-  border: 1px solid #e5e7eb;
-  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.06);
+  border: 1px solid #f1f5f9;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -206,7 +206,7 @@ button, input {
   width: 100%;
   background: white;
   border: 1px solid #e5e7eb;
-  border-radius: 12px;
+  border-radius: 16px;
   padding: 16px;
   box-shadow: 0 8px 18px rgba(15, 23, 42, 0.06);
 }
@@ -350,8 +350,9 @@ button, input {
 
 .card-meta span + span::before {
   color: #cbd5e1;
-  content: "/";
-  margin-right: 10px;
+  content: "•";
+  margin-right: 8px;
+  margin-left: 8px;
 }
 
 .card-summary {
@@ -362,18 +363,29 @@ button, input {
 
 .detail-item {
   min-width: 0;
-  border: 1px solid #eef2f7;
+  border: 1px solid #f1f5f9;
   border-radius: 8px;
   padding: 10px;
   background: #f8fafc;
 }
 
+.detail-label-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+  color: #64748b;
+}
+
+.detail-label-row svg {
+  flex-shrink: 0;
+}
+
 .detail-label {
   display: block;
-  color: #64748b;
+  color: inherit;
   font-size: 11px;
   font-weight: 600;
-  margin-bottom: 4px;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
@@ -387,88 +399,103 @@ button, input {
 }
 
 .priority-item {
-  background: #fbfdfb;
-  border-color: #dcefe3;
+  background: #fafafb;
+  border-color: #e2e8f0;
 }
 
-.priority-item .detail-label {
-  color: #047857;
+.priority-item .detail-label-row {
+  color: var(--primary);
 }
 
 .priority-item strong {
   font-size: 15px;
+  color: var(--text-dark);
 }
 
 .fit-section {
-  background: #fcfcfd;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  display: grid;
-  gap: 8px;
-  padding: 10px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0;
 }
 
 .fit-chip-row {
-  display: grid;
-  gap: 8px;
-  grid-template-columns: repeat(auto-fit, minmax(112px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 
 .fit-chip {
-  background: white;
-  border: 1px solid #e5e7eb;
-  border-left: 3px solid #94a3b8;
-  border-radius: 8px;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
   min-width: 0;
-  padding: 8px 9px;
-}
-
-.fit-chip span {
-  color: #64748b;
-  display: block;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  margin-bottom: 3px;
-  text-transform: uppercase;
+  padding: 4px 10px;
+  font-size: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #475569;
 }
 
 .fit-chip strong {
-  color: #1f2937;
-  display: block;
+  color: inherit;
+  font-weight: 600;
   font-size: 12px;
-  line-height: 1.35;
-  overflow-wrap: anywhere;
+}
+
+.fit-chip span {
+  color: inherit;
+  font-size: 12px;
 }
 
 .fit-chip.fit {
-  background: #f0fdf4;
+  background: #dcfce7;
   border-color: #bbf7d0;
-  border-left-color: #16a34a;
+  color: #166534;
 }
 
 .fit-chip.watch {
-  background: #fffbeb;
+  background: #fef9c3;
   border-color: #fde68a;
-  border-left-color: #d97706;
+  color: #854d0e;
 }
 
 .fit-chip.neutral {
-  background: #f8fafc;
+  background: #f1f5f9;
   border-color: #e2e8f0;
-  border-left-color: #94a3b8;
+  color: #475569;
+}
+
+.card-details-collapsible {
+  display: none;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 0;
+}
+
+.card-details-collapsible.expanded {
+  display: flex;
+  animation: fadeInCollapse 0.25s ease-out;
+}
+
+@keyframes fadeInCollapse {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .detail-section {
-  border-top: 1px solid #f3f4f6;
-  padding-top: 12px;
+  margin-top: 0;
 }
 
 .list-section {
-  background: #f8fafc;
-  border: 1px solid #eef2f7;
-  border-radius: 8px;
-  padding: 10px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
 }
 
 .section-label {
@@ -477,9 +504,8 @@ button, input {
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.04em;
-  margin-bottom: 5px;
   text-transform: uppercase;
-  margin: 0 0 5px;
+  margin: 0 0 6px;
 }
 
 .eligibility {
@@ -496,7 +522,9 @@ button, input {
   font-size: 13px;
   line-height: 1.45;
   list-style-position: outside;
-  margin-left: 18px;
+  margin-left: 16px;
+  margin-top: 4px;
+  padding: 0;
   overflow-wrap: anywhere;
 }
 
@@ -504,26 +532,63 @@ button, input {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 12px;
-  border-top: 1px solid #f3f4f6;
-  padding-top: 12px;
+  gap: 10px;
+  width: 100%;
+}
+
+.toggle-details-btn {
+  background: transparent;
+  color: var(--primary);
+  border: 1px solid var(--primary);
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+  flex: 1;
+}
+
+.toggle-details-btn:hover {
+  background: rgba(59, 130, 246, 0.05);
+}
+
+.toggle-details-btn:active {
+  transform: scale(0.98);
+}
+
+.toggle-details-btn .chevron-icon {
+  fill: currentColor;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
 }
 
 .apply-btn {
   text-decoration: none;
-  background: var(--text-dark);
+  background: var(--primary);
   color: white;
   padding: 8px 16px;
   border-radius: 8px;
   font-size: 13px;
-  font-weight: 500;
-  transition: opacity 0.2s;
+  font-weight: 600;
+  transition: all 0.2s ease;
   flex-shrink: 0;
   text-align: center;
+  flex: 1;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+}
+
+.apply-btn:hover {
+  background: var(--primary-active);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
 }
 
 .apply-btn:active {
-  opacity: 0.8;
+  transform: scale(0.98);
 }
 
 .input-area {
@@ -633,9 +698,11 @@ button#send-btn:active {
   .card-footer {
     align-items: stretch;
     flex-direction: column;
+    gap: 8px;
   }
 
-  .apply-btn {
+  .apply-btn,
+  .toggle-details-btn {
     width: 100%;
   }
 }

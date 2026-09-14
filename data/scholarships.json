@@ -441,7 +441,8 @@
       "class": [
         "UG",
         "PG",
-        "Diploma"
+        "Diploma",
+        "Class 12"
       ]
     },
     "requirements": {
@@ -452,8 +453,8 @@
     "application_deadline": "2026-10-31",
     "provider": "Scholarships by the Department of Higher Education, Govt. of Himachal Pradesh",
     "region": "India",
-    "summary": "The selected scholars will receive a one-time incentive/award of ₹75,000.",
-    "eligibility": "To be eligible, an applicant must:- be a domicile of Himachal Pradesh have secured admission to a full-time undergraduate degree program at the Indian Institutes of Technology (IITs) or the All India Institute of Medical Sciences (AIIMS), or a postgraduate...",
+    "summary": "A merit-based scholarship of ₹18,000 per annum will be awarded to 150 meritorious students.",
+    "eligibility": "To be eligible, an applicant must:- be a bonafide resident of Himachal Pradesh fulfil the below academic criteria: Class 12: Students must have secured a minimum of 60% marks in the Himachal Pradesh Board of School Education (HPBOSE) Class 12 examination in...",
     "benefits": "The selected candidates will receive the following benefits annually:- For school-going boys: ₹1,500 For school-going girls: ₹ 2,000 For college/university students: ₹5,000",
     "key_points": [
       "Apply by 2026-10-31"
@@ -935,7 +936,7 @@
       "Apply by 2026-10-31"
     ],
     "apply_link": "https://forms.buddy4study.com/application/HDFC65/instruction",
-    "url": "https://www.buddy4study.com/scholarship/parivartan-ecss-programme-for-school-students-merit-cum-need-based-2026-27"
+    "url": "https://www.buddy4study.com/scholarship/parivartan-ecss-programme-for-undergraduate-students-merit-cum-need-based-2026-27"
   },
   {
     "scholarship_name": "Eastman Powerup Eduskill Scholarship Program 2026-27",
@@ -994,7 +995,7 @@
       "Apply by 2026-09-19"
     ],
     "apply_link": "https://www.sbiashascholarship.co.in/",
-    "url": "https://www.buddy4study.com/scholarship/sbi-platinum-jubilee-asha-scholarship-for-school-students-class-9-to-12"
+    "url": "https://www.buddy4study.com/scholarship/sbi-platinum-jubilee-asha-scholarship-for-postgraduate-students-2026"
   },
   {
     "scholarship_name": "Nikon Scholarship Program 2026-27",
@@ -2249,14 +2250,14 @@
       "max_family_income": 500000
     },
     "scholarship_amount": "Scholarship up to INR 25,000",
-    "application_deadline": "2026-09-10",
+    "application_deadline": "2026-09-20",
     "provider": "JK Tyre & Industries Limited",
     "region": "India",
     "summary": "Selected students will receive the following annual fixed scholarship, depending on their course: Professional Undergraduate Courses: INR 25,000 General Undergraduate Courses...",
     "eligibility": "Open to female students who are daughters of heavy vehicle drivers and are enrolled in general or professional undergraduate courses or diploma courses . Applicants must have secured a minimum of 55% marks in their previous academic year. Annual parental...",
     "benefits": "Selected students will receive the following annual fixed scholarship, depending on their course: Professional Undergraduate Courses: INR 25,000 General Undergraduate Courses: INR 15,000 Diploma Courses: INR 15,000...",
     "key_points": [
-      "Apply by 2026-09-10"
+      "Apply by 2026-09-20"
     ],
     "apply_link": "https://www.buddy4study.com/application/JKTS4/instruction",
     "url": "https://www.buddy4study.com/scholarship/jk-tyre-shiksha-sarthi-scholarship-program-2026-27"
@@ -2328,14 +2329,14 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "nurtr Neo Course at ₹9,999",
-    "application_deadline": "2026-12-31",
+    "application_deadline": "2026-09-30",
     "provider": "nurtr",
     "region": "India",
     "summary": "Original Amount: ₹ 9,999 With 50% Scholarship: ₹ 4,999 Savings: ₹ 5,000 (50%)",
     "eligibility": "To be eligible for nurtr Nurturing Minds with Chess Program 2025-26 (50% Fee Waiver) , an individual must: Be a resident of India. Be a school or college student. Fall within the age range of 5 to 25 years. Have an annual family income ranging from ₹8 lakh...",
     "benefits": "Original Amount: ₹ 9,999 With 50% Scholarship: ₹ 4,999 Savings: ₹ 5,000 (50%)",
     "key_points": [
-      "Apply by 2026-12-31"
+      "Apply by 2026-09-30"
     ],
     "apply_link": "https://www.buddy4study.com/application/NURTR7/instruction",
     "url": "https://www.buddy4study.com/scholarship/nurtr-nurturing-minds-with-chess-program-actual-cost"
@@ -2823,7 +2824,7 @@
     "url": "https://warb-mha.gov.in/"
   },
   {
-    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (MahaDBT)",
+    "scholarship_name": "MAFSU Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) Students, Maharashtra 2026-27 | [Win Reimbursement of up...",
     "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
@@ -2835,23 +2836,21 @@
       ]
     },
     "requirements": {
-      "min_percentage": 50,
-      "max_family_income": 800000
+      "min_percentage": 60,
+      "max_family_income": 600000
     },
-    "scholarship_amount": "50% Tuition & Exam Fee Reimbursement",
-    "application_deadline": "31-Mar-2027",
-    "provider": "Directorate of Higher & Technical Education, Maharashtra",
-    "region": "Maharashtra",
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
     "summary": "Tuition and exam fee reimbursement scheme for economically backward students of Maharashtra pursuing professional and non-professional higher education.",
     "eligibility": "Domicile of Maharashtra, admitted through CAP rounds to approved courses with annual family income up to ₹8 Lakh.",
     "benefits": "50% reimbursement of tuition and examination fees.",
     "key_points": [
-      "Must have Maharashtra Domicile and Cap round admission letter",
-      "Applied via MahaDBT portal (mahadbt.maharashtra.gov.in)",
-      "Valid for government, aided, and non-aided private colleges"
+      "Check official link for details"
     ],
     "apply_link": "https://mahadbt.maharashtra.gov.in/",
-    "url": "https://mahadbt.maharashtra.gov.in/"
+    "url": "https://www.buddy4study.com/scholarship/mafsu-rajarshi-chhatrapati-shahu-maharaj-shikshan-shulkh-shishyavrutti-yojna-ebc-students-maharashtra"
   },
   {
     "scholarship_name": "Medhabruti Scholarship (Odisha State Higher Education)",
@@ -3309,34 +3308,6 @@
     "url": "https://www.buddy4study.com/scholarship/thakur-sen-negi-utkrisht-chatravriti-yojana-himachal-pradesh"
   },
   {
-    "scholarship_name": "NSP Indira Gandhi Utkrisht Chatravriti Yojana, Himachal Pradesh 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "Himachal Pradesh",
-      "gender": "All",
-      "class": [
-        "Class 12",
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "₹18,000 per annum",
-    "application_deadline": "2026-10-31",
-    "provider": "Scholarships by the Department of Higher Education, Govt. of Himachal Pradesh",
-    "region": "India",
-    "summary": "A merit-based scholarship of ₹18,000 per annum will be awarded to 150 meritorious students.",
-    "eligibility": "To be eligible, an applicant must:- be a bonafide resident of Himachal Pradesh fulfil the below academic criteria: Class 12: Students must have secured a minimum of 60% marks in the Himachal Pradesh Board of School Education (HPBOSE) Class 12 examination in...",
-    "benefits": "A merit-based scholarship of ₹18,000 per annum will be awarded to 150 meritorious students.",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/home",
-    "url": "https://www.buddy4study.com/scholarship/mukhya-mantri-protsahan-yojana-himachal-pradesh"
-  },
-  {
     "scholarship_name": "Dr. Ambedkar Medhavi Chatravriti Yojana for SC & OBC Students, Himachal Pradesh 2026-27 | [Win a stipend of ₹12,000 per annum]",
     "category": "Scholarship",
     "tags": {
@@ -3519,37 +3490,6 @@
     ],
     "apply_link": "https://scholarships.gov.in/",
     "url": "https://www.buddy4study.com/scholarship/nsp-prime-ministers-scholarship-scheme-for-wards-of-states-uts-police-personnel"
-  },
-  {
-    "scholarship_name": "Prime Minister'S Scholarship Scheme For Wards Of States/UTs Police Personnel Martyred During Terror/Naxal Attacks",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG",
-        "Diploma",
-        "PG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 50,
-      "max_family_income": 250000
-    },
-    "scholarship_amount": "Tuition fees, academic allowance & maintenance grant via DBT",
-    "application_deadline": "31-Oct-2026",
-    "provider": "UGC",
-    "region": "India",
-    "summary": "Provides financial aid to orphans, wards of parents who died due to Covid-19, and wards of Armed Forces personnel martyred in action pursuing technical education.",
-    "eligibility": "Orphan students, Covid-19 affected students, or wards of martyred Armed Forces personnel admitted to AICTE approved degree/diploma courses with family income <= ₹8 Lakh.",
-    "benefits": "Full or partial fee reimbursement, monthly stipend, and academic allowance credited directly via DBT.",
-    "key_points": [
-      "Offered by UGC",
-      "Apply online at https://scholarships.gov.in/",
-      "Disbursed directly through Direct Benefit Transfer (DBT)"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://scholarships.gov.in/All-Scholarships"
   },
   {
     "scholarship_name": "NSP Post-Matric Scholarship for OBC Students, Uttarakhand 2026 | [Win Up to ₹750 per month]",
@@ -3887,34 +3827,6 @@
     "url": "https://www.buddy4study.com/scholarship/ekartavya-scholarship-program"
   },
   {
-    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG",
-        "Diploma"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "₹50,000 per annum for every year of study",
-    "application_deadline": "2026-10-31",
-    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
-    "region": "India",
-    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
-    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
-  },
-  {
     "scholarship_name": "Vocational Education Fee Reimbursement, Maharashtra 2025-26 | [Win full exam fees and tuition fees]",
     "category": "Scholarship",
     "tags": {
@@ -3963,11 +3875,11 @@
     "key_points": [
       "Check official link for details"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/post-matric-tuition-fee-and-examination-fee-freeship-maharashtra",
-    "url": "https://www.buddy4study.com/scholarship/post-matric-tuition-fee-and-examination-fee-freeship-maharashtra"
+    "apply_link": "https://www.buddy4study.com/scholarship/tuition-fee-and-examination-fee-for-tribal-students-freeship-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/tuition-fee-and-examination-fee-for-tribal-students-freeship-maharashtra"
   },
   {
-    "scholarship_name": "Post-Matric Scholarship Scheme Government of India, Maharashtra 2025-26 | [Win maintenance allowance and other benefits]",
+    "scholarship_name": "Government of India Post-Matric Scholarship, Government of India Post-Matric Scholarship, Maharashtra 2025-26 | [Win a monthly maintenance...",
     "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
@@ -4019,7 +3931,7 @@
     "url": "https://www.buddy4study.com/scholarship/dr-panjabrao-deshmukh-hostel-maintenance-allowance-scheme-maharashtra"
   },
   {
-    "scholarship_name": "Vocational Training Fee Reimbursement for SC Students, Maharashtra 2025-26 | [Win 100% course fees]",
+    "scholarship_name": "Vocational Training Fee Reimbursement Scholarship for SEBC and EWS Students, Maharashtra 2023-24 [Win up to 100% course fee reimbursement]",
     "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
@@ -4044,7 +3956,7 @@
     "url": "https://www.buddy4study.com/scholarship/vocational-training-fee-reimbursement-for-sc-students-maharashtra"
   },
   {
-    "scholarship_name": "Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scholarship Scheme, Maharashtra 2025-26 | [Win 50% fee reimbursement]",
+    "scholarship_name": "DOA Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme, Maharashtra 2026-27 | [Win reimbursement of up to 100% of...",
     "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
@@ -4065,11 +3977,11 @@
     "key_points": [
       "Check official link for details"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme",
-    "url": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme"
+    "apply_link": "https://www.buddy4study.com/scholarship/doa-rajarshi-chhatrapati-shahu-maharaj-shikshan-shulkh-shishyavrutti-scheme-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/doa-rajarshi-chhatrapati-shahu-maharaj-shikshan-shulkh-shishyavrutti-scheme-maharashtra"
   },
   {
-    "scholarship_name": "DOA Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna, Maharashtra 2025-26 | [Win up to ₹32,000 for 10 month]",
+    "scholarship_name": "MAFSU Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna, Maharashtra 2026-27 | [Win up to ₹32,000 for 10 months]",
     "category": "Scholarship",
     "tags": {
       "state": "Maharashtra",
@@ -4144,34 +4056,6 @@
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/umbrella-scheme-for-education-of-st-students-prematric-scholarship-class-nine-and-ten-arunachal-pradesh",
     "url": "https://www.buddy4study.com/scholarship/umbrella-scheme-for-education-of-st-students-prematric-scholarship-class-nine-and-ten-arunachal-pradesh"
-  },
-  {
-    "scholarship_name": "Tata Capital Pankh Scholarship for Class 11th and 12th Students (2026-27)",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "Female",
-      "class": [
-        "Class 12",
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "Scholarship up to INR 15,000",
-    "application_deadline": "2026-10-26",
-    "provider": "Tata Capital Limited",
-    "region": "India",
-    "summary": "Selected students will receive scholarship benefits as mentioned below: Students scoring 60% to 80% marks will receive up to 80% of tuition/course fees or INR 10,000 , whichever...",
-    "eligibility": "Open to Indian students currently enrolled in Classes 11 or 12 at a recognised educational institution in India . Applicants must have secured at least 60% marks in the preceding academic year. Annual parental income from all sources must not exceed INR 4...",
-    "benefits": "Selected students will receive scholarship benefits as mentioned below: Students scoring 60% to 80% marks will receive up to 80% of tuition/course fees or INR 10,000 , whichever is less. Students scoring above 80% and...",
-    "key_points": [
-      "Apply by 2026-10-26"
-    ],
-    "apply_link": "https://forms.buddy4study.com/application/TCPS37/instruction",
-    "url": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-class-11"
   },
   {
     "scholarship_name": "NSP Central Sector Scheme of Scholarship for College and University Students 2025-26 | [Win up to ₹20,000 per annum]",
@@ -4300,6 +4184,601 @@
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/energy4good-student-scholarship-program-2026",
     "url": "https://www.buddy4study.com/scholarship/energy4good-student-scholarship-program-2026"
+  },
+  {
+    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "Diploma"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "₹50,000 per annum for every year of study",
+    "application_deadline": "2026-10-31",
+    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
+    "region": "India",
+    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
+    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
+  },
+  {
+    "scholarship_name": "PM Yasasvi Pre-Matric Scholarship Scheme for OBC Students (Class 9 & 10), DNHDD 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "Class 10",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "An annual scholarship of ₹4,000",
+    "application_deadline": "2026-10-31",
+    "provider": "Dadra Nagar Haveli and Daman & Diu Scholarships",
+    "region": "India",
+    "summary": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian citizen be a domicile of Dadra Nagar Haveli or Daman and Diu belong to the Other Backwards Classes (OBC) category be studying full-time in Class 9 or 10 in a government school/institute have a minimum of 75%...",
+    "benefits": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining satisfactory academic performance and a 75%...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/allschemesdomicile",
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-nine-and-ten-dnhdd"
+  },
+  {
+    "scholarship_name": "NEET UG Scholarship Interest Form 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Priority consideration for various upcoming medical scholarships",
+    "application_deadline": "2026-09-30",
+    "provider": "NEET Scholarship Interest Form 2025",
+    "region": "India",
+    "summary": "Students who register through the interest form will be prioritised for information about relevant upcoming scholarships and financial assistance opportunities for medical...",
+    "eligibility": "Students who have appeared for NEET (UG) 2026 and are eligible for or pursuing an undergraduate medical program may register their interest. Students may be pursuing or seeking admission to eligible undergraduate programs such as MBBS, BDS, BAMS, BHMS, BUMS...",
+    "benefits": "Students who register through the interest form will be prioritised for information about relevant upcoming scholarships and financial assistance opportunities for medical education.",
+    "key_points": [
+      "Apply by 2026-09-30"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/NEET4/instruction",
+    "url": "https://www.buddy4study.com/scholarship/neet-pg-scholarship-interest-form-2026-27"
+  },
+  {
+    "scholarship_name": "Education Concession to Children of Freedom Fighter, Maharashtra 2026-27 | [Win a monthly scholarship of up to ₹60 and an annual book...",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/education-concession-to-children-of-freedom-fighter-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/education-concession-to-children-of-freedom-fighter-maharashtra"
+  },
+  {
+    "scholarship_name": "Assistance to Meritorious Students Scholarship - Junior Level, Maharashtra 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/assistance-to-meritorious-students-scholarship-senior-level-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/assistance-to-meritorious-students-scholarship-senior-level-maharashtra"
+  },
+  {
+    "scholarship_name": "Pre-Matric Scholarship For ST Students (Class 9 & 10), Manipur 2024 | [Win up to ₹350 per month for 10 months and other benefits]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Manipur",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/nsp-pre-matric-scholarship-for-st-students-manipur",
+    "url": "https://www.buddy4study.com/scholarship/nsp-pre-matric-scholarship-for-st-students-manipur"
+  },
+  {
+    "scholarship_name": "ONGC Sports Scholarship Scheme 2025–26 | [Win an award of up to ₹30,000]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/ongc-sports-scholarship-scheme",
+    "url": "https://www.buddy4study.com/scholarship/ongc-sports-scholarship-scheme"
+  },
+  {
+    "scholarship_name": "NSP Centrally Sponsored Pre-Matric Scholarship for ST Students (Class 9 and 10), Ladakh 2026-27 | [Win up to ₹525 monthly and an ad-hoc...",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Ladakh",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/nsp-centrally-sponsored-prematric-scholarship-for-st-students-class-nine-and-ten-ladakh",
+    "url": "https://www.buddy4study.com/scholarship/nsp-centrally-sponsored-prematric-scholarship-for-st-students-class-nine-and-ten-ladakh"
+  },
+  {
+    "scholarship_name": "Open Merit Scholarships in Junior College, Maharashtra 2026-27 | [Win ₹50 per month for ten months]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/open-merit-scholarships-in-junior-college-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/open-merit-scholarships-in-junior-college-maharashtra"
+  },
+  {
+    "scholarship_name": "Merit Scholarships for EBC Students, Maharashtra 2026-27 | [Win up to ₹160 per month]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/merit-scholarships-for-ebc-students-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/merit-scholarships-for-ebc-students-maharashtra"
+  },
+  {
+    "scholarship_name": "Mukhyamantri Yuva Swavalamban Yojana, Gujarat 2026-27 [Win Scholarship up to INR 2,00,000]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Gujarat",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/mukhyamantri-yuva-swavalamban-yojana-gujarat",
+    "url": "https://www.buddy4study.com/scholarship/mukhyamantri-yuva-swavalamban-yojana-gujarat"
+  },
+  {
+    "scholarship_name": "Pre-Matric Scholarship for Children of those Engaged in Unclean Occupations, Karnataka 2026-27 | [Win financial assistance]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Karnataka",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-children-of-those-engaged-in-unclean-occupations-karnataka-2026",
+    "url": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-children-of-those-engaged-in-unclean-occupations-karnataka-2026"
+  },
+  {
+    "scholarship_name": "Jawaharlal Nehru University Scholarship, Maharashtra 2026-27 | [Win ₹8,000 per month and INR 10,000 per annum]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/jawaharlal-nehru-university-scheme-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/jawaharlal-nehru-university-scheme-maharashtra"
+  },
+  {
+    "scholarship_name": "Tuition Fees and Examination Fees to SBC Students, Maharashtra 2026-27 | [Win 100% tuition fees and exam fees reimbursement]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-obc-students-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/tuition-fees-and-examination-fees-to-obc-students-maharashtra"
+  },
+  {
+    "scholarship_name": "WINGS — Women INspiring Growth in STEM Scholarship Program 2027-28",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Covers tuition fees of the students (INR 2 lakh p.a)",
+    "application_deadline": "2026-09-30",
+    "provider": "WINGS — Women INspiring Growth in STEM Scholarship Program",
+    "region": "India",
+    "summary": "WINGS covers tuition fees of INR 2,00,000 per annum for every eligible woman scholar, for as long as she continues to meet the eligibility criteria, including the required CPI...",
+    "eligibility": "Open to female students planning to pursue an undergraduate STEM programme at IIT Bombay for the 2027-28 session . Students should not be availing of any other government tuition grant or scholarship. To continue receiving the scholarship in subsequent...",
+    "benefits": "WINGS covers tuition fees of INR 2,00,000 per annum for every eligible woman scholar, for as long as she continues to meet the eligibility criteria, including the required CPI of 6.0 or above . Note: Applicants will...",
+    "key_points": [
+      "Apply by 2026-09-30"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/WINGS2/instruction",
+    "url": "https://www.buddy4study.com/scholarship/wings-women-inspiring-growth-in-stem-scholarship-program-by-iit-bombay"
+  },
+  {
+    "scholarship_name": "Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scholarship Scheme, Maharashtra 2025-26",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme",
+    "url": "https://www.buddy4study.com/scholarship/rajarshri-chhatrapati-shahu-maharaj-fee-reimbursement-scholarship-scheme"
+  },
+  {
+    "scholarship_name": "Government Research Adhichatra, Maharashtra 2026-27 | [Win a scholarship of ₹750 per month and ₹1,000 per year for other expenses]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/government-research-adhichatra-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/government-research-adhichatra-maharashtra"
+  },
+  {
+    "scholarship_name": "State Government Daxshina Adhichatra Scholarship, Maharashtra 2026-27 | [Win ₹250 per month]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/state-government-daxshina-adhichatra-scholarship-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/state-government-daxshina-adhichatra-scholarship-maharashtra"
+  },
+  {
+    "scholarship_name": "Government Vidyaniketan Scholarship, Maharashtra 2026-27 | [Win ₹100 per month]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/government-vidyaniketan-scholarship-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/government-vidyaniketan-scholarship-maharashtra"
+  },
+  {
+    "scholarship_name": "State Government Open Merit Scholarship, Maharashtra 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/state-government-open-merit-scholarship-maharashtra-",
+    "url": "https://www.buddy4study.com/scholarship/state-government-open-merit-scholarship-maharashtra-"
+  },
+  {
+    "scholarship_name": "Eklavya Scholarship, Maharashtra 2026-27 | [Win a one-time financial assistance of ₹5,000]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/eklavya-scholarship-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/eklavya-scholarship-maharashtra"
+  },
+  {
+    "scholarship_name": "Vocational Education Maintenance Allowance to ST Students, Maharashtra 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Maharashtra",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/vocational-education-maintenance-allowance-to-st-students-maharashtra",
+    "url": "https://www.buddy4study.com/scholarship/vocational-education-maintenance-allowance-to-st-students-maharashtra"
+  },
+  {
+    "scholarship_name": "Tata Capital Pankh Scholarship for Class 11th and 12th Students (2026-27)",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "Class 12",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Scholarship up to INR 15,000",
+    "application_deadline": "2026-10-26",
+    "provider": "Tata Capital Limited",
+    "region": "India",
+    "summary": "Selected students will receive scholarship benefits as mentioned below: Students scoring 60% to 80% marks will receive up to 80% of tuition/course fees or INR 10,000 , whichever...",
+    "eligibility": "Open to Indian students currently enrolled in Classes 11 or 12 at a recognised educational institution in India . Applicants must have secured at least 60% marks in the preceding academic year. Annual parental income from all sources must not exceed INR 4...",
+    "benefits": "Selected students will receive scholarship benefits as mentioned below: Students scoring 60% to 80% marks will receive up to 80% of tuition/course fees or INR 10,000 , whichever is less. Students scoring above 80% and...",
+    "key_points": [
+      "Apply by 2026-10-26"
+    ],
+    "apply_link": "https://forms.buddy4study.com/application/TCPS37/instruction",
+    "url": "https://www.buddy4study.com/scholarship/tata-capital-pankh-scholarship-program-for-class-11"
   },
   {
     "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",

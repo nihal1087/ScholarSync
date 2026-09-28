@@ -710,26 +710,27 @@
         "Class 9",
         "Class 10",
         "Class 11",
-        "Class 12"
+        "Class 12",
+        "UG",
+        "PG",
+        "Diploma"
       ]
     },
     "requirements": {
-      "min_percentage": 0,
-      "max_family_income": 999999999
+      "min_percentage": 60,
+      "max_family_income": 600000
     },
-    "scholarship_amount": "",
-    "application_deadline": "",
-    "provider": "Aditya Birla Capital Foundation",
-    "region": "All India",
-    "summary": "Scholarship for female students from underprivileged backgrounds, covering classes 9‑12, UG, and PG, offering financial aid and mentorship.",
-    "eligibility": "Female students from underprivileged backgrounds studying in Classes 9‑12, General Graduation, Professional Graduation (4‑year) or Post‑Graduation.",
-    "benefits": "Financial assistance and structured mentorship to support studies.",
+    "scholarship_amount": "Scholarship of up to INR 60,000",
+    "application_deadline": "2026-10-30",
+    "provider": "Aditya Birla Capital Limited",
+    "region": "India",
+    "summary": "Selected students will receive financial support as follows: Class 9-12 and Polytechnic Diploma students: INR 25,000 (for one year) Undergraduate students: Up to INR 45,000 (for...",
+    "eligibility": "Open exclusively to meritorious girl students currently enrolled in Classes 9 to 12, Polytechnic Diploma, undergraduate, or postgraduate courses at recognised government schools/colleges/institutions across India. Applicants must have achieved a minimum of...",
+    "benefits": "Selected students will receive financial support as follows: Class 9-12 and Polytechnic Diploma students: INR 25,000 (for one year) Undergraduate students: Up to INR 45,000 (for one year) Post-Graduation students: INR...",
     "key_points": [
-      "Open to female students only",
-      "Applicable for classes 9‑12, UG and PG",
-      "Provides monetary aid and mentorship"
+      "Apply by 2026-10-30"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/aditya-birla-capital-scholarship-for-undergraduate-students-2026-27",
+    "apply_link": "https://forms.buddy4study.com/application/ABCC18/instruction",
     "url": "https://www.buddy4study.com/scholarship/aditya-birla-capital-scholarship-for-undergraduate-students-2026-27"
   },
   {
@@ -1040,14 +1041,14 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "Up to INR 2 lakh",
-    "application_deadline": "2026-09-30",
+    "application_deadline": "2026-10-31",
     "provider": "GEV Scholarship Fund Trust",
     "region": "India",
     "summary": "Selected students will receive scholarships ranging from INR 50,000 to INR 2,00,000 per year.",
     "eligibility": "Students who wish to apply for this scholarship must fulfil the following eligibility criteria: Applicants must be an Indian citizen Student must be already enrolled in any year of an LLB/LLM degree course at a recognized law institute in India, or have...",
     "benefits": "Selected students will receive scholarships ranging from INR 50,000 to INR 2,00,000 per year.",
     "key_points": [
-      "Apply by 2026-09-30"
+      "Apply by 2026-10-31"
     ],
     "apply_link": "https://www.buddy4study.com/application/GMM5/instruction",
     "url": "https://www.buddy4study.com/scholarship/gev-memorial-merit-scholarship-2026-27-for-law-students"
@@ -1098,14 +1099,14 @@
       "max_family_income": 300000
     },
     "scholarship_amount": "INR 30,000 (one-time)",
-    "application_deadline": "2026-09-20",
+    "application_deadline": "2026-09-30",
     "provider": "OakNorth India",
     "region": "India",
     "summary": "A one-time fixed scholarship of INR 30,000 will be awarded to each selected student.",
     "eligibility": "Open to domiciled students of Bihar or Jharkhand . Only female students are eligible to apply. Must be pursuing the first year of a STEM (Science, Technology, Engineering, Mathematics) degree at a government college. The college may be located anywhere in...",
     "benefits": "A one-time fixed scholarship of INR 30,000 will be awarded to each selected student.",
     "key_points": [
-      "Apply by 2026-09-20"
+      "Apply by 2026-09-30"
     ],
     "apply_link": "https://www.buddy4study.com/application/ONSS5/instruction",
     "url": "https://www.buddy4study.com/scholarship/oak-north-scholarship-mentorship-program-2026-27"
@@ -1424,14 +1425,14 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "Up to INR 40,000",
-    "application_deadline": "2026-09-15",
+    "application_deadline": "2026-10-30",
     "provider": "Ujjivan Small Finance Bank Transgender Scholarship",
     "region": "India",
     "summary": "Selected students will receive a one-time scholarship of up to INR 40,000 . Note: Scholarship funds can be utilised for academic-related expenses, including exam fees, admission...",
     "eligibility": "Open to pan-India transgender students pursuing secondary, senior secondary, or undergraduate/postgraduate studies through any government/private open school or open university. A minimum score of 35% in Class 10 and/or Class 12 is required. The...",
     "benefits": "Selected students will receive a one-time scholarship of up to INR 40,000 . Note: Scholarship funds can be utilised for academic-related expenses, including exam fees, admission fees, tuition fees, etc.",
     "key_points": [
-      "Apply by 2026-09-15"
+      "Apply by 2026-10-30"
     ],
     "apply_link": "https://www.buddy4study.com/application/USFB2/instruction",
     "url": "https://www.buddy4study.com/scholarship/ujjivan-scholarship-2026-27"
@@ -2731,7 +2732,7 @@
     "url": "https://www.aicte-india.org/schemes/students-development-schemes/Saksham"
   },
   {
-    "scholarship_name": "Post-Matric Scholarship Scheme for Minorities",
+    "scholarship_name": "Uttar Pradesh Post-Matric Scholarship for General, Minorities, SC, ST, and OBC 2026",
     "category": "Scholarship",
     "tags": {
       "state": "All India",
@@ -2742,27 +2743,26 @@
         "UG",
         "PG",
         "Diploma",
-        "PhD"
+        "PhD",
+        "Class 10"
       ]
     },
     "requirements": {
-      "min_percentage": 50,
+      "min_percentage": 60,
       "max_family_income": 200000
     },
-    "scholarship_amount": "Admission, tuition fee waiver + maintenance allowance up to ₹10,000/yr",
-    "application_deadline": "31-Oct-2026",
-    "provider": "Ministry of Minority Affairs",
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
     "region": "India",
     "summary": "Financial support for meritorious minority community students (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) for higher education.",
     "eligibility": "Students belonging to notified minority communities with >= 50% marks in previous exam and family income <= ₹2.0 Lakh.",
     "benefits": "Admission and tuition fees up to ₹7,000 p.a. and maintenance allowance up to ₹3,800 to ₹10,000 p.a.",
     "key_points": [
-      "30% of scholarships earmarked for female students",
-      "Applicable from Class 11 up to Ph.D.",
-      "Direct DBT credit into student bank account"
+      "Check official link for details"
     ],
     "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.minorityaffairs.gov.in/"
+    "url": "https://www.buddy4study.com/scholarship/postmatric-scholarship-for-general-minorities-sc-st-and-obc-uttar-pradesh"
   },
   {
     "scholarship_name": "Ishan Uday Special Scholarship Scheme for North Eastern Region (NER)",
@@ -4112,7 +4112,7 @@
     "url": "https://www.buddy4study.com/scholarship/lic-golden-jubilee-scholarship"
   },
   {
-    "scholarship_name": "NEXTGEN EDU Scholarship Program 2026-27",
+    "scholarship_name": "NextGen Edu Scholarship 2026-27 (Referrals)",
     "category": "Scholarship",
     "tags": {
       "state": "Delhi",
@@ -4126,17 +4126,17 @@
       "min_percentage": 60,
       "max_family_income": 600000
     },
-    "scholarship_amount": "Support students financially for one academic year",
-    "application_deadline": "2026-09-10",
+    "scholarship_amount": "INR 15,000",
+    "application_deadline": "2026-10-31",
     "provider": "EY GDS",
     "region": "India",
-    "summary": "Selected students will receive a one-time fixed scholarship of INR 15,000 . Note: The scholarship amount can be utilised towards academic expenses including course fees...",
-    "eligibility": "Applicants must be studying in Class 11 at any government or private school in India . Must have secured at least 60% marks or equivalent CGPA in Class 10 . Annual family income of the applicant from all sources must be INR 3 lakh or below . Children of...",
+    "summary": "Scholarship of INR 15,000 towards academic-related expenses, including&mdash;but not limited to&mdash;school fees, exam fees, hostel fees, tuition fees, books and stationery...",
+    "eligibility": "Students studying from Class 11 upto Graduation are eligible to apply. Applicants must be enrolled in any private/government school across India. Candidates must have secured a minimum of 60% in their Class 10. They must have an annual family income of up...",
     "benefits": "Selected students will receive a one-time fixed scholarship of INR 15,000 . Note: The scholarship amount can be utilised towards academic expenses including course fees, academic materials, technology devices...",
     "key_points": [
-      "Apply by 2026-09-10"
+      "Apply by 2026-10-31"
     ],
-    "apply_link": "https://www.buddy4study.com/application/EYGDS15/instruction",
+    "apply_link": "https://forms.buddy4study.com/application/EYGDS16/instruction",
     "url": "https://www.buddy4study.com/scholarship/nextgen-edu-scholarship-2026-27-referrals"
   },
   {
@@ -4704,34 +4704,6 @@
     "url": "https://www.buddy4study.com/scholarship/vocational-education-maintenance-allowance-to-st-students-maharashtra"
   },
   {
-    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG",
-        "Diploma"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "₹50,000 per annum for every year of study",
-    "application_deadline": "2026-10-31",
-    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
-    "region": "India",
-    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
-    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
-  },
-  {
     "scholarship_name": "Max Medical Scholarship Programme 2026",
     "category": "Scholarship",
     "tags": {
@@ -4963,34 +4935,6 @@
     "url": "https://www.buddy4study.com/scholarship/mukhyamantri-graduate-kanya-utthan-yojana-bihar"
   },
   {
-    "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "Female",
-      "class": [
-        "Class 12",
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "Scholarships in the range of INR 6,000 to INR 24,000",
-    "application_deadline": "2026-10-15",
-    "provider": "Buddy4Study India Foundation Scholarship",
-    "region": "India",
-    "summary": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India...",
-    "eligibility": "Open to Indian students studying in Class 11 or 12, and Class 12th pass students (including those who completed Class 12 in the 2025&ndash;26 academic session). Applicants must have secured a minimum of 60% marks or equivalent in the last class attended...",
-    "benefits": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India Foundation",
-    "key_points": [
-      "Apply by 2026-10-15"
-    ],
-    "apply_link": "https://www.buddy4study.com/application/B4SIF1/instruction",
-    "url": "https://www.buddy4study.com/scholarship/b4sif-1"
-  },
-  {
     "scholarship_name": "Santoor Scholarship Program 2026-27",
     "category": "Scholarship",
     "tags": {
@@ -5147,6 +5091,221 @@
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/grant-of-additional-scholarship-to-st-students-for-higher-studies-andaman-and-nicobar-",
     "url": "https://www.buddy4study.com/scholarship/grant-of-additional-scholarship-to-st-students-for-higher-studies-andaman-and-nicobar-"
+  },
+  {
+    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "Diploma"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "₹50,000 per annum for every year of study",
+    "application_deadline": "2026-10-31",
+    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
+    "region": "India",
+    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
+    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
+  },
+  {
+    "scholarship_name": "Siemens Scholarship Program 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/siemens-scholarship-program-2026",
+    "url": "https://www.buddy4study.com/scholarship/siemens-scholarship-program-2026"
+  },
+  {
+    "scholarship_name": "Bharti Airtel Scholarship 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "UG",
+        "PG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "100% of Annual Fee (over course duration)",
+    "application_deadline": "2026-09-30",
+    "provider": "Bharti Airtel Foundation",
+    "region": "India",
+    "summary": "The scholarship covers 100% of the annual fee as per the course fee structure of the respective university/institute. Scholarships are available for the full duration of the UG...",
+    "eligibility": "Confirmed admission or enrollment in the first year (academic year 2026-27) of undergraduate or 5-year integrated courses in fields such as: Electronics and Communication, Telecom, Information Technology, Computer Science, Data Science, Aerospace, and...",
+    "benefits": "The scholarship covers 100% of the annual fee as per the course fee structure of the respective university/institute. Scholarships are available for the full duration of the UG courses, including integrated courses...",
+    "key_points": [
+      "Apply by 2026-09-30"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/BHRSP3/instruction",
+    "url": "https://www.buddy4study.com/scholarship/Bharti-Airtel- Scholarship"
+  },
+  {
+    "scholarship_name": "FSSAI Internship Program 2026 | WIN Variable benefits META KEYWORDS (Main Listing)",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/fssai-internship-program-2026",
+    "url": "https://www.buddy4study.com/scholarship/fssai-internship-program-2026"
+  },
+  {
+    "scholarship_name": "Infocepts Innovate for Impact Scholarship 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "Class 10",
+        "Class 12",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Up to INR 50,000",
+    "application_deadline": "2026-10-30",
+    "provider": "Infocepts Foundation",
+    "region": "India",
+    "summary": "Selected students will receive a scholarship of up to INR 50,000 per academic year for a maximum period of four years , subject to annual renewal, continued eligibility...",
+    "eligibility": "Open to students pursuing undergraduate engineering courses across all four years of study in fields such as Computer Engineering, Information Technology, Artificial Intelligence, Machine Learning, and Data Science & Analytics. Applicants must have secured...",
+    "benefits": "Selected students will receive a scholarship of up to INR 50,000 per academic year for a maximum period of four years , subject to annual renewal, continued eligibility, achieving and maintaining a minimum of 60%...",
+    "key_points": [
+      "Apply by 2026-10-30"
+    ],
+    "apply_link": "https://forms.buddy4study.com/application/INFO3/instruction",
+    "url": "https://www.buddy4study.com/scholarship/infocepts-innovate-for-impact-scholarship-2026-27"
+  },
+  {
+    "scholarship_name": "Post Matric Scholarship for OBC students, Gujarat 2026-27 [Win variable awards]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Gujarat",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/post-metric-scholarship-for-sc-students-gujarat",
+    "url": "https://www.buddy4study.com/scholarship/post-metric-scholarship-for-sc-students-gujarat"
+  },
+  {
+    "scholarship_name": "Maargadeepam Scholarship 2026-27 | [Win ₹1,500 per year]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/maargadeepam-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/maargadeepam-scholarship"
+  },
+  {
+    "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "Class 12",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Scholarships in the range of INR 6,000 to INR 24,000",
+    "application_deadline": "2026-10-15",
+    "provider": "Buddy4Study India Foundation Scholarship",
+    "region": "India",
+    "summary": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India...",
+    "eligibility": "Open to Indian students studying in Class 11 or 12, and Class 12th pass students (including those who completed Class 12 in the 2025&ndash;26 academic session). Applicants must have secured a minimum of 60% marks or equivalent in the last class attended...",
+    "benefits": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India Foundation",
+    "key_points": [
+      "Apply by 2026-10-15"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/B4SIF1/instruction",
+    "url": "https://www.buddy4study.com/scholarship/b4sif-1"
   },
   {
     "scholarship_name": "Tata Capital Pankh Scholarship for Class 11th and 12th Students (2026-27)",

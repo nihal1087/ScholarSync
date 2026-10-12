@@ -307,18 +307,18 @@
       "min_percentage": 60,
       "max_family_income": 250000
     },
-    "scholarship_amount": "An annual scholarship of up to ₹5,250 and other benefits",
-    "application_deadline": "2026-10-06",
-    "provider": "NSP Assam Scholarships",
+    "scholarship_amount": "An annual academic allowance of ₹10,000 and other benefits",
+    "application_deadline": "2026-10-31",
+    "provider": "Himachal Pradesh Scholarships",
     "region": "India",
     "summary": "Selected candidates will receive the following benefits for the duration of 10 months:- Item Day Scholars (in ₹) Hostellers (in ₹) Monthly Annually Monthly Annually Scholarship...",
     "eligibility": "To be eligible, an applicant must:- belong to the Scheduled Tribe (ST) category be a permanent resident/domicile of Himachal Pradesh be studying from Class 11 to the postgraduate level at any recognised institution/university/college not be a beneficiary of...",
     "benefits": "The selected scholars will receive the following components for the complete duration of the course:- 1) Compulsory non-refundable fees, including tuition fees as fixed by the fee fixation/rationalisation committee of...",
     "key_points": [
-      "Apply by 2026-10-06"
+      "Apply by 2026-10-31"
     ],
     "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-sc-students-class-nine-and-ten-assam"
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-dnt-students-himachal-pradesh"
   },
   {
     "scholarship_name": "Inlaks-Attakkalari Dance Studentship 2026 | [Win up to Up to ₹3,00,000]",
@@ -751,17 +751,17 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "Scholarships up to INR 2,00,000 (per year)",
-    "application_deadline": "2026-10-05",
+    "application_deadline": "2026-10-15",
     "provider": "Bajaj Finserv Scholarship Program",
     "region": "India",
     "summary": "Selected students will receive scholarship benefits as per the applicable fee-linked scholarship slabs below: First-Year Fee Fixed Scholarship Amount Per Year for the duration...",
     "eligibility": "The scholarship is open to students who meet the following criteria: Applicants must be enrolled in the first year of a full-time 2-year postgraduate program in: MBA PGDM PGP The program is offered across all management specialisations. Applicants must have...",
     "benefits": "Selected students will receive scholarship benefits as mentioned below: Program Category Scholarship Benefit B.E./B.Tech. INR 2,00,000 per year for the duration of the course M.E./M.Tech. INR 1,50,000 per year for the...",
     "key_points": [
-      "Apply by 2026-10-05"
+      "Apply by 2026-10-15"
     ],
     "apply_link": "https://forms.buddy4study.com/application/BFAS2/instruction",
-    "url": "https://www.buddy4study.com/scholarship/bajaj-finserv-scholarship-program-2026-27-for-technology-students"
+    "url": "https://www.buddy4study.com/scholarship/bajaj-finserv-scholarship-program-2026-27-for-management-students"
   },
   {
     "scholarship_name": "Satya Scholarship Program for Medical Courses 2026",
@@ -1888,7 +1888,7 @@
       "Check official link for details"
     ],
     "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/nsp-prematric-scholarship-for-obc-students-assam"
+    "url": "https://www.buddy4study.com/scholarship/nsp-prematric-scholarship-for-sc-students-class-nine-and-ten-sikkim"
   },
   {
     "scholarship_name": "NSP Post Matric Umbrella Scheme for ST Students, Arunachal Pradesh 2026-27",
@@ -2503,7 +2503,7 @@
     "provider": "Dadra Nagar Haveli and Daman & Diu Scholarships",
     "region": "India",
     "summary": "The eligible students will receive the following awards:- Item Day Scholars Hostellers Scholarship (In ₹ per month for 10 months) 225 525 Books and Ad hoc grant (In ₹ per annum)...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian citizen be a permanent resident of Himachal Pradesh belong to the Scheduled Tribe (ST) category be studying in Class 9 and 10 at a recognised institution have a family income of not more than ₹2,50,000 per...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian citizen be a domicile of Dadra Nagar Haveli or Daman and Diu belong to the Other Backwards Classes (OBC) category be studying full-time in Class 9 or 10 in a government school/institute have a minimum of 75%...",
     "benefits": "Selected candidates will receive the following benefits for the duration of 10 months:- Item Day Scholars (in ₹) Hostellers (in ₹) Monthly Annually Monthly Annually Scholarship for 10 months 225 2,250 525 5,250 Books...",
     "key_points": [
       "Apply by 2026-10-31"
@@ -2586,8 +2586,8 @@
     "key_points": [
       "Check official link for details"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/pm-yasasvi-prematric-scholarship-for-obc-students-manipur",
-    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-prematric-scholarship-for-obc-students-manipur"
+    "apply_link": "https://www.buddy4study.com/scholarship/pm-yasasvi-prematric-scholarship-for-obc-ebc-and-dnt-students-sikkim",
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-prematric-scholarship-for-obc-ebc-and-dnt-students-sikkim"
   },
   {
     "scholarship_name": "NSP Pre-Matric Scholarship Scheme For SC Students (Class 9 & 10), Chandigarh 2026-27 | [Win up to ₹525 per month for 10 months and other...",
@@ -4167,34 +4167,6 @@
     "url": "https://www.buddy4study.com/scholarship/energy4good-student-scholarship-program-2026"
   },
   {
-    "scholarship_name": "PM Yasasvi Pre-Matric Scholarship Scheme for OBC Students (Class 9 & 10), DNHDD 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "Class 10",
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "An annual scholarship of ₹4,000",
-    "application_deadline": "2026-10-31",
-    "provider": "Dadra Nagar Haveli and Daman & Diu Scholarships",
-    "region": "India",
-    "summary": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian citizen be a domicile of Dadra Nagar Haveli or Daman and Diu belong to the Other Backwards Classes (OBC) category be studying full-time in Class 9 or 10 in a government school/institute have a minimum of 75%...",
-    "benefits": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining satisfactory academic performance and a 75%...",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/allschemesdomicile",
-    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-nine-and-ten-dnhdd"
-  },
-  {
     "scholarship_name": "NEET UG Scholarship Interest Form 2026-27",
     "category": "Scholarship",
     "tags": {
@@ -5256,34 +5228,6 @@
     "url": "https://www.buddy4study.com/scholarship/maargadeepam-scholarship"
   },
   {
-    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG",
-        "Diploma"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "₹50,000 per annum for every year of study",
-    "application_deadline": "2026-10-31",
-    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
-    "region": "India",
-    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
-    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
-  },
-  {
     "scholarship_name": "Vidyadhan Mathura Scholarship for Women in STEM 2026",
     "category": "Scholarship",
     "tags": {
@@ -5442,6 +5386,297 @@
     "url": "https://www.buddy4study.com/scholarship/alivus-life-sciences-vigyasa-scholarship-program"
   },
   {
+    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "Diploma"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "₹50,000 per annum for every year of study",
+    "application_deadline": "2026-10-31",
+    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
+    "region": "India",
+    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
+    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
+  },
+  {
+    "scholarship_name": "University of Delhi Financial Support Scheme (FSS) 2025-26 | [Win up to 100% fee waiver]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Delhi",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/university-of-delhi-financial-support-scheme-fss",
+    "url": "https://www.buddy4study.com/scholarship/university-of-delhi-financial-support-scheme-fss"
+  },
+  {
+    "scholarship_name": "Space Lab Winter Internship 2026-27 | [Win certificate, training, pratical internship experience]",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/india-space-lab-winter-internship-technical-training-program",
+    "url": "https://www.buddy4study.com/scholarship/india-space-lab-winter-internship-technical-training-program"
+  },
+  {
+    "scholarship_name": "IIT Bhubaneswar Winter Internship 2026 | [Win variable benefits]",
+    "category": "Internship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/iit-bhubaneswar-winter-internship",
+    "url": "https://www.buddy4study.com/scholarship/iit-bhubaneswar-winter-internship"
+  },
+  {
+    "scholarship_name": "Sitaram Jindal Foundation Scholarship Scheme 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/sitaram-jindal-foundation-scholarship-scheme",
+    "url": "https://www.buddy4study.com/scholarship/sitaram-jindal-foundation-scholarship-scheme"
+  },
+  {
+    "scholarship_name": "NSP Technical Education Scholarship Scheme for Diploma Students, Himachal Pradesh 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Himachal Pradesh",
+      "gender": "Female",
+      "class": [
+        "UG",
+        "PG",
+        "Diploma",
+        "ITI"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Up to ₹250 per month",
+    "application_deadline": "2026-11-15",
+    "provider": "Himachal Pradesh Technical Education Scholarship Schemes",
+    "region": "India",
+    "summary": "The scholarship will be paid at a rate of ₹250 per month per trainee. However, the scholarship amount may be reduced if the trainee receives a stipend from any other government...",
+    "eligibility": "To be eligible, an applicant must:- be domiciled in Himachal Pradesh, or children of a Himachal Pradesh government employee be enrolled in a diploma course in Engineering and Technology (including Architecture) or any other equivalent course approved by the...",
+    "benefits": "The scholarship amount varies depending on the course level and student category: Postgraduate Degree Programs: General Category Students: ₹200 per month Scheduled Caste (SC), Scheduled Tribe (ST), and Antyodaya...",
+    "key_points": [
+      "Apply by 2026-11-15"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/technical-education-scholarships-for-iti-students-himachal-pradesh"
+  },
+  {
+    "scholarship_name": "Pathani Samanta Mathematics Talent Scholarship 2024-25 | [Win Up to ₹5,000 per annum]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pathani-samanta-mathematics-talent-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/pathani-samanta-mathematics-talent-scholarship"
+  },
+  {
+    "scholarship_name": "NSP Opportunity Cost to Parents of SC Girl Students, Puducherry 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Puducherry",
+      "gender": "Female",
+      "class": [
+        "UG",
+        "Class 10",
+        "ITI"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "A monthly stipend of up to ₹170 and ₹300 per month as merit scholarship",
+    "application_deadline": "2026-10-15",
+    "provider": "Puducherry Scholarships",
+    "region": "India",
+    "summary": "The selected candidate will receive a stipend as follows:- Category Amount (in ₹ per month) General 150 Schedule Caste (SC)/Schedule Tribe (ST) 170 The selected students will...",
+    "eligibility": "To be eligible, an applicant must:- be a domicile of Puducherry for not less than 5 years be a female student belong to the Scheduled Caste (SC) category be studying in Classes 1 to 5 at a recognised institution of the state have an annual family income of...",
+    "benefits": "The selected candidate will receive a stipend as follows:- Category Amount (in ₹ per month) General 150 Schedule Caste (SC)/Schedule Tribe (ST) 170 The selected students will also receive ₹300 as a merit scholarship.",
+    "key_points": [
+      "Apply by 2026-10-15"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/pre-matric-scholarship-for-st-students-puducherry"
+  },
+  {
+    "scholarship_name": "NSP National Scholarship for Post Graduate Studies 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "PG",
+        "Class 12"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "₹8,000 per month for 10 months in a year",
+    "application_deadline": "2026-10-31",
+    "provider": "NSP University Grants Commission (UGC) Scholarships 2024-25",
+    "region": "India",
+    "summary": "Up to 10,000 selected candidates will receive a stipend of ₹8,000 per month for a duration of 10 months, amounting to ₹80,000 annually. Note: The scholarship amount will be...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian national be enrolled in the first year of a postgraduate degree program at a recognised university/college/institution in India be below 30 years of age as of the admission date have an annual family income...",
+    "benefits": "Up to 10,000 selected candidates will receive a stipend of ₹8,000 per month for a duration of 10 months, amounting to ₹80,000 annually. Note: The scholarship amount will be disbursed through the Direct Benefit...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.buddy4study.com/scholarship/national-scholarship-for-post-graduate-studies"
+  },
+  {
+    "scholarship_name": "Karnataka SSP Hosteller Maintenance Scheme (SWD), 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Karnataka",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/karnataka-ssp-hosteller-maintenance-scheme-swd",
+    "url": "https://www.buddy4study.com/scholarship/karnataka-ssp-hosteller-maintenance-scheme-swd"
+  },
+  {
+    "scholarship_name": "Karnataka SSP Management & NRI Tuition Reimbursement (SWD), 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Karnataka",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/karnataka-ssp-management-nri-tuition-reimbursement-swd",
+    "url": "https://www.buddy4study.com/scholarship/karnataka-ssp-management-nri-tuition-reimbursement-swd"
+  },
+  {
     "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",
     "category": "Scholarship",
     "tags": {
@@ -5468,6 +5703,34 @@
     ],
     "apply_link": "https://www.buddy4study.com/application/B4SIF1/instruction",
     "url": "https://www.buddy4study.com/scholarship/b4sif-1"
+  },
+  {
+    "scholarship_name": "PM Yasasvi Pre-Matric Scholarship Scheme for OBC Students (Class 9 & 10), DNHDD 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "Class 10",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "An annual scholarship of ₹4,000",
+    "application_deadline": "2026-10-31",
+    "provider": "Dadra Nagar Haveli and Daman & Diu Scholarships",
+    "region": "India",
+    "summary": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining...",
+    "eligibility": "To be eligible, an applicant must:- be an Indian citizen be a domicile of Dadra Nagar Haveli or Daman and Diu belong to the Other Backwards Classes (OBC) category be studying full-time in Class 9 or 10 in a government school/institute have a minimum of 75%...",
+    "benefits": "Selected candidates will receive a scholarship of ₹4,000 per annum. Note:- The scholarship will be awarded until the candidate passes Class 10, subject to maintaining satisfactory academic performance and a 75%...",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://scholarships.gov.in/allschemesdomicile",
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-nine-and-ten-dnhdd"
   },
   {
     "scholarship_name": "Tata Capital Pankh Scholarship for Class 11th and 12th Students (2026-27)",

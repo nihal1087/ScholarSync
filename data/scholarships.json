@@ -2690,17 +2690,19 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "₹50,000 per annum",
-    "application_deadline": "2026-10-31",
-    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
+    "application_deadline": "30-Nov-2026",
+    "provider": "All India Council for Technical Education (AICTE)",
     "region": "India",
     "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
     "eligibility": "To be eligible, an applicant must:- be an Indian national belong to a specially-abled category with a benchmark disability of not less than 40% Be admitted to the first or second year (through lateral entry) of a degree/diploma program in a current-year...",
     "benefits": "A total of 10,000 scholarships are available each year, with 5,000 awarded for diploma programs and 5,000 for degree programs. Selected students will receive a one-time scholarship of ₹50,000 per year for each year of...",
     "key_points": [
-      "Apply by 2026-10-31"
+      "Exclusively for female students in technical education",
+      "Up to 10,000 scholarships awarded annually across India",
+      "Applied via National Scholarship Portal (NSP)"
     ],
     "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati"
   },
   {
     "scholarship_name": "AICTE Saksham Scholarship Scheme for Specially-Abled Students",
@@ -3545,8 +3547,8 @@
     "key_points": [
       "Check official link for details"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/centrally-sponsored-post-matric-scholarship-for-sc-students-chandigarh",
-    "url": "https://www.buddy4study.com/scholarship/centrally-sponsored-post-matric-scholarship-for-sc-students-chandigarh"
+    "apply_link": "https://www.buddy4study.com/scholarship/centrally-sponsored-post-matric-scholarship-for-st-students-andaman-and-nicobar-",
+    "url": "https://www.buddy4study.com/scholarship/centrally-sponsored-post-matric-scholarship-for-st-students-andaman-and-nicobar-"
   },
   {
     "scholarship_name": "NSP Post-Matric Scholarship for OBC Students, Assam 2026-27 | [Win a scholarship up to ₹20,000 and other benefits]",
@@ -3771,14 +3773,14 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "Scholarship of INR 30,000",
-    "application_deadline": "2026-10-21",
+    "application_deadline": "2026-11-01",
     "provider": "SML Mahindra Scholarship Program",
     "region": "India",
     "summary": "Selected students will receive a scholarship of INR 30,000 for UG, Diploma, or Polytechnic Students under the SML Unnati Scholarship.",
     "eligibility": "Open to girl students pursuing an undergraduate degree, diploma, or polytechnic programs (any year) in STEM disciplines and core engineering fields, at recognised institutions across India. The applicant must be the daughter of a driver of a heavy or light...",
     "benefits": "Selected students will receive a scholarship of INR 30,000 for UG, Diploma, or Polytechnic Students under the SML Unnati Scholarship.",
     "key_points": [
-      "Apply by 2026-10-21"
+      "Apply by 2026-11-01"
     ],
     "apply_link": "https://forms.buddy4study.com/application/SMLS2/instruction",
     "url": "https://www.buddy4study.com/scholarship/sml-saarthi-scholarship-2026-27"
@@ -4841,7 +4843,8 @@
       "state": "All India",
       "gender": "Female",
       "class": [
-        "UG"
+        "UG",
+        "Class 12"
       ]
     },
     "requirements": {
@@ -4850,10 +4853,10 @@
     },
     "scholarship_amount": "INR 65,000 per year for the duration of the course",
     "application_deadline": "2026-10-30",
-    "provider": "Concentrix Scholarship Program",
+    "provider": "Winnie Sun Scholarship Program",
     "region": "India",
-    "summary": "Selected students will receive scholarships of up to INR 65,000 per year for the duration of the course . Note: The scholarship will cover essential education-related expenses...",
-    "eligibility": "Open to Pan-India female students currently enrolled in the first year of the MBBS program at a government medical college . Applicants must have successfully completed their Grade 12 board examination. The annual parental income of the applicant must not...",
+    "summary": "Selected students will receive scholarships of up to INR 65,000 per year for the entire duration of their MBBS course, up to 5 years. Note: The scholarship will cover essential...",
+    "eligibility": "The scholarship is open to girl MBBS aspirants. Applicants must be currently enrolled in the first year of an MBBS programme at a recognised medical college in India. Applicants must have successfully completed their Class 12 board examinations. The annual...",
     "benefits": "Selected students will receive scholarships of up to INR 65,000 per year for the duration of the course . Note: The scholarship will cover essential education-related expenses, including institution fees, examination...",
     "key_points": [
       "Apply by 2026-10-30"
@@ -5144,8 +5147,8 @@
     "key_points": [
       "Check official link for details"
     ],
-    "apply_link": "https://www.buddy4study.com/scholarship/fssai-internship-program-2026",
-    "url": "https://www.buddy4study.com/scholarship/fssai-internship-program-2026"
+    "apply_link": "https://www.buddy4study.com/scholarship/pvpi-internship-programme-2026",
+    "url": "https://www.buddy4study.com/scholarship/pvpi-internship-programme-2026"
   },
   {
     "scholarship_name": "Infocepts Innovate for Impact Scholarship 2026-27",
@@ -5244,14 +5247,14 @@
       "max_family_income": 600000
     },
     "scholarship_amount": "Scholarships of up to INR 75,000 per year",
-    "application_deadline": "2026-10-25",
+    "application_deadline": "2026-11-15",
     "provider": "Vidyadhan Mathura Scholarship for Women in STEM",
     "region": "India",
     "summary": "Selected students will receive scholarships of up to INR 75,000 per year for the duration of the course , subject to satisfactory academic performance. Note: The scholarship...",
     "eligibility": "Open to female students who are residents of Mathura District, UP, pursuing STEM courses such as MBBS, Engineering, B.Sc., or other STEM programmes in Mathura District or outside the district across India. The scholarship is also open to female students who...",
     "benefits": "Selected students will receive scholarships of up to INR 75,000 per year for the duration of the course , subject to satisfactory academic performance. Note: The scholarship will cover essential education-related...",
     "key_points": [
-      "Apply by 2026-10-25"
+      "Apply by 2026-11-15"
     ],
     "apply_link": "https://www.vidyadhan.org/apply",
     "url": "https://www.buddy4study.com/scholarship/vidyadhan-mathura-scholarship-for-women-in-stem-2026"
@@ -5652,34 +5655,6 @@
     "url": "https://www.buddy4study.com/scholarship/karnataka-ssp-management-nri-tuition-reimbursement-swd"
   },
   {
-    "scholarship_name": "AICTE Swanath Scholarship Scheme 2026-27",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "All",
-      "class": [
-        "UG",
-        "Diploma"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "₹50,000 per annum for every year of study",
-    "application_deadline": "2026-10-31",
-    "provider": "All India Council For Technical Education (AICTE) Scholarships 2026-27",
-    "region": "India",
-    "summary": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This...",
-    "eligibility": "To be eligible, an applicant must:- be an Indian national be a ward impacted by COVID-19 (i.e., lost one or both parents due to COVID-19) or a ward of Armed Forces and Central Paramilitary Forces personnel martyred in action (Shaheed) or a ward of a PwD...",
-    "benefits": "Selected candidates will receive a lump sum of ₹50,000 per year through the DBT mode to cover college fees, computer purchases, stationery, books, equipment, software, etc. This amount is for the entire year of study...",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://scholarships.gov.in/",
-    "url": "https://www.buddy4study.com/scholarship/aicte-swanath-scholarship-scheme-technical-diploma-degree"
-  },
-  {
     "scholarship_name": "Colgate Keep India Smiling Scholarship for BDS Students 2026-27",
     "category": "Scholarship",
     "tags": {
@@ -5818,7 +5793,7 @@
     "category": "Scholarship",
     "tags": {
       "state": "Karnataka",
-      "gender": "All",
+      "gender": "Female",
       "class": [
         "PG"
       ]
@@ -5966,34 +5941,6 @@
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/ayush-stipend-incentive-karnataka",
     "url": "https://www.buddy4study.com/scholarship/ayush-stipend-incentive-karnataka"
-  },
-  {
-    "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",
-    "category": "Scholarship",
-    "tags": {
-      "state": "All India",
-      "gender": "Female",
-      "class": [
-        "Class 12",
-        "UG"
-      ]
-    },
-    "requirements": {
-      "min_percentage": 60,
-      "max_family_income": 600000
-    },
-    "scholarship_amount": "Scholarships in the range of INR 6,000 to INR 24,000",
-    "application_deadline": "2026-10-31",
-    "provider": "Buddy4Study India Foundation Scholarship",
-    "region": "India",
-    "summary": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India...",
-    "eligibility": "Open to Indian students studying in Class 11 or 12, and Class 12th pass students (including those who completed Class 12 in the 2025&ndash;26 academic session). Applicants must have secured a minimum of 60% marks or equivalent in the last class attended...",
-    "benefits": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India Foundation",
-    "key_points": [
-      "Apply by 2026-10-31"
-    ],
-    "apply_link": "https://www.buddy4study.com/application/B4SIF1/instruction",
-    "url": "https://www.buddy4study.com/scholarship/b4sif-3"
   },
   {
     "scholarship_name": "Oasis Post Matric Scholarships for SC/ST Students 2026-27",
@@ -6324,6 +6271,369 @@
     ],
     "apply_link": "https://www.buddy4study.com/scholarship/sakal-india-foundation-career-development-scholarship",
     "url": "https://www.buddy4study.com/scholarship/sakal-india-foundation-career-development-scholarship"
+  },
+  {
+    "scholarship_name": "AICTE Swanath Scholarship Scheme",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "UG",
+        "Diploma"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 50,
+      "max_family_income": 800000
+    },
+    "scholarship_amount": "₹50,000 per annum",
+    "application_deadline": "30-Nov-2026",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "region": "India",
+    "summary": "Provides financial aid to orphans, wards of parents who died due to Covid-19, and wards of Armed Forces personnel martyred in action pursuing technical education.",
+    "eligibility": "Orphan students, Covid-19 affected students, or wards of martyred Armed Forces personnel admitted to AICTE approved degree/diploma courses with family income <= ₹8 Lakh.",
+    "benefits": "₹50,000 per annum towards tuition and incidental charges.",
+    "key_points": [
+      "2,000 scholarships available annually (1000 Degree + 1000 Diploma)",
+      "Requires relevant certificate (Death certificate / Martyr certificate)",
+      "Applied through National Scholarship Portal"
+    ],
+    "apply_link": "https://scholarships.gov.in/",
+    "url": "https://www.aicte-india.org/schemes/students-development-schemes/Swanath"
+  },
+  {
+    "scholarship_name": "Vikash Educational Charitable Trust Scholarship 2026–27 | Financial assistance",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/vikash-educational-charitable-trust-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/vikash-educational-charitable-trust-scholarship"
+  },
+  {
+    "scholarship_name": "Pratiksha Trust Scholarship 2026–27 | Win Up to ₹60,000 per Year",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pratiksha-trust-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/pratiksha-trust-scholarship"
+  },
+  {
+    "scholarship_name": "North South Foundation India Scholarship 2026–27 | Win Up to ₹30,000 per Year",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/north-south-foundation-india-scholarship",
+    "url": "https://www.buddy4study.com/scholarship/north-south-foundation-india-scholarship"
+  },
+  {
+    "scholarship_name": "Indic AI Scholarship Program CUET 2027",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": [
+        "Class 12",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Selected students will receive a 100% scholarship for CLAT preparation.",
+    "application_deadline": "2026-11-30",
+    "provider": "Indic AI Scholarship Program",
+    "region": "India",
+    "summary": "Selected students will receive a 100% scholarship for CUET preparation .",
+    "eligibility": "Students with disabilities who are currently studying in Class 11 or Class 12. Students aspiring to pursue an undergraduate Law degree through CLAT after their schooling. Students must hold a valid UDID (Unique Disability ID) card. Program Details: Duration...",
+    "benefits": "Selected students will receive a 100% scholarship for CUET preparation .",
+    "key_points": [
+      "Apply by 2026-11-30"
+    ],
+    "apply_link": "https://forms.buddy4study.com/application/IASP5/instruction",
+    "url": "https://www.buddy4study.com/scholarship/indic-ai-scholarship-program-2026-27"
+  },
+  {
+    "scholarship_name": "Mina Swaminathan Media Fellowship 2027 | Win ₹60,000",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/mina-swaminathan-media-fellowship-2027",
+    "url": "https://www.buddy4study.com/scholarship/mina-swaminathan-media-fellowship-2027"
+  },
+  {
+    "scholarship_name": "ITC Fee Reimbursement Scholarship, Kerala 2026-27",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Kerala",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/itc-fee-reimbursement-scholarship-kerala",
+    "url": "https://www.buddy4study.com/scholarship/itc-fee-reimbursement-scholarship-kerala"
+  },
+  {
+    "scholarship_name": "PM YASASVI Post-Matric Scholarship Scheme For OBC, EBC, And DNT Students, Haryana 2026-27 | [Win academic allowances and other benefits]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Haryana",
+      "gender": "All",
+      "class": [
+        "Class 10"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/pm-yasasvi-postmatric-scholarship-scheme-for-obc-ebc-and-dnt-students-haryana",
+    "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-postmatric-scholarship-scheme-for-obc-ebc-and-dnt-students-haryana"
+  },
+  {
+    "scholarship_name": "MOPGA Visiting Fellowship 2027 | Monthly allowance of €2,500 and other benefits",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/mopga-visiting-fellowship",
+    "url": "https://www.buddy4study.com/scholarship/mopga-visiting-fellowship"
+  },
+  {
+    "scholarship_name": "Global Lawyers Fellowship 2026",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/global-lawyers-fellowship",
+    "url": "https://www.buddy4study.com/scholarship/global-lawyers-fellowship"
+  },
+  {
+    "scholarship_name": "Vadaanya Talent Test 2026",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/vadaanya-talent-test",
+    "url": "https://www.buddy4study.com/scholarship/vadaanya-talent-test"
+  },
+  {
+    "scholarship_name": "Focus Area Science Technology Summer Fellowship 2027 [Win multiple awards]",
+    "category": "Fellowship",
+    "tags": {
+      "state": "All India",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/focus-area-science-technology-summer-fellowship",
+    "url": "https://www.buddy4study.com/scholarship/focus-area-science-technology-summer-fellowship"
+  },
+  {
+    "scholarship_name": "CA/ICWA/CS Scholarship (IWCS), Kerala 2026-27 | [Win ₹15,000 per annum]",
+    "category": "Scholarship",
+    "tags": {
+      "state": "Kerala",
+      "gender": "All",
+      "class": []
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Variable",
+    "application_deadline": "Open",
+    "provider": "Buddy4Study",
+    "region": "India",
+    "summary": "",
+    "eligibility": "",
+    "benefits": "",
+    "key_points": [
+      "Check official link for details"
+    ],
+    "apply_link": "https://www.buddy4study.com/scholarship/ca-icwa-cs-scholarship-iwcs-kerala",
+    "url": "https://www.buddy4study.com/scholarship/ca-icwa-cs-scholarship-iwcs-kerala"
+  },
+  {
+    "scholarship_name": "Buddy4Study India Foundation Scholarship for Class 11 & 12 students",
+    "category": "Scholarship",
+    "tags": {
+      "state": "All India",
+      "gender": "Female",
+      "class": [
+        "Class 12",
+        "UG"
+      ]
+    },
+    "requirements": {
+      "min_percentage": 60,
+      "max_family_income": 600000
+    },
+    "scholarship_amount": "Scholarships in the range of INR 6,000 to INR 24,000",
+    "application_deadline": "2026-10-31",
+    "provider": "Buddy4Study India Foundation Scholarship",
+    "region": "India",
+    "summary": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India...",
+    "eligibility": "Open to Indian students studying in Class 11 or 12, and Class 12th pass students (including those who completed Class 12 in the 2025&ndash;26 academic session). Applicants must have secured a minimum of 60% marks or equivalent in the last class attended...",
+    "benefits": "Scholarships in the range of INR 6,000 - INR 24,000 Automatic application submission assistance for other matching scholarship programmes implemented by Buddy4Study India Foundation",
+    "key_points": [
+      "Apply by 2026-10-31"
+    ],
+    "apply_link": "https://www.buddy4study.com/application/B4SIF1/instruction",
+    "url": "https://www.buddy4study.com/scholarship/b4sif-3"
   },
   {
     "scholarship_name": "PM Yasasvi Pre-Matric Scholarship Scheme for OBC Students (Class 9 & 10), DNHDD 2026-27",
